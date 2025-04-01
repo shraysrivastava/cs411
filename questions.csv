@@ -1,0 +1,1260 @@
+question_id,question_text,correct_answer,option1,option2,option3,category_id,difficulty
+1,Who did Steven Gerrard win the Champions League with?,Liverpool,Liverpool,Real Madrid,Chelsea,1,easy
+2,What is the highest belt you can get in Taekwondo?,Black,Black,White,Red,1,medium
+3,Josh Mansour is part of what NRL team?,Penrith Panthers,Melbourne Storm,Sydney Roosters,North Queensland Cowboys,1,medium
+4,What cricketing term denotes a batsman being dismissed with a score of zero?,Duck,Bye,Beamer,Duck,1,medium
+5,"Who is often called ""the Maestro"" in the men's tennis circuit?",Roger Federer,Bill Tilden,Roger Federer,Boris Becker,1,easy
+6,Which city features all of their professional sports teams' jersey's with the same color scheme?,Pittsburgh,New York,Seattle,Tampa Bay,1,hard
+7,"In what sport is a ""shuttlecock"" used?",Badminton,Table Tennis,Rugby,Badminton,1,easy
+8,With which doubles partner did John McEnroe have most success?,Peter Fleming,Peter Fleming,Mark Woodforde,Michael Stich,1,hard
+9,What team did England beat in the semi-final stage to win in the 1966 World Cup final?,Portugal,West Germany,Soviet Union,Portugal,1,hard
+10,Which soccer team won the Copa América Centenario 2016?,Chile,Argentina,Brazil,Chile,1,medium
+11,Which African American is in part responsible for integrating  Major League baseball?,Jackie Robinson,Curt Flood,Roy Campanella,Satchell Paige,1,easy
+12,How many times did Martina Navratilova win the Wimbledon Singles Championship?,Nine,Ten,Nine,Seven,1,hard
+13,What is “The Sport of Kings”?,Horse Racing,Chess,Horse Racing,Jousting,1,hard
+14,Who won the 2016 Formula 1 World Driver's Championship?,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Max Verstappen,1,easy
+15,Where was the Games of the XXII Olympiad held?,Moscow,Barcelona,Moscow,Tokyo,1,hard
+16,Who was the topscorer for England national football team?,Wayne Rooney,Wayne Rooney,David Beckham,Steven Gerrard,1,medium
+17,Which year did Jenson Button won his first ever Formula One World Drivers' Championship?,2009,2010,2007,2009,1,easy
+18,Who won the 2011 Stanley Cup?,Boston Bruins,Montreal Canadiens,New York Rangers,Toronto Maple Leafs,1,medium
+19,Which driver has been the Formula 1 world champion for a record 7 times?,Michael Schumacher,Ayrton Senna,Fernando Alonso,Jim Clark,1,easy
+20,Which of the following player scored a hat-trick during their Manchester United debut?,Wayne Rooney,Wayne Rooney,Cristiano Ronaldo,Robin Van Persie,1,medium
+21,A stimpmeter measures the speed of a ball over what surface?,Golf Putting Green,Football Pitch,Golf Putting Green,Cricket Outfield,1,medium
+22,The Los Angeles Dodgers were originally from what U.S. city?,Brooklyn,Las Vegas,Brooklyn,Boston,1,easy
+23,Who won the premier league title in the 2015-2016 season following a fairy tale run?,Leicester City,Tottenham Hotspur,Leicester City,Watford,1,easy
+24,Which two teams played in Super Bowl XLII?,The New York Giants & The New England Patriots,The Green Bay Packers & The Pittsburgh Steelers,The Philadelphia Eagles & The New England Patriots,The Seattle Seahawks & The Denver Broncos,1,easy
+25,Which NFL team plays for New England?,Patriots,Chiefs,Dolphins,49ers,1,easy
+26,Which Formula 1 driver switched teams in the middle of the 2017 season?,Carlos Sainz Jr.,Daniil Kvyat,Jolyon Palmer,Carlos Sainz Jr.,1,medium
+27,"In bowling, what is the term used for getting three consecutive strikes?",Turkey,Turkey,Flamingo,Birdie,1,easy
+28,What national team won the 2016 edition of UEFA European Championship?,Portugal,France,Portugal,Germany,1,medium
+29,"In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",Jules Bianchi,Ayrton Senna,Jules Bianchi,Ronald Ratzenberger,1,medium
+30,The Rio 2016 Summer Olympics held it's closing ceremony on what date?,August 21,August 21,August 23,August 19,1,easy
+31,How many points did LeBron James score in his first NBA game?,25,19,69,25,1,easy
+32,Which country hosted the 2022 FIFA World Cup?,Qatar,USA,Japan,Qatar,1,easy
+33,"This Canadian television sportscaster is known for his ""Hockey Night in Canada"" role, a commentary show during hockey games.",Don Cherry,Don McKellar,Don Cherry,Don Taylor,1,easy
+34,"Which player holds the NHL record of 2,857 points?",Wayne Gretzky,Mario Lemieux,Wayne Gretzky,Sidney Crosby,1,easy
+35,Which English football team is nicknamed 'The Tigers'?,Hull City,Cardiff City,Bristol City,Manchester City,1,hard
+36,How many soccer players should be on the field at the same time?,22,20,24,26,1,easy
+37,What is the name of Manchester United's home stadium?,Old Trafford,Anfield,City of Manchester Stadium,Old Trafford,1,easy
+38,Which team won 2014 FIFA World Cup in Brazil?,Germany,Argentina,Brazil,Netherlands,1,easy
+39,When was the FC Schalke 04 founded?,1904,1909,1904,2008,1,easy
+40,Who was the top scorer of the 2014 FIFA World Cup?,James Rodríguez,Thomas Müller,Lionel Messi,Neymar,1,medium
+41,Which car manufacturer won the 2017 24 Hours of Le Mans?,Porsche,Toyota,Audi,Chevrolet,1,medium
+42,When was the first official international game played?,1872,1880,1863,1872,1,easy
+43,Which country hosted the 2018 FIFA World Cup?,Russia,Germany,Russia,United States,1,easy
+44,"In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",4,1,2,4,1,easy
+45,Which year was the third Super Bowl held?,1969,1968,1971,1969,1,hard
+46,"Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",Pelle,Insigne,Barzagli,Pelle,1,hard
+48,"Who won the ""Champions League"" in 1999?",Manchester United,Manchester United,Barcelona,Bayern Munich,1,medium
+49,Which country hosted the 2020 Summer Olympics?,Japan,China,Australia,Japan,1,easy
+50,"In baseball, how many fouls are an out?",0,0,5,3,1,easy
+51,"Which country did Kabaddi, a contact sport involving tackling, originate from?",India,India,Australia,Turkey,1,medium
+52,Which team was the 2015-2016 NBA Champions?,Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,Toronto Raptors,1,medium
+54,What is the exact length of one non-curved part in Lane 1 of an Olympic Track?,84.39m,84.39m,100m,100yd,1,medium
+55,Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?,Tunisia,United States of America,Tunisia,Italy,1,medium
+56,Why was The Green Monster at Fenway Park was originally built?,To prevent viewing games from outside the park.,To make getting home runs harder.,To display advertisements.,To prevent viewing games from outside the park.,1,medium
+58,What tool lends it's name to a last-stone advantage in an end in Curling?,Hammer,Hammer,Wrench,Drill,1,hard
+59,"The song ""Three Lions"" by the Lightning Seeds was made for which major football event in 1996?",European Championships,World Cup,Champions League,European Championships,1,medium
+60,"What is the full name of the footballer ""Cristiano Ronaldo""?",Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo los Santos Diego,Cristiano Armando Diego Ronaldo,Cristiano Luis Armando Ronaldo,1,hard
+61,"In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",1-7,1-5,1-6,2-6,1,easy
+62,"Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",Mazda,Toyota,Mazda,Subaru,1,hard
+63,Which English football club has the nickname 'The Foxes'?,Leicester City,Leicester City,Northampton Town,Bradford City,1,easy
+64,Which female player won the gold medal of table tennis singles in 2016 Olympics Games?,DING Ning (China),LI Xiaoxia (China),Ai FUKUHARA (Japan),DING Ning (China),1,hard
+66,Which country won the 2018 FIFA World Cup hosted in Russia?,France,Croatia,Belgium,France,1,easy
+73,How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?,13,11,13,20,1,medium
+74,In what sport does Fanny Chmelar compete for Germany?,Skiing,Swimming,Skiing,Showjumping,1,medium
+76,The AHL affiliate team of the Boston Bruins is named what?,Providence Bruins,New Haven Bruins,Cambridge Bruins,Hartford Bruins,1,hard
+77,What is Tiger Woods' all-time best career golf-score?,61,65,63,61,1,medium
+78,Which team was the 2014-2015 NBA Champions?,Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,Houston Rockets,1,medium
+80,Which of the following pitchers was named National League Rookie of the Year for the 2013 season?,Jose Fernandez,Jose Fernandez,Jacob deGrom,Shelby Miller,1,medium
+81,What year did the New Orleans Saints win the Super Bowl?,2010,2010,2008,2009,1,easy
+83,Which Formula One driver was nicknamed 'The Professor'?,Alain Prost,Alain Prost,Ayrton Senna,Niki Lauda,1,medium
+84,"""Stadium of Light"" is the home stadium for which soccer team?",Sunderland FC,Barcelona FC,Paris Saints-Germain,Sunderland FC,1,easy
+85,What is the name of the AHL affiliate of the Toronto Maple Leafs?,Toronto Marlies,Toronto Rock,Toronto Argonauts,Toronto Marlies,1,medium
+86,"In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",Mercedes-AMG Petronas,Mercedes-AMG Petronas,Scuderia Ferrari,McLaren Honda,1,medium
+87,What is the oldest team in Major League Baseball?,Atlanta Braves,Chicago Cubs,Atlanta Braves,Cincinnati Reds,1,medium
+88,What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?,7 - 1,0 - 1,3 - 4,7 - 1,1,easy
+90,Which wrestler won the 2019 Men’s Royal Rumble?,Seth Rollins,Braun Strowman,AJ Styles,Seth Rollins,1,easy
+92,Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?,Ole Gunnar Solskjær,Ole Gunnar Solskjær,Dwight Yorke,Andy Cole,1,hard
+95,Who is Manchester United's leading appearance maker?,Ryan Giggs,Ryan Giggs,David Beckham,Wayne Rooney,1,hard
+99,"Which of these teams isn't a member of the NHL's ""Original Six"" era?",Philadelphia Flyers,New York Rangers,Toronto Maple Leafs,Boston Bruins,1,medium
+101,At which bridge does the annual Oxford and Cambridge boat race start?,Putney,Hammersmith,Putney,Vauxhall,1,medium
+102,What team won the 2016 MLS Cup?,Seattle Sounders,Colorado Rapids,Seattle Sounders,Toronto FC,1,easy
+103,Who is Manchester United's top premier league goal scorer?,Wayne Rooney,Sir Bobby Charlton,Ryan Giggs,Wayne Rooney,1,medium
+104,Which portuguese island is soccer player Cristiano Ronaldo from?,Madeira,Madeira,Terceira,Santa Maria,1,medium
+106,Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?,Vladivostok,Rostov-on-Don,Yekaterinburg,Vladivostok,1,hard
+110,What is the nickname of Northampton town's rugby union club?,Saints,Harlequins,Saints,Saracens,1,medium
+116,"Which player ""kung-fu kicked"" a Crystal Palace fan in January 1995?",Eric Cantona,David Seamen,Ashley Cole,Mark Hughes,1,hard
+120,Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?,Owen Hart,Chris Benoit,Lex Luger,Owen Hart,1,medium
+122,"In a game of snooker, what colour ball is worth 3 points?",Green,Yellow,Brown,Blue,1,medium
+123,"In golf, what name is given to a hole score of two under par?",Eagle,Eagle,Birdie,Bogey,1,easy
+125,Which male player won the gold medal of table tennis singles in 2016 Olympics Games?,Ma Long (China),Zhang Jike (China),Ma Long (China),Jun Mizutani (Japan),1,hard
+127,Which of the following Grand Slam tennis tournaments occurs LAST?,US Open,French Open,US Open,Wimbledon,1,medium
+129,Which country is hosting the 2022 FIFA World Cup?,Qatar,Uganda,Vietnam,Qatar,1,medium
+133,With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?,Jordan,Benetton,Ferrari,Jordan,1,medium
+134,Who won the UEFA Champions League in 2017?,Real Madrid C.F.,Real Madrid C.F.,Atletico Madrid,AS Monaco FC,1,easy
+136,How many French Open's did Björn Borg win?,6,4,9,6,1,medium
+137,Who won the UEFA Champions League in 2016?,Real Madrid C.F.,Real Madrid C.F.,FC Bayern Munich,Atletico Madrid,1,easy
+146,What was Sir Donald Bradman's batting average in test matches?,99.94,100,99.94,69.51,1,medium
+148,Which nation hosted the FIFA World Cup in 2006?,Germany,United Kingdom,Brazil,South Africa,1,medium
+150,Which sport is NOT traditionally played during the Mongolian Naadam festival?,American Football,American Football,Wrestling,Archery,1,medium
+154,Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?,Mike Tyson,Roy Jones Jr.,Evander Holyfield,Lennox Lewis,1,easy
+156,How many scoring zones are there on a conventional dart board?,82,62,42,82,1,medium
+158,"Which city did the former NHL team ""The Nordiques"" originiate from?",Quebec City,Houston,Montreal,New York,1,easy
+162,Who won the 2015 Formula 1 World Championship?,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,Lewis Hamilton,1,easy
+163,What is the oldest team in the NFL?,Arizona Cardinals,Chicago Bears,Green Bay Packers,Arizona Cardinals,1,medium
+168,"In Canadian football, scoring a rouge is worth how many points?",1,2,1,3,1,hard
+170,What team did England beat to win in the 1966 World Cup final?,West Germany,Soviet Union,Portugal,West Germany,1,easy
+171,The Mazda 787B won the 24 Hours of Le Mans in what year?,1991,1990,2000,1991,1,hard
+172,Which NBA player has the most games played over the course of their career?,Robert Parish,Kareem Abdul-Jabbar,Robert Parish,Kevin Garnett,1,medium
+173,Which of the following sports is not part of the triathlon?,Horse-Riding,Cycling,Swimming,Horse-Riding,1,easy
+176,Which team won the 2015-16 English Premier League?,Leicester City,Liverpool,Leicester City,Cheslea,1,easy
+180,What is the most common type of pitch thrown by pitchers in baseball?,Fastball,Slowball,Screwball,Fastball,1,easy
+184,How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League,38,51,38,49,1,medium
+198,Who won the 2017 Formula One World Drivers' Championship?,Lewis Hamilton,Sebastian Vettel,Nico Rosberg,Lewis Hamilton,1,easy
+200,The F1 season of 1994 is remembered for what tragic event?,Death of Ayrton Senna (San Marino),The Showdown (Australia),Verstappen on Fire (Germany),Schumacher's Ban (Britain),1,medium
+202,Who won the 2015 College Football Playoff (CFP) National Championship?,Ohio State Buckeyes,Ohio State Buckeyes,Alabama Crimson Tide,Clemson Tigers,1,medium
+215,Who won the 2018 Monaco Grand Prix?,Daniel Ricciardo,Sebastian Vettel,Kimi Raikkonen,Lewis Hamilton,1,medium
+223,Which soccer team won the Copa América 2015 Championship ?,Chile,Argentina,Brazil,Chile,1,medium
+299,Which NBA player won Most Valuable Player for the 1999-2000 season?,Shaquille O'Neal,Allen Iverson,Kobe Bryant,Shaquille O'Neal,1,medium
+313,Which basketball team has attended the most NBA grand finals?,Los Angeles Lakers,Boston Celtics,Philadelphia 76ers,Los Angeles Lakers,1,medium
+314,What country hosted the 2014 Winter Olympics?,Russia,Russia,Canada,United States,1,medium
+324,What year was hockey legend Wayne Gretzky born?,1961,1965,1959,1961,1,medium
+352,Which car manufacturer won the 2016 24 Hours of Le Mans?,Porsche,Toyota,Audi,Ferrari,1,medium
+408,Which German sportswear company's logo is the 'Formstripe'?,Puma,Nike,Puma,Adidas,1,medium
+471,Who was the British professional wrestler Shirley Crabtree better known as?,Big Daddy,Big Daddy,Giant Haystacks,Kendo Nagasaki,1,medium
+840,Which team has won the most Stanley Cups in the NHL?,Montreal Canadians,Chicago Blackhawks,Montreal Canadians,Toronto Maple Leafs,1,easy
+946,"Sean Bean voices the character of ""Martin Septim"" in which Elder Scrolls game?",The Elder Scrolls IV: Oblivion,The Elder Scrolls V: Skyrim,The Elder Scrolls III: Morrowind,The Elder Scrolls IV: Oblivion,2,medium
+947,"Who is the main character in the video game ""Just Cause 3""?",Rico Rodriguez,Rico Rodriguez,Tom Sheldon,Marcus Holloway,2,medium
+948,The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?,Night Trap,Sewer Shark,The Daedalus Encounter,Night Trap,2,hard
+949,"In the video game, Half-life, what event started the Half-life universe as we know today?",The Resonance Cascade,World War 3,The Xen Attack,The Resonance Cascade,2,easy
+950,Which retro video game was released first?,Space Invaders,Galaga,Pac-Man,Space Invaders,2,hard
+951,Killing Floor started as a mod for which Unreal Engine 2 game?,Unreal Tournament 2004,Unreal Tournament 2004,Deus Ex: Invisible War,Unreal Tournament 3,2,medium
+952,"In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet's boss fight?",U.N. Owen Was Her,Septette for the Dead Princess,Flowering Night,Pierrot of the Star-Spangled Banner,2,medium
+953,"What is the name of the world that the MMO ""RuneScape"" takes place in?",Gielinor,Glindor,Gielinor,Azeroth,2,easy
+954,"In Undertale, how much do Spider Donuts cost in Hotland?",9999G,7G,40G,12G,2,medium
+955,"In ""Need for Speed III: Hot Pursuit"", what is the name of the fictional car?",El Niño,El Niño,Rápido,Ágil,2,hard
+956,"In what year was ""Metal Gear Solid"" released in North America?",1998,1987,2001,2004,2,easy
+957,"In the game Call of Duty, what is the last level where you play as an American soldier?",Festung Recogne,Festung Recogne,Ste. Mere-Eglise (Day),Chateau,2,hard
+958,"""Tomb Raider"" icon Lara Croft was originally called...",Laura Cruz,Laura Craft,Laura Cruz,Laura Croft,2,easy
+959,"What was Frank West's job in ""Dead Rising""?",Photojournalist,Janitor,Chef,Taxi Driver,2,easy
+960,"In the Halo series, what fleet was Thel 'Vadam supreme commander of before being branded an Arbiter?",Fleet of Particular Justice,Fleet of Particular Justice,Fleet of Sacred Consecration,Fleet of Furious Redemption,2,medium
+961,In what year was Pokémon Diamond & Pearl released in Japan?,2006,2006,2009,2007,2,medium
+962,"In Sid Meier's Civilization V, which World Wonder can only be built in cities on or next to a desert?",Petra,The Pyramids,Alhambra,Mausoleum of Maussollos,2,medium
+963,"In Xenoblade Chronicles X, which class has a sniper rifle as it's primary weapon?",Partisan Eagle,Blast Fencer,Winged Viper,Bastion Warrior,2,hard
+964,Which of the following Terran units from the RTS game Starcraft was first introduced in the expansion Brood War?,Medic,Medic,Wraith,Science Vessel,2,medium
+965,Which Game Development company made No Man's Sky?,Hello Games,Dovetail Games,Hello Games,Valve,2,medium
+966,"Which of the following colors does the Zombie eyes glow in the ""Nuketown"" map in ""Call of Duty: Black Ops II"" Zombies mode?",Yellow and Blue,Yellow and Red,Red and Blue,Blue and White,2,medium
+967,"In ""A Hat in Time"", what must Hat Kid collect to finish a level",A time piece,A time piece,A heart fragment,A relic fragment,2,easy
+968,"In ""Sonic the Hedgehog 3"" for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",Orange,Blue,Green,Orange,2,hard
+969,"What is the plane of existence in MicroProse's 1997 ""Magic the Gathering""?",Shandalar,Theros,Shandalar,Ravnica,2,hard
+970,"What is the name of the virus in ""Metal Gear Solid 1""?",FOXDIE,FOXENGINE,FOXALIVE,FOXKILL,2,medium
+971,"In the game Overwatch, which hero out of the following 4 is from Brazil?",Lúcio,Sombra,McCree,Lúcio,2,medium
+972,"In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",Drill Containment Unit,Drill Containment Unit,Anti-Gravity Hook,Influx Waver,2,medium
+973,In which year did the orignal Sims game release?,2000,2001,2000,1999,2,easy
+974,"In ""Earthbound"", how does one enter ""Master Belch's"" factory?",Wait 3 Minutes,"Enter the password ""Fly Honey""","Enter the password ""Master Belch Rules""","Enter the password ""Mr Saturn Drools""",2,hard
+975,"Who was the mascot of SEGA before ""Sonic the Hedgehog""?",Alex Kidd,Alex Kidd,Opa Opa,NiGHTS,2,medium
+976,Where was the Sniper character in Team Fortress 2 born?,New Zealand,South Africa,Antarctica,Australia,2,medium
+977,What block in Minecraft has the highest blast resistance?,Barrier,Obsidian,Bedrock,Block of Diamond,2,medium
+978,How many stars are there to collect in Super Mario 64?,120,60,80,100,2,medium
+979,What was the original release date of Grand Theft Auto V?,"September 17, 2013","August 17, 2013","April 14, 2015","September 17, 2013",2,medium
+980,"In Overwatch, what is Lúcio's full name?",Lúcio Correia Dos Santos,Lúcio Luiz Lós Guilherme,Lúcio João Lucas,Lúcio Correia Dos Santos,2,medium
+981,"In Geometry Dash, what is level 13?",Electroman Adventures,Theory of Everything,Clubstep,Clutterfunk,2,hard
+982,What are tiny Thwomps called in Super Mario World?,Thwimps,Thwimps,Little Thwomp,Mini Thwomp,2,medium
+983,"In the PAYDAY series, who is the iconic leader of the PAYDAY gang?",Dallas,Dallas,Wolf,Chains,2,medium
+984,"What is the boss round featured in the ""Call Of Duty: Zombies"" map ""Five""?",The Pentagon Thief,Hellhounds,Jumping Jacks,Napalm Zombie,2,easy
+985,In what year was the first eSports competition?,1972,1989,1990,1972,2,medium
+986,Which Grand Theft Auto (GTA) games have the same setting?,GTA V and GTA San Andreas,GTA V and GTA Vice City,GTA IV and GTA San Andreas,GTA IV and GTA Vice City,2,easy
+987,Which unlockable character in Super Smash Bros. For Wii U and 3DS does not have to be fought to be unlocked?,Mii Fighters,Ness,R.O.B.,Mewtwo,2,medium
+988,Who stars in Brutal Legend?,Jack Black,Jack Black,Kanye West,Lemmy,2,easy
+989,"In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",Unhinged Spirit,Shoryugeki,Provoke,Demon Riot,2,hard
+990,What is the name of a popular franchise that includes placing blocks down and surviving in an open world?,Minecraft,Minecraft,Unturned,Roblox,2,easy
+991,"""Exile"" and ""Revelations"" were the third and fourth installments of which PC game series?",Myst,Myst,Shivers,Doom,2,hard
+992,What is the only Generation III Pokemon whose name begins with the letter I?,Illumise,Illumise,Infernape,Ivysaur,2,medium
+993,"What is the real name of ""Warhead"" in the Sega Genesis game ""Vectorman""?",Raster,Peacehead,Vectorkid,Bitmap,2,hard
+994,"In Rust, how many Timed Explosive Charges does it take to destroy a Ladder Hatch?",1,3,2,1,2,easy
+995,What was the first game ever released that ran on the Source engine?,Counter-Strike: Source,Half-Life 2,Garry's Mod,Counter-Strike: Source,2,medium
+996,"Which Pokémon can learn the move ""Secret Power"" by leveling up?",Audino,Type:Null,Arceus,Audino,2,easy
+997,"In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist's ""Ghost""?",Nolan North,John DiMaggio,Mark Hamill,Nolan North,2,medium
+998,"In Portal 2, the iconic character GLaDOS is turned into:",A potato,A tomato,A lemon,A potato,2,medium
+999,"In ""Call Of Duty: Zombies"", which weapon does NOT deal any damage?",31-79 JGb215,Sliquifier,V-R11,Wunderwaffe DG-2,2,hard
+1000,"The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",The Elder Scrolls,Lord of the Rings,The Witcher,Neverwinter Nights,2,easy
+1001,What is the world's first video game console?,Magnavox Odyssey,Coleco Telstar,Nintendo Color TV Game,Magnavox Odyssey,2,medium
+1002,"In the game Sonic Forces, which of the following was not from a previous game?",Infinite,Metal Sonic,Zavoc,Infinite,2,easy
+1004,"In the beta version of the 1986 game ""The Legend of Zelda"", players have the choice between a sword and what other item?",Boomerang,Spear,Slingshot,Crossbow,2,medium
+1005,Which of the following is not a real Pokémon?,Luminid,Dragalge,Luminid,Mandibuzz,2,medium
+1006,What is the original name of Final Fantasy XV?,Final Fantasy Versus XIII,Final Fantasy: Reborn,Final Fantasy XVI,Final Fantasy XIII-3,2,medium
+1007,When was the first Call of Duty title released?,"October 29, 2003","December 1, 2003","October 29, 2003","November 14, 2002",2,hard
+1008,"What video game sparked controversy because of its hidden ""Hot Coffee"" minigame?",Grand Theft Auto: San Andreas,Grand Theft Auto: Vice City,Hitman: Blood Money,Grand Theft Auto: San Andreas,2,easy
+1009,Which student in Yandere Simulator is known for asking irritating and stupid questions?,Midori Gurin,Kokona Hruka,Oka Ruto,Midori Gurin,2,easy
+1010,"Given that all party members are maxed, who is the fastest party member in Super Mario RPG: Legend of The Seven Stars?",Geno,Geno,Mario,Bowser,2,hard
+1011,Rincewind from the 1995 Discworld game was voiced by which member of Monty Python?,Eric Idle,John Cleese,Terry Gilliam,Michael Palin,2,easy
+1012,In which series of games do you collect souls to empower you and buy weaponry and armor with?,Souls,Final Fantasy,Monster Hunter,Souls,2,easy
+1013,"Which of these is NOT a playable character in ""Left 4 Dead""?",Nick,Louis,Zoey,Nick,2,easy
+1014,"In the 2002 video game ""Kingdom Hearts"", how many playable worlds were there?",14,13,16,14,2,medium
+1015,"The Internet Meme ""All your base are belong to us"" is based on the poorly translated English Version of which Video Game?",Zero Wing,F-Zero,Zero Wing,Wing Commander,2,hard
+1016,What programming language does the Source Engine use?,C++,Python,C++,Java,2,hard
+1017,What Pokémon's Base Stat Total does not change when it evolves?,Scyther,Scyther,Pikachu,Sneasel,2,hard
+1018,"When was the first ""Half-Life"" released?",1998,2004,1999,1997,2,hard
+1019,Which video game earned music composer Mike Morasky the most awards for his work?,Portal 2,Left 4 Dead 2,Portal 2,Team Fortress 2,2,medium
+1020,Which of the following Elite Four members from the 6th Generation of Pokémon was a member of Team Flare?,Malva,Siebold,Wikstrom,Malva,2,easy
+1021,Which of these characters won the Super Smash Bros. Fighter Ballot in 2015?,Bayonetta,Cloud,Ryu,Bayonetta,2,medium
+1022,"In ""Call of Duty: Zombies"", what group does Doctor Maxis work for?",Group 935,Group Reanimate,Group 935,Group Rezurrection,2,medium
+1023,"The mobile game ""Jetpack Joyride"" was released in what year?",2011,2012,2011,2009,2,medium
+1024,"In the game Half-Life, which enemy is showcased as the final boss?",The Nihilanth,Dr. Wallace Breen,G-Man,The Gonarch,2,easy
+1025,What is the name of the talking cat in Persona 5?,Morgana,Morgana,Teddie,Marie,2,easy
+1026,What element does the Zinogre use in Monster Hunter?,Thunder,Thunder,Ice,Fire,2,medium
+1027,"Who is the main protagonist of ""Ace Combat Zero: The Belkan War""?",Cipher,Mobius 1,Blaze,Pixy,2,medium
+1028,What Nationality is D.Va from Overwatch?,Korean,Korean,Japanese,Chinese,2,easy
+1029,Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?,Kiefer Sutherland,Kiefer Sutherland,David Hayter,Norman Reedus,2,easy
+1030,What is the name of the 8th installment in the Fire Emblem series?,The Sacred Stones,Blazing Sword,Awakening,Path of Radiance,2,medium
+1031,"How many trophies are there in ""Super Smash Bros. for Nintendo 3DS""?",685,1360,685,716,2,hard
+1032,Just Cause 2 was mainly set in what fictional Southeast Asian island country?,Panau,Davao,Macau,Palau,2,medium
+1033,"What is the final game of the ""Zero Escape"" series called?",Zero Escape Zero Time Dilemma,"Nine Hours, Nine Persons, Nine Doors",Zero Escape Zero Time Dilemma,Zero Escape Virtue's Last Reward,2,medium
+1034,"Which German city does the map ""Clubhouse"" in ""Tom Clancy's Rainbow Six Siege"" take place in?",Hannover,Berlin,Hamburg,Munich,2,medium
+1035,"In ""Call Of Duty: Zombies"", what is the name of Samantha Maxis' dog?",Fluffy,Baxter,Fido,Fluffy,2,medium
+1036,"How many aces can be shot down through the entirety of ""Ace Combat Zero: The Belkan War""?",169,100,169,132,2,hard
+1038,"In Splatoon, what is the age that inklings can freely change between squid and humanoid forms?",14,13,16,10,2,medium
+1039,"In the game Tom Clancy's Rainbow 6 Siege, what organization is Valkyrie from?",Navy Seals,S.A.S,G.I.G.N,Navy Seals,2,medium
+1040,"In ""Halo 2"", what is the name of the monitor of Installation 05?",2401 Penitent Tangent,2401 Penitent Tangent,343 Guilty Spark,031 Exuberant Witness,2,medium
+1041,Who's the creator of Geometry Dash?,Robert Topala,Robert Topala,Scott Cawthon,Adam Engels,2,medium
+1042,"How many Chaos Emeralds are there in the ""Sonic the Hedgehog"" universe?",7,6,8,14,2,easy
+1043,What was the code name given to Sonic the Hedgehog 4 during its development?,Project Needlemouse,Project Bluespike,Project Roboegg,Project Needlemouse,2,hard
+1044,"The walls of the Goldenrod City Gym in ""Pokémon Gold and Silver"" are arranged in the shape of which Pokémon?",Clefairy,Bulbasaur,Clefairy,Pikachu,2,medium
+1045,"When was ""Luigi's Mansion 3"" released?","October 31st, 2019","January 13th, 2019","September 6th, 2018","October 31st, 2019",2,easy
+1046,"In ""The Witness"", how many lasers must be activated to get into the mountain area?",7,7,8,5,2,hard
+1047,Which Elite Four member from the first generation of Pokémon became the champion in the next generation?,Lance,Agatha,Bruno,Lance,2,easy
+1048,"What was the code name for the ""Nintendo Gamecube""?",Dolphin,Dolphin,Nitro,Revolution,2,medium
+1049,"What was the first ""Team Fortress 2"" update to include a war?",Sniper vs. Spy Update,WAR! Update,Meet Your Match Update,Sniper vs. Spy Update,2,medium
+1050,"In ""Overwatch"", what is the name of the company that made D.Va's mech?",MEKA,MEKA,MI8,KPAMC,2,easy
+1051,"Which Greek letter represents the ""Half-Life"" logo?",Lambda,Lambda,Omega,Alpha,2,easy
+1052,"In the video game franchise ""Halo"", what is the UNSC's main opposing faction called?",The Covenant,The Reckoning,The Covenant,The Peoples,2,easy
+1054,"What was the release date of ""Grand Theft Auto IV""?","April 29, 2008","May 21, 2009","April 29, 2008","June 22, 2010",2,easy
+1055,"Which of the Master levels in ""Super Monkey Ball"" is also used in the arcade version of the game, simply named ""Monkey Ball""?",MASTER 9 - Bridge Master,MASTER 9 - Bridge Master,MASTER 3 - Stamina Master,MASTER 10 - Monkey Master,2,hard
+1057,"Which Kingdom Hearts game featured the cast of ""The World Ends With You""?",Dream Drop Distance,Dream Drop Distance,Birth By Sleep,365/2 Days,2,hard
+1058,What is the name of the virus that infected New York in Tom Clancy's The Division?,Dollar Flu,Dollar Flu,Ebola,Red Poison,2,hard
+1059,"In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",No Mercy,Subway Sprint,Hospital Havoc,Blood Harvest,2,medium
+1060,"In the Assassin's Creed series,what was the name of Desmond Miles given by Abstergo?",Subject 17,Subject 17,Subject 16,Subject 18,2,easy
+1061,"Which of these is NOT a possible drink to be made in the game ""VA-11 HALL-A: Cyberpunk Bartender Action""?",Sour Appletini,Fringe Weaver,Piano Man,Bad Touch,2,hard
+1063,"In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?","Clarence ""Razor"" Callahan","Clarence ""Razor"" Callahan","Hector ""Ming"" Domingo","Toru ""Bull"" Sato",2,easy
+1064,In which country's version of Half-Life are the HECU Marines replaced with robots?,Germany,Germany,Japan,China,2,medium
+1065,"What is the real name of the Scout in ""Team Fortress 2""?",Jeremy,Jeremy,Lance,Walter,2,medium
+1066,"In the ""Halo"" franchise, in what country is New Mombasa?",Kenya,Kenya,India,Turkey,2,medium
+1067,"Which of these ""Worms"" games featured 3D gameplay?",Worms 4: Mayhem,Worms W.M.D,Worms Reloaded,Worms: Open Warfare 2,2,medium
+1068,"In Night In The Woods, what is Mae Borowski mother's name?",Candy,Jenny,Candy,Margaret,2,medium
+1069,Which of 2 Valve Games are set in the same universe?,Half-life and Portal,Portal and Left 4 Dead,Half-life and Portal,Half-life and Left 4 Dead,2,easy
+1070,In Kingdom Hearts which of the following people can NOT wield a keyblade?,Larxene,Xehanort,Lea,Mickey,2,medium
+1071,"In the game Pokémon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",Nobunaga,Nobunaga,The Player,Oichi,2,medium
+1072,"What is the name of the 4-armed Chaos Witch from the 2016 video game ""Battleborn""?",Orendi,Orendoo,Oranda,Orendi,2,easy
+1073,Who is the main character in most of the games of the YS series?,Adol Christin,Character doesn't have a name,Adol Christin,Estelle Bright,2,medium
+1074,What does IWHBYD stand for on the skull in the Halo series?,I Would Have Been Your Daddy,I Would Have Been Your Daddy,I Wanna Have Babies You Down,I Would Hate Being Your Driver,2,easy
+1075,Marvel vs Capcom 2: New age of Heroes was released in what year?,2000,2001,2003,2000,2,medium
+1076,"In Danganronpa: Trigger Happy Havoc, what is the protagonist's name?",Makoto Naegi,Hajime Hinata,Nagito Komaeda,Komaru Naegi,2,easy
+1078,"Which company made the Japanese RPG ""Dragon Quest""?",Square Enix,Capcom,Konami,Blizzard,2,medium
+1079,"In the SHMUP series, ""Darius"", what is the name of the antagonist faction you fight against?",Belsar,Belsar,Bacterion,Bydo,2,hard
+1081,"What company created and developed the game ""Overwatch""?",Blizzard Entertainment,Blizzard Entertainment,Valve,Hi-Rez Studios,2,easy
+1082,Who voices GLaDOS in the Portal games?,Ellen McLain,Ellen McLain,Michelle Forbes,Mary Kae Irvin,2,easy
+1084,What animal is on Link's pajamas in The Legend of Zelda: The Wind Waker?,Crawfish,Crawfish,Lobster,Salmon,2,hard
+1086,Which of these roles in Town of Salem is mafia?,Disguiser,Disguiser,Escort,Lookout,2,medium
+1087,"In the first Left 4 Dead, you can play as either of these four characters.","Francis, Bill, Zoey, and Louis","Bender, Andrew, Allison, and Brian","Francis, Bill, Zoey, and Louis","Coach, Ellis, Nick, and Rochelle",2,medium
+1088,"Which of the following is not a prosecutor in the ""Ace Attorney"" video game series?",Jake Marshall,Jake Marshall,Godot,Miles Edgeworth,2,medium
+1089,"In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",Cicero,Cicero,Lucien Lachance,Archimedes,2,medium
+1090,"In the SHMUP series, ""Gradius"", what is the name of the antagonist faction you fight against?",Bacterion,Bydo,Bacterion,Belsar,2,hard
+1093,In what year was Garry's Mod released as a standalone title on Valve's Steam distribution service?,2006,2006,2007,2004,2,easy
+1094,"What household item make the characters of ""Steins; Gate"" travel through time?",Microwave,Computer,Refrigerator,Televison,2,easy
+1095,"In ""Overwatch,"" what is the hero McCree's full name?",Jesse McCree,"Jack ""McCree"" Morrison",Gabriel Reyes,"Jamison ""Deadeye"" Fawkes",2,medium
+1096,Who is the main protagonist in the game Life is Strange: Before The Storm?,Chloe Price,Max Caulfield,Rachel Amber,Chloe Price,2,easy
+1097,"In ""Call Of Duty: Zombies"", what is the name of the Pack-A-Punched Crossbow?",Awful Lawton,Longinus,Awful Lawton,V-R11,2,easy
+1098,"In the MMO RPG ""Realm of the Mad God"", what class is known for having the highest possible defense?",The Knight,The Wizard,The Archer,The Warrior,2,medium
+1099,What is the name of the alien species introduced in Shadow the Hedgehog (2005)?,Black Arms,Black Arms,The Swarm,Black Hive,2,hard
+1100,"In Terraria, which debuff does the ankh charm not provide immunity to?",Venom,Venom,Cursed,Bleeding,2,hard
+1101,"In World of Warcraft lore, which of the following is known as the God of Spiders in the troll's loa beliefs?",Elortha no Shadra,Bwonsamdi,Elortha no Shadra,Hakkar,2,hard
+1104,Which of these Pokémon cannot learn Surf?,Arbok,Linoone,Tauros,Arbok,2,hard
+1105,What is the name of the main healing item in Dark Souls?,Estus Flask,Health Potion,Orange Juice,Ashen Flask,2,easy
+1107,"In Animal Crossing, who is the manager of the town shop?",Tom Nook,Mr. Resetti,Gracie,Tom Nook,2,easy
+1108,"What's the famous line Vaas says in ""Far Cry 3""?",Did I ever tell you the definition of Insanity?,Have I failed to entertain you?,You're my b*tch!,Did I ever tell you the definition of Insanity?,2,medium
+1109,"In ""Xenoblade Chronicles 2"", Which party member cannot use normal blades?",Tora,Rex,Zeke,Nia,2,easy
+1110,"Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",Policenauts,Gradius,Policenauts,Contra,2,hard
+1111,The Touhou Project series of games is often associated with which genre?,Shoot 'em up,Shoot 'em up,Strategy,FPS,2,easy
+1112,"How many games are there in the ""Colony Wars"" series for the PlayStation?",3,2,3,4,2,medium
+1113,"In the beginning of the game ""Sonic Adventure"", what color Chaos Emerald does Tails own?",Purple,Red,Green,Purple,2,medium
+1114,"What is the name of the only female ""Original Four"" Kerbal in Kerbal Space Program?",Valentina Kerman,Emiko Kerman,Valentina Kerman,Samantha Kerman,2,medium
+1115,"In the ""Hitman"" series, what is the name of the main character?",Agent 47,Agent 27,Agent Smith,Agent 47,2,easy
+1116,"The 'D' in the term ""D-Mail"" from the game ""Steins; Gate"" is short for what?",DeLorean,Deep,Demo,Dev,2,hard
+1117,"In the 2014 Pokemon VGC Finals, which Pokemon was famous for bringing the winner to victory?",Pachirisu,Garchomp,Lapras,Primal Groudon,2,hard
+1118,"Which day in ""Papers, Please"" does the man in red appear?",Day 23,Day 23,Day 20,Day 17,2,hard
+1119,"In the video game ""Metal Gear Solid"", what did Revolver Ocelot consider the greatest handgun ever made?",Colt Single Action Army,Colt Python,Colt M1892,Colt Single Action Army,2,hard
+1120,In which U.S. state is Far Cry 5's fictional setting 'Hope County' located?,Montana,Montana,Idaho,Wyoming,2,medium
+1121,"On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?",The Falador Massacre,Noclip glitch,Party-hat Duplication Glitch,The Falador Massacre,2,medium
+1122,"In the lore of the PAYDAY series, which criminal was arrested and then latered rescued by the PAYDAY gang?",Hoxton,Dallas,Wolf,Chains,2,easy
+1123,Phil Fish was the designer of which game?,Fez,Super Meat Boy,Hotline Miami,Fez,2,medium
+1124,What year was the game Dishonored released?,2012,2011,2012,2008,2,easy
+1125,"In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",Rhyme,Rhyme,Shiki,Joshua,2,medium
+1126,Who turns out to be the true victor in the Battle of Armageddon in Mortal Kombat?,Shao Kahn,Liu Kang,Shao Kahn,Shang Tsung,2,easy
+1129,"The rights to the ""Rayman"" series are owned by which company?",Ubisoft,Nintendo,EA,Ubisoft,2,medium
+1130,"In the Kingdom Hearts series, which is not an optional boss you can fight?",Master Yen Sid,Sephiroth,Master Yen Sid,Julius,2,hard
+1132,"In the video game series ""Disgaea"", what word does the character Prinny have to include in all sentences they speak?","""Dood""","""Dood""","""Master""","""Plip""",2,medium
+1133,What was the name of the Secret Organization in the Hotline Miami series?,50 Blessings,American Blessings,50 Saints,USSR's Blessings,2,medium
+1134,Who was the first female protagonist in a video game?,Samus Aran,Lara Croft,Alis Landale,Chell,2,medium
+1135,Who is Sora's Nobody in Kingdom Hearts?,Roxas,Roxas,Riku,Kairi,2,medium
+1137,Who is able to grab the survivors with his tongue in Left 4 Dead?,Smoker,Jockey,Smoker,Hunter,2,easy
+1138,What was the FIRST Valve game to have VR?,The Lab,Dota 2,Destinations,The Lab,2,medium
+1139,Who is the main protagonist of Dead Space?,Isaac Clarke,Commander Shepard,Gordon Freeman,Isaac Clarke,2,easy
+1142,"What is the name of Cream the Rabbit's mom in the ""Sonic the Hedgehog"" series?",Vanilla,Peach,Vanilla,Strawberry,2,medium
+1143,"In ""Magicka"", which two elements are combined to cast the spell, ""Nullify""?",Arcane + Shield,Lightning + Shield,Lightning + Life,Arcane + Life,2,hard
+1144,"In the video game DOTA 2, which of these is NOT a hero?",Dragon Champion,Dark Seer,Dragon Champion,Keeper of the Light,2,medium
+1146,What is the first weapon you acquire in Half-Life?,A crowbar,A crowbar,A pistol,The H.E.V suit,2,easy
+1147,"In the game Nuclear Throne, what organization chases the player character throughout the game?",The I.D.P.D,The I.D.P.D,The Fishmen,The Bandits,2,hard
+1148,Who is the creator of Touhou project?,Zun,Jun,Zun,Twilight Frontier,2,easy
+1149,"In ""Overwatch"", how much health does Roadhog's ""Take a Breather"" ability recover?",300,100,300,200,2,medium
+1150,"Which of these stages is not playable in ""Super Smash Bros. for Wii U""?",Fountain of Dreams,Fountain of Dreams,Bridge of Eldin,75m,2,medium
+1151,Who is the creator of the Super Smash Bros. Series?,Masahiro Sakurai,Reggie Fils-Aimé,Bill Trinen,Hideo Kojima,2,easy
+1152,"Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",Tetris,Jenga,Tetris,Boulder Dash,2,medium
+1153,In which year was League of Legends released?,2009,2010,2009,2003,2,easy
+1154,"In what Half-Life expansion can you find Gordon's picture in an ""Employee of the Month"" picture frame?",Half-Life: Opposing Force,Half-Life: Opposing Force,Half-Life: Blue Shift,Half-Life: Decay,2,medium
+1156,Which Final Fantasy game consisted of a female-only cast of party members?,Final Fantasy X-2,Final Fantasy IX,Final Fantasy X-2,Final Fantasy V,2,easy
+1157,"In ""Pokémon Sun and Moon"", Team Skull took over which town?",Po Town,Heahea City,Tapu Village,Po Town,2,hard
+1158,How many flagship monsters appear in Monster Hunter Gernerations?,4,1,2,3,2,easy
+1159,"What is the first primary weapon the player gets in ""PAYDAY: The Heist""?",AMCAR-4,AMCAR-4,Brenner 21,Reinbeck,2,medium
+1160,How many differently shaped Tetris pieces are there?,7,5,6,8,2,easy
+1161,What video game engine does the videogame Quake 2 run in?,iD Tech 2,iD Tech 3,iD Tech 1,Unreal Engine,2,easy
+1162,"From the Meme Culture, which Mario game immerged ""Weegee""?",Mario is Missing! MS-DOS Version,Mario is Missing! SNES Version,Mario is Missing! NES Version,Mario is Missing! MS-DOS Version,2,medium
+1163,"What device allows Tracer to manipulate her own time in the game ""Overwatch""?",Chronal Accelerator,B.L.I.N.K,Spacial Displacement Manipulator,Chronal Accelerator,2,hard
+1164,"In ""Final Fantasy VI"", what is the name of (summoned) Gilgamesh's weakest attack?",Excalipoor,Excalipoor,Excalibore,Excalisnore,2,hard
+1166,The creator of the Touhou Project series is:,ZUN,ZUN,SUN,RUN,2,medium
+1167,"What animal is featured in ""Bloons TD Battles""?",Monkeys,Alligators,Pigeons,Monkeys,2,medium
+1168,"In Telltale Games' ""The Walking Dead: Season One"" what is the name of Clementine's father?",Ed,Charles,Lee,Ed,2,medium
+1170,"Who is the main character in ""The Stanley Parable""?",Stanley,The Adventure Line,The Narrator,The Boss,2,easy
+1171,"Which of the following games in the Anno series introduced the ""Eco Balance"" gameplay mechanic?",Anno 2070,Anno 1404,Anno 2070,Anno 2205,2,medium
+1172,What year was Super Mario Bros. released?,1985,1983,1987,1985,2,easy
+1173,What character is NOT apart of the Grand Theft Auto series?,Michael Cardenas,Packie McReary,Tommy Vercetti,Michael Cardenas,2,medium
+1174,How many times do you fight the Imprisoned in The Legend of Zelda: Skyward Sword?,3,2,4,3,2,medium
+1175,"Who created Agent 47 in the game series ""Hitman""?",Dr. Otto Wolfgang Ort-Meyer,Professor Hertz Amadeus Schneider,Dr. Josef Mengele,Professor Otto Rothwinkler,2,medium
+1176,How old is Chloe Price in Life is Strange: Before the Storm?,16,16,24,19,2,medium
+1178,The name of the Metroid series comes from what?,An enemy in the game,The final boss's name,The main character's name,A spaceship's name,2,easy
+1179,"What was the first video game in the Batman ""Arkham"" series?",Arkham Asylum,Arkham Knight,Arkham City,Arkham Origins,2,easy
+1181,"In Splatoon 2's Hero Mode, which agent does the player take the role of?",Agent 4,Agent 1,Agent 2,Agent 3,2,medium
+1182,What is the main ship used by Commander Shepard in the Mass Effect Franchise called?,Normandy,Normandy,Osiris,Infinity,2,easy
+1183,"In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",Honey Trees,Trading with an NPC,Grass on Route 209,Honey Trees,2,medium
+1184,What mainly favored rifle is used by the Terrorists in Counter Strike: Global Offensive?,AK-47,AK-74,M4A4,AK-47,2,medium
+1185,"What is not a playable race in ""Final Fantasy XIV: A Realm Reborn""?",Hume,Hume,Miqo'te,Lalafell,2,medium
+1186,Which of these characters is the mascot of the video game company SEGA?,Sonic the Hedgehog,Sonic the Hedgehog,Dynamite Headdy,Alex Kidd,2,easy
+1187,Which of these is NOT a game under the Worms series?,Major Malfunction,Crazy Golf,Clan Wars,Major Malfunction,2,medium
+1188,"Which car is NOT featured in ""Need for Speed: Hot Pursuit 2""?",Toyota MR2,Toyota MR2,Ford Crown Victoria,BMW Z8,2,medium
+1189,What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?,60,65,55,60,2,easy
+1190,How many normal endings are there in Cry Of Fear's campaign mode?,4,5,3,6,2,medium
+1192,Which one of these games wasn't released in 2016?,Metal Gear Solid V,Tom Clancy's The Division,Metal Gear Solid V,Killing Floor 2,2,medium
+1193,Who is the main villain of the Crash Bandicoot series?,Dr. Neo Cortex,Dr. Evo-Cortex,Dr. Cortox,Dr. Neo Cortex,2,medium
+1194,"What is the name of the child performing the Black Sacrament, in The Elder Scrolls V: Skyrim?",Aventus Aretino,Aventus Aretino,Proventus Avenicci,Aval Atheron,2,medium
+1195,Which one of these characters was first introduced in Sonic Boom: Rise of Lyric?,Sticks the Badger,Sticks the Badger,Mighty the Armadillo,Espio the Chameleon,2,medium
+1196,How many playable characters were there in Street Fighter II: Champion Edition?,12,16,12,8,2,medium
+1197,Where are Terror Fiends more commonly found in the Nintendo game Miitopia?,New Lumos,New Lumos,Peculia,The Sky Scraper,2,hard
+1198,What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?,Ingress,Aggress,Regress,Digress,2,medium
+1199,"In WarioWare: Smooth Moves, which one of these is NOT a Form?",The Hotshot,The Hotshot,The Discard,The Elephant,2,medium
+1200,"In the Portal series, Aperture Science was founded under what name in the early 1940s?",Aperture Fixtures,Aperture Lavatories,Aperture Science Innovators,Aperture Fixtures,2,medium
+1202,What is the name of the protagonist of Life Is Strange?,Max Caulfield,Max Caulfield,Frank Bowers,Rachel Amber,2,medium
+1204,Who made Garry's Mod?,Garry Newman,Randy Newman,Facepunch Studios,Garry Newman,2,easy
+1205,"In Fallout: New Vegas, which one of these casinos can you not play in?",Lucky 38,The Tops,Gammorah,Ultra-Luxe,2,easy
+1207,"The map featured in Arma 3 named ""Altis"" is based off of what Greek island?",Lemnos,Ithaca,Naxos,Lemnos,2,hard
+1208,"What is the name of the creature that the main character befriends in ""The Last Guardian""?",Trico,Nico,Trico,Wolf,2,medium
+1209,In which game did the Konami Code make its first appearance?,Gradius,Contra,Castlevania,Dance Dance Revolution,2,medium
+1210,"Which character does the player play as in the video game ""Bastion""?",The Kid,Rucks,Zulf,Zia,2,medium
+1211,What is the last name of the primary female protagonist of Final Fantasy VIII?,Heartilly,Heartilly,Loire,Almasy,2,easy
+1212,"In ""Kingdom Hearts"", who abducts Jasmine in the Lamp Chamber?",Riku,Riku Replica,Xaldin,Riku,2,medium
+1213,"Which stage was planned to be a part of ""Sonic the Hedgehog 2"", but was scrapped during development?",Genocide City Zone,Genocide City Zone,Stardust Speedway Zone,Sky High Zone,2,medium
+1214,Which water-type Pokémon starter was introduced in the 4th generation of the series?,Piplup,Totodile,Oshawott,Piplup,2,easy
+1215,Who is the main villain in Bendy and the ink machine?,Bendy,Joey Drew,Alice,Boris,2,easy
+1217,"During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist?",22,23,21,22,2,medium
+1218,Which of the following is not a playable race in the MMORPG Guild Wars 2?,Tengu,Sylvari,Tengu,Charr,2,medium
+1220,"In Halo 2, how many rounds does the M6C hold in a single magazine?",12,6,36,12,2,hard
+1222,"In the co-op shooter Payday 2, which contact helps you break out Hoxton?",The Dentist,Vlad,The Elephant,The Dentist,2,medium
+1223,What was the first interactive movie video game?,Astron Belt,Astron Belt,Dragon's Lair,Cube Quest,2,medium
+1225,"In the Half-Life franchise, what is the real name of the ""gravity gun""?",Zero-Point Energy Field Manipulator,Universal Gravity Manipulation Device,Zero-Point Energy Field Manipulator,Isaac Newton's Theory Disprover,2,medium
+1226,Which of these video game series have NOT had a promotional item appear in Team Fortress 2?,Half-Life,Quake,The Binding of Isaac,Half-Life,2,medium
+1227,How many classes are there in Team Fortress 2?,9,10,8,9,2,medium
+1228,"Which character in the ""Animal Crossing"" series uses the phrase ""zip zoom"" when talking to the player?",Scoot,Drake,Bill,Mallary,2,easy
+1229,"What is the name of the common, gun-toting enemies of the ""Oddworld"" video game series?",Sligs,Scrabs,Slogs,Glukkons,2,medium
+1231,"In the game ""Brawlhalla"", what species is the character Bödvar is?",Half Human / Half Bear,Half Human / Half Bear,A Human,Half Wolf / Half Bear,2,medium
+1232,"In PROTOTYPE 2. who is referred to as ""Tango Primary""?",James Heller,Alex Mercer,Dana Mercer,James Heller,2,easy
+1233,In what year was Hearthstone released?,2014,2011,2013,2012,2,easy
+1235,Aperture Science CEO Cave Johnson is voiced by which American actor?,J.K. Simmons,J.K. Simmons,Nolan North,John Patrick Lowrie,2,easy
+1236,What is the browser game Kantai Collection heavily inspired by?,Second World War,Second World War,Manga,World of Warcraft,2,medium
+1237,"Which of these is not a wonder weapon in ""Call Of Duty: Zombies""?",R115 Resonator,R115 Resonator,GKZ-45 Mk3,Ray Gun,2,easy
+1238,"In the game Enter the Gungeon, which one of these is not a playable character?",The Wizard,The Bullet,The Robot,The Cultist,2,hard
+1240,What is the title of song on the main menu in Halo?,Halo,Opening Suite,Shadows,Suite Autumn,2,easy
+1241,"What are Sans and Papyrus named after in ""Undertale""?",Fonts,Plants,Companies,Ancient writing paper,2,easy
+1242,"In Terraria, which of these items is NOT crafted at a Mythril Anvil?",Ankh Charm,Venom Staff,Sky Fracture,Orichalcum Tools,2,medium
+1243,Which of these games was NOT developed by Markus Persson?,Dwarf Fortress,Dwarf Fortress,Minecraft,Wurm Online,2,hard
+1245,Which of these is NOT a player class in Team Fortress 2?,Healer,Healer,Demoman,Pyro,2,easy
+1246,"In Pokemon Red & Blue, what is the name of HM05?",Flash,Flash,Strength,Cut,2,easy
+1249,"In what year was the game ""Fallout"" released?",1997,1997,1998,1999,2,easy
+1250,"Without enchantments, which pickaxe in minecraft mines blocks the quickest.",Golden,Diamond,Iron,Golden,2,medium
+1253,"In the game ""Fire Emblem: Shadow Dragon"", what is the central protagonist's name?",Marth,Marth,Roy,Eliwood,2,easy
+1254,Which of the following Pokémon games released first?,Pokémon Crystal,Pokémon Platinum,Pokémon Crystal,Pokémon FireRed,2,medium
+1255,"What year did the game ""Overwatch"" enter closed beta?",2015,2013,2011,2016,2,easy
+1256,"In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",Dr. Mario,Mewtwo,Lucas,Dr. Mario,2,easy
+1257,"In Call of Duty: Modern Warfare 2, how many consecutive kills does it require to earn the ""Tactical Nuke"" killstreak?",25,25,20,30,2,medium
+1258,Which eSports team came first place in The International Dota 2 Championship 2016?,Wings Gaming,Digital Chaos,Wings Gaming,Evil Geniuses,2,easy
+1259,"Who is the main character of ""Metal Gear Solid 3""?",Naked Snake,Solid Snake,Liquid Snake,Venom Snake,2,medium
+1260,The '64' in the Nintendo-64 console refers to what?,The bits in the CPU architecture,The number of megabytes of RAM,Capacity of the ROM Cartridges in megabytes,The bits in the CPU architecture,2,medium
+1261,"Which one of the first four titles of the ""Grand Theft Auto"" franchise started the series of iconic image grid cover arts?",Grand Theft Auto III,Grand Theft Auto,Grand Theft Auto III,Grand Theft Auto II,2,medium
+1262,"In ""Call Of Duty: Zombies"", ""Richtofen"" is in possession of two filled blood vials belonging to who?",Sal DeLuca and Finn O'Leary,Richtofen,Al Arlington and Sal DeLuca,Sal DeLuca and Finn O'Leary,2,hard
+1263,From where does the Nintendo video game character Mario derive his name?,The landlord of the American headquarters,Shigeru Miyamoto's father in law,The landlord of the American headquarters,Satoru Iwata's plumber,2,medium
+1271,Which soccer player is featured on the cover of EA Sport's FIFA 18?,Cristiano Ronaldo,Lionel Messi,Neymar,Harry Kane,2,medium
+1272,Who is the main protagonist in Danganronpa 2: Goodbye Despair?,Hajime Hinata,Nagito Komaeda,Makoto Naegi,Hajime Hinata,2,easy
+1273,Which of the following was a map that was in Team Fortress 2 at launch?,Gravel Pit,Hoodoo,Gold Rush,Upward,2,easy
+1275,Which company developed and published Game Dev Tycoon?,Greenheart Games,Greenheart Games,Greenland Games,The Tycoonists,2,medium
+1276,"In the fighting game ""Skullgirls,"" which character utilizes a folding chair called the ""Hurting"" as a weapon?",Beowulf,Big Band,Beowulf,Squigly,2,easy
+1277,Who is the leader of Team Instinct in Pokémon Go?,Spark,Candela,Spark,Blanche,2,easy
+1278,"In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",Palace of the Dead,Heaven on High,Aetherochemical Research Facility,Palace of the Dead,2,easy
+1281,What is the AK-47's name in Counter Strike: Source?,CV-47,AK-74,CV-47,AK,2,medium
+1283,How many partners can you obtain in Paper Mario: The Thousand-Year Door?,7,6,9,10,2,hard
+1285,What's the Team Fortress 2 Scout's city of origin?,Boston,Sydney,Detroit,Boston,2,easy
+1287,"Before it's redesign of the company logo in the year 2000, which 3D shape is NOT represented in the Electronic Arts logo?",Cylinder,Pyramid,Cube,Cylinder,2,easy
+1288,What type of Pokémon is Charizard?,Fire/Flying,Fire,Fire/Flying,Dragon,2,easy
+1290,"According to the lore of ""Starbound"", what does the ""Colony Deed"" do when it is placed down?",Sends out an advertisement for someone to move in.,Teleports somebody from somewhere on the planet it is placed.,Sends out an advertisement for someone to move in.,Teleports a random person to the location.,2,hard
+1291,What are the names of the Ice Climbers in the video game Ice Climber?,Popo and Nana,Popo and Nana,Popo and Nina,Papi and Nana,2,medium
+1294,"In Fallout: New Vegas, upon starting each one of the four campaign DLCs, which one of them does not have a warning screen/recommended level?",Honest Hearts,Old World Blues,Honest Hearts,Lonesome Road,2,medium
+1297,What ingredient is NOT used to craft a cake in Minecraft?,Bread,Bread,Wheat,Milk,2,easy
+1298,"According to Overwatch's lore, who was once a member of the Deadlock Gang?",McCree,Roadhog,McCree,Soldier 76,2,medium
+1299,"In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",7355608,7355608,7890728,7256380,2,hard
+1300,"In ""Halo"", what is the name of the planet which Installation 04 orbits?",Threshold,Substance,Sanghelios,Threshold,2,hard
+1301,"What is the name of the currency in the ""Animal Crossing"" series?",Bells,Sea Shells,Bells,Leaves,2,medium
+1302,Which of these games was NOT a Nintendo Switch launch title in the United States?,Voez,Just Dance 2017,Snipperclips,Fast RMX,2,medium
+1303,"Which of these features was added in the 1994 game ""Heretic"" that the original ""DOOM"" could not add due to limitations?",Looking up and down,Increased room sizes,Unlimited weapons,Highly-detailed textures,2,medium
+1304,"What were the first two blocks in ""Minecraft""?",Grass and Cobblestone,Grass and Stone,Crafting Table and Cobblestone,Grass and Cobblestone,2,easy
+1305,Which of these video game engines was made by the company Epic Games?,Unreal,Unity,Unreal,Game Maker: Studio,2,easy
+1307,Which was the first M-rated video game developed by Squaresoft/Square Enix?,Parasite Eve,Final Fantasy VIII,Front Mission,Vagrant Story,2,hard
+1308,"""The Potato Sack"" was a collection of indie games released on Steam in 2011 as a promotion for which game?",Portal 2,Left 4 Dead 2,Half-Life 3,Portal 2,2,easy
+1309,"In the game Battleblock Theater, what was the name of the voice actor who voiced the narrator?",Will Stamper,Steve Blum,Richard Epcar,Yuri Lowenthal,2,easy
+1310,"In the Mario series, which game introduced Mario's Backflip ability?",Donkey Kong (Gameboy),Super Mario 64,Super Mario 3D Land,Super Mario Galaxy,2,medium
+1312,"In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina's ultimate ability is what?",Ultimate Swimmer,Ultimate Swimmer,Ultimate Detective,Ultimate Gambler,2,hard
+1314,When was the Sega Genesis released in Japan?,"October 29, 1988","October 29, 1988","August 14, 1989","November 30, 1990",2,medium
+1316,"In ""Fallout 4"", what is the name of the dog you find at Red Rocket truck stop?",Dogmeat,Dogmeat,Sparky,Quazar,2,medium
+1318,Which variant of the MP5 is depicted in Counter-Strike 1.6?,MP5N,MP5SD,MP5N,MP5K,2,hard
+1321,What was the nickname of the original model for Half-Life's protagonist Gordon Freeman?,Ivan the Space Biker,Gordon the Space Biker,Ivan the Alien Biker,Gordon the Alien Biker,2,hard
+1322,When was Final Fantasy XV released?,"November 29th, 2016","October 25th, 2016","December 31th, 2016","November 29th, 2016",2,medium
+1325,"Which of these is the only fighter in the game ""Super Smash Bros. Melee"" capable of dealing damage with their taunt animation?",Luigi,Luigi,Mr. Game & Watch,Jigglypuff,2,medium
+1326,"Which of the following is a class in the game ""Hearthstone""?",Priest,Priest,Sage,Cleric,2,easy
+1328,"What's the name of the main protagonist in the ""Legend of Zelda"" franchise?",Link,Link,Mario,Zelda,2,easy
+1329,"What is the name of the first boss the player encounters in the 2017 game, ""Little Nightmares""?",The Janitor,The Warden,The Janitor,The Caretaker,2,medium
+1330,What is the full name of the protagonist from the SNES game Clock Tower?,Jennifer Simpson,Jennifer Barrows,Jennifer Simpson,Jennifer Cartwright,2,medium
+1331,"Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",Sonic & Knuckles,Sonic 2,Sonic CD,Sonic 3D Blast,2,easy
+1332,When was Left 4 Dead 2 released?,"November 17, 2009","November 17, 2009","May 3, 2008","November 30, 2009",2,easy
+1333,What two characters from the game Undertale are never in a relationship or not related?,Frisk & Chara,Sans & Papyrus,Toriel & Asgore,Alphys & Undyne,2,medium
+1334,"What name did ""Mario"", from ""Super Mario Brothers"", originally have?",Ossan,Jumpman,Mr. Video,Ossan,2,medium
+1335,"In Grand Theft Auto V, what was Michael De Santa's former surname?",Townley,De Santos,Townley,Watson,2,easy
+1336,"In ""Call Of Duty: Zombies"", which map introduced the perk ""PhD Flopper""?",Ascension,Moon,Call Of The Dead,Ascension,2,medium
+1337,The original Planetside was released in North America on...,"May 20, 2003","June 17, 2001","September 29, 2003","January 14, 2005",2,medium
+1338,"Which of these characters in ""Undertale"" can the player NOT go on a date with?",Toriel,Papyrus,Undyne,Alphys,2,hard
+1339,Which of the following games has the most playable characters?,Timesplitters: Future Perfect,Mortal Kombat: Armageddon,Marvel Vs. Capcom 2,Timesplitters: Future Perfect,2,medium
+1341,"In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",4,4,3,5,2,medium
+1342,What was the name of the hero in the 80s animated video game 'Dragon's Lair'?,Dirk the Daring,Arthur,Dirk the Daring,Sir Toby Belch,2,hard
+1343,"In ""Team Fortress 2"", how much health does a scout have when overhealed?",185,185,215,195,2,hard
+1345,"In The Elder Scrolls: Oblivion, the horse that goes by the name Shadowmere is given by what guild?",Dark Brotherhood,Dark Brotherhood,Thieves,Fighters,2,easy
+1346,Which of these is a type of monster found in Minecraft?,Skeleton,Skeleton,Werewolf,Vampire,2,easy
+1348,Who is the main antagonist of Ori and the Blind Forest?,Kuro,Nibel,Kuro,Gumo,2,easy
+1350,"In ""Sonic the Hedgehog 2"" for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",The Lead Programmer's birthday,The Lead Programmer's birthday,"The first release date of ""Sonic the Hedgehog""",The date Sonic Team was founded,2,hard
+1352,"Why were only only 300,000 copies of Uniracers were produced?","DMA Designs was sued by Pixar, preventing more copies from being produced",There was a disagreement between DMA Designs and Nintendo,It didn't sell well due to poor review scores,No public information is available,2,medium
+1354,What was the original name of Crash Bandicoot?,Willie Wombat,Coco Bandicoot,Marvelous Mole,Willie Wombat,2,easy
+1355,"In ""Call Of Duty: Zombies"", completing which map's easter egg will reward you with the achievement, ""Time Travel Will Tell""?",Shangri-La,Shangri-La,Ascension,Moon,2,medium
+1356,"In the survival horror game, ""Cry of Fear,"" what was the name of Simon's close friend/potential love interest?",Sophie,Olivia,Sophie,Jessica,2,easy
+1357,"Which of these symbols can be seen on the shirt of the 1993 video game character, Bubsy T. Bobcat?",An exclamation point,A question mark,The letter B,An exclamation point,2,medium
+1359,"Which of these is NOT a playable character race in the video game ""Starbound""?",Fenerox,Floran,Novakid,Fenerox,2,medium
+1360,Which Kirby game first introduced Copy Abilities?,Kirby's Adventure,Kirby Super Star,Kirby's Dream Land 2,Kirby's Dream Land,2,easy
+1361,What CS:GO case contains the Butterfly Knife?,Breakout Case,Shadow Case,Vanguard Case,Breakout Case,2,medium
+1362,"In the game ""Terraria"", which of these bosses are pre-hardmode bosses?",Eye of Cthulhu,Plantera,Skeletron Prime,Eye of Cthulhu,2,medium
+1366,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,DMC,Noise,DMC,Triangle,2,medium
+1367,Which game was the first time Mario was voiced by Charles Martinet?,Mario's Game Gallery,Super Mario 64,Mario Tennis,Dr. Mario 64,2,medium
+1368,"Which horror movie had a sequel in the form of a video game released in August 20, 2002?",The Thing,The Evil Dead,The Thing,Saw,2,medium
+1369,"In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",The HECU,Navy Seals,The Combine,The Marines,2,easy
+1372,"Who is the villain company in ""Stardew Valley""?",Joja Co,Joja Co,Ronin,Empire,2,medium
+1374,"In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",Andariel,Valla,Malthael,Kashya,2,hard
+1376,What is the protagonist's title given by the demons in DOOM (2016)?,Doom Slayer,Doom Slayer,Doom Guy,Doom Marine,2,easy
+1378,In which Mario game did the Mega Mushroom make its debut?,Mario Party 4,New Super Mario Bros.,Mario Kart Wii,Super Mario 3D World,2,medium
+1379,Who is the leader of Team Mystic in Pokémon Go?,Blanche,Candela,Blanche,Spark,2,easy
+1382,What is the homeworld of the Elites from Halo?,Sanghelios,Te,Sanghelios,Doisac,2,hard
+1383,"In the Super Mario Bros. Series, what is Yoshi's scientific name?",T. Yoshisaur Munchakoopas,Yoshi,T. Yoshisotop Munchakoopas,T. Yoshisaur Munchakoopas,2,hard
+1385,How many people can you recruit in the game Suikoden in a single playthrough?,107,108,93,96,2,hard
+1387,"In Overwatch, how old is Reinhardt Wilhelm?",61,59,61,65,2,medium
+1388,"Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?",Quake Engine,Doom Engine,Quake Engine,id Engine,2,easy
+1390,What is the most expensive weapon in Counter-Strike: Global Offensive?,Scar-20/G3SG1,M4A1,AWP,Scar-20/G3SG1,2,easy
+1391,"Which pop singer was brought in by SEGA to produce the music for ""Sonic the Hedgehog 3""?",Michael Jackson,Prince,Michael Jackson,George Michael,2,medium
+1392,"What is the name of the game developer who created ""Call Of Duty: Zombies""?",Treyarch,Sledgehammer Games,Infinity Ward,Treyarch,2,easy
+1394,"In Cook, Serve, Delicious!, which food is NOT included in the game?",Pie,Pie,Shish Kabob,Hamburger,2,medium
+1396,"In the Pokémon series, what is Palkia's hidden ability?",Telepathy,Pressure,Telepathy,Water Bubble,2,hard
+1397,"What type of genre is the controversial 2015 game ""Hatred""?",Shoot 'Em Up,Point & Click,Shoot 'Em Up,MMORPG,2,medium
+1400,"Which of the following Pokemon Types was present in the original games, Red and Blue?",Ice,Steel,Dark,Ice,2,easy
+1401,Which one of these games came out first?,Terraria,Minecraft,Starbound,Factorio,2,medium
+1402,In what city in the dystopia alternate future of Half-Life 2 do you first start in?,City 17,City 18,City 6,City 17,2,easy
+1403,"In PROTOTYPE 2, which of the following abilities/weapons is NOT obtained by an Evolved?",Tendrils,Blade,Tendrils,Bio-Bomb,2,medium
+1405,Which country is featured in Ace Combat 5: The Unsung War?,Osea,Aurelia,Australia,Osea,2,medium
+1406,"In the ""Ace Attorney"" series, who was the truly responsible of the forging of the autopsy report of the pivotal IS-7 incident?",Bansai Ichiyanagi,Manfred Von Karma,Bansai Ichiyanagi,Gregory Edgeworth,2,hard
+1407,"Which monster in ""Monster Hunter Tri"" was causing earthquakes in Moga Village?",Ceadeus,Alatreon,Ceadeus,Rathalos,2,hard
+1408,How many obsidian blocks are required to build a nether portal in Minecraft?,10,10,14,13,2,easy
+1409,"Which occupation did John Tanner, the main protagonist for Driver and Driver 2, had before turning into an undercover cop?",Racing Driver,Taxi Driver,Racing Driver,Delivery Driver,2,hard
+1412,"Of the following space shooter games, which came out first?",Space Invaders,Galaxian,Galaga,Sinistar,2,medium
+1413,The acronym DOTA stands for,Defense of the Ancients,Defense of the Artifacts,Defense of the Ancients,Defense of the Antiques,2,easy
+1416,"In the game ""Overwatch,"" what are the names of the two Australian criminals from the Junkers faction?",Junkrat and Roadhog,Junkrat and Roadhog,Roadrat and Junkhog,Ana and Pharah,2,easy
+1417,"The original mascot of the popular Nintendo game, ""Splatoon"" was going to be...",Mario,Inklings,Octolings,Zelda,2,medium
+1419,"In ""Overwatch"", what is the name of Mercy's ""ultimate ability""?",Valkyrie,Valkyrie,Earthshatter,Rocket Barrage,2,medium
+1420,"In the Animal Crossing series, which flower is erroneously called the ""Jacob's Ladder""?",Lily of the Valley,Hydrangea,Harebell,Lily of the Valley,2,hard
+1425,"In ""Kingdom Hearts"", what is the name of Sora's home world?",Destiny Islands,Agrabah,Destiny Islands,Land of Departure,2,medium
+1426,What is Pikachu's National PokéDex Number?,#025,#001,#031,#025,2,easy
+1427,"In ""Call Of Duty: Zombies"", completing which map's main easter egg will reward you with the achievement, ""Little Lost Girl""?",Origins,Revelations,Moon,Tranzit,2,medium
+1430,Which of the following Zelda games did not feature Ganon as a final boss?,Majora's Mask,Ocarina of Time,Skyward Sword,Breath of the Wild,2,easy
+1431,Which of these characters from Final Fantasy VIII primarily spoke in one word sentences?,Fujin,Raijin,Seifer,Fujin,2,hard
+1432,Which company is the one responsible for creating the strategy videogame Stellaris?,Paradox Development Studio,Overkill Software,Tripwire Interactive LLC,Ensemble Studios,2,easy
+1433,"How many times do you fight Gilgamesh in ""Final Fantasy 5""?",6,6,4,5,2,easy
+1436,"In the Mario Kart series, which game introduced the ""Shield Drifting"" mechanic?",Mario Kart Arcade GP DX,Mario Kart: Double Dash,Mario Kart Super Circuit,Mario Kart DS,2,hard
+1438,"In World of Warcraft lore, who was first to have the title ""The Ashbringer""?",Alexandros Mograine,Alexandros Mograine,Tirion Fordring,Arthas Menethil,2,medium
+1439,The “fairy” type made it’s debut in which generation of the Pokemon core series games?,6th,2nd,6th,7th,2,easy
+1440,"In the ""Pikmin"" games, which of the following pikmin colors lacks it's own ""Onion"" nest?",Purple,Purple,Winged,Blue,2,hard
+1441,"In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?",Izayoi Sakuya,Hakurei Reimu,Kirisame Marisa,Kochiya Sanae,2,medium
+1445,"Excluding their instructor, how many members of Class VII are there in the game ""Legend of Heroes: Trails of Cold Steel""?",9,6,10,3,2,medium
+1447,Who's the voice actor for Thrall in the Warcraft game series?,Chris Metzen,Ben Affleck,Jason Derulo,Chris Metzen,2,easy
+1448,"Which of these is the name of a cut enemy from ""Half-Life 2""?",Hydra,Cthulu,Hydra,Spike,2,medium
+1449,"In Terraria, what does the Wall of Flesh not drop upon defeat?",Picksaw,Picksaw,Pwnhammer,Breaker Blade,2,medium
+1451,What is the maximum HP in Terraria?,500,400,1000,500,2,easy
+1452,"In Fallout 4, which type of power armor is first encountered in the early mission ""When Freedom Calls"" in a crashed Vertibird?",T-45,T-51,T-45,T-60,2,medium
+1454,"In which order do you need to hit some Deku Scrubs to open the first boss door in ""Ocarina of Time""?","2, 3, 1","1, 2, 3","1, 3, 2","2, 1, 3",2,medium
+1461,"In the ""Portal"" series, who was Cave Johnson's personal assistant?",Caroline,Heather,Caroline,Melissa,2,medium
+1463,"In ""Starbound"", what is the max HP of the monster ""Punchy""?","50,000 HP","9,000,000 HP","50,000 HP",100 HP,2,hard
+1465,"In ""Phoenix Wright: Ace Attorney"" which character is the District Chief of Police?",Damon Gant,Miles Edgeworth,Lana Skye,Damon Gant,2,easy
+1466,"In the game ""Overwatch,"" which quote does the hero ""McCree"" NOT say upon using his flashbang ability?","""You done?""","""Whoa there.""","""You done?""","""Hold up now.""",2,hard
+1470,"In ""Call Of Duty: Zombies"", completing which map's main easter egg will reward you with the achievement, ""High Maintenance""?",Die Rise,Mob Of The Dead,Die Rise,Origins,2,medium
+1471,"Which franchise does the creature ""Slowpoke"" originate from?",Pokemon,Dragon Ball,Sonic The Hedgehog,Pokemon,2,easy
+1472,"Which team won the ""Tom Clancy's Rainbow Six Siege"" Invitational Event February 2017 in the PC Category?",Continuum,Continuum,GIFU,Santos Dexterity,2,hard
+1473,"Which of the following weapons in ""Counter-Strike: Global Offensive"" does not have a right-click function?",XM1014,SG553,XM1014,R8 Revolver,2,easy
+1477,"In ""The Binding of Isaac"", which item instantly kills Mom and Mom's Heart?",The Bible,The Bible,The Halo,Brimstone,2,hard
+1478,"In the world strategy game 'Sid Meier's Civilization', a programming bug caused the AI depiction of Gandhi to do which of the following?",Become aggressive and launch nuclear strikes,Begin speaking in German,Become friendly and trade his entire wealth,Become aggressive and launch nuclear strikes,2,medium
+1479,Which of the following is not a character in the Street Fighter series?,Mai Shiranui,Laura Matsuda,Sakura Kasugano,Mai Shiranui,2,easy
+1484,"In ""Resident Evil 2"", what is Leon Kennedy's middle name?",Scott,Shaun,Simon,Sam,2,medium
+1486,"What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?",The source code got leaked,They weren't satisfied with the result,The story was not good enough,The source code got leaked,2,medium
+1487,What was the first Call of Duty game to include the Zombies gamemode?,Call of Duty: World at War,Call of Duty: Black Ops,Call of Duty: Modern Warfare 2,Call of Duty: Black Ops III,2,medium
+1488,"What is the main theme song of ""Sonic Adventure 2""?",Live and Learn,Open Your Heart,Live and Learn,Can You Feel the Sunshine?,2,hard
+1497,Which of these is NOT the name of a team leader in Pokémon GO?,Leif,Blanche,Leif,Spark,2,medium
+1498,"League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",Multiplayer Online Battle Arena (MOBA),Real Time Strategy (RTS),First Person Shooter (FPS),Role Playing Game (RPG),2,easy
+1499,"During the game's development, what was the first ever created Pokémon?",Rhyhorn,Bulbasaur,Rhyhorn,Mew,2,medium
+1502,In what year were screenshots added to Steam?,2011,2010,2011,2008,2,medium
+1504,"Counting the Blood and Wine DLC, how many Hero Cards are there in total in The Witcher 3?",25,30,20,15,2,hard
+1508,What was the world's first handheld game device?,Mattel Auto Race,Mattel Auto Race,Game Boy,Microvision,2,hard
+1512,What was the #1 selling game on Steam by revenue in 2016?,Sid Meier's Civilization VI,Grand Theft Auto V,Sid Meier's Civilization VI,Counter Strike: Global Offensive,2,medium
+1513,What is the name of the island introduced in the ARMA III: APEX expansion pack?,Tanoa,Altis,Stratis,Tanoa,2,medium
+1516,"In the video game Overwatch, which playable character is infamous for saying ""It's high noon.""?",McCree,Hanzo,Pharah,McCree,2,easy
+1517,Which team won the first Overwatch League championship?,London Spitfire,Philadelphia Fusion,New York Excelsior,Seoul Dynasty,2,medium
+1520,"Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",Halo,Battlefield,Call of Duty,Borderlands,2,easy
+1521,"In Counter-Strike: Global Offensive, what's the rarity of discontinued skins called?",Contraband,Discontinued,Diminished,Limited,2,easy
+1523,"In which location does Dark Sun Gwyndolin reside in ""Dark Souls""?",Anor Londo,Anor Londo,Firelink Shrine,Blighttown,2,medium
+1529,"In what year was ""Super Mario Sunshine"" released?",2002,2002,2003,2000,2,medium
+1531,"In which game did the character ""Mario"" make his first appearance?",Donkey Kong,Super Mario Bros.,Donkey Kong,Super Mario Land,2,hard
+1533,This weapon in Counter-Strike: Global Offensive does not exist in real life.,M4A4,AWP,M4A1,M4A4,2,medium
+1534,"What Ultimate does Makoto Naegi, protagonist of Danganronpa: Trigger Happy Havoc, have?",Ultimate Lucky Student,Ultimate Unlucky Student,Ultimate Lucky Student,Ultimate Detective,2,easy
+1536,"What is the 4th boss in the 1997 video game ""Crash Bandicoot 2: Cortex Strikes Back""?",Dr. N. Gin,Dr. Neo Cortex,Komodo Brothers,Dr. N. Gin,2,hard
+1537,"The protagonist of the hit game, Half-Life 2 is called:",Gordon Freeman,Alyx Vance,Isaac Kleiner,Wallace Breen,2,easy
+1539,"In Divinity: Original Sin II, what is the name of the skeletal origin character?",Fane,Lohse,The Red Prince,There are no skeletal origin characters,2,easy
+1542,"In vanilla Minecraft, which of the following cannot be made into a block?",Charcoal,Charcoal,Coal,Wheat,2,easy
+1544,What is Gabe Newell's favorite class in Team Fortress 2?,Spy,Spy,Heavy,Medic,2,easy
+1547,"How much did the indie game ""Cave Story"" cost when it was first released in 2004?",$0 USD,$0 USD,$5 USD,$10 USD,2,medium
+1549,Which CS:GO eSports team won the major event ESL One Cologne 2016?,SK Gaming,Team Liquid,SK Gaming,Fnatic,2,medium
+1550,Which Game Boy from the Game Boy series of portable video game consoles was released first?,Game Boy Color,Game Boy Advance,Game Boy Color,Game Boy Micro,2,easy
+1552,"Who is the founder of Team Fortress 2's fictional company ""Mann Co""?",Zepheniah Mann,Zepheniah Mann,Cave Johnson,Wallace Breem,2,easy
+1553,Which of these is NOT a Humongous Entertainment game franchise?,Commander Keen,Pajama Sam,Putt-Putt,Commander Keen,2,easy
+1554,"Which artist composed the original soundtrack for ""Watch Dogs 2""?",Hudson Mohawke,Hudson Mohawke,Rustie,Machinedrum,2,hard
+1557,"In the game Pokémon Conquest, how many kingdoms make up the region of Ransei?",17,18,15,16,2,medium
+1558,"In ""Call Of Duty: Zombies"", which map's opening cutscene shows ""Richtofen"" killing another version of himself?",The Giant,Shadows Of Evil,The Giant,Der Eisendrache,2,hard
+1559,"In the ""Halo"" series, what is the name of the race of aliens humans refer to as ""Grunts""?",Unggoy,Huragok,Unggoy,Sangheili,2,hard
+1561,What is the name of the main island in PLAYERUNKNOWN'S BATTLEGROUNDS?,Erangel,Marmara,Erangel,Severny,2,hard
+1562,Which of the following is NOT one of the main characters in Grand Theft Auto V’s story mode?,Tommy Vercetti,Michael de Santa,Tommy Vercetti,Franklin Clinton,2,easy
+1563,Which of these characters was NOT planned to be playable for Super Smash Bros. 64?,Peach,Bowser,Mewtwo,King Dedede,2,medium
+1566,Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?,Occultic; Nine,Steins; Gate,Robotics; Notes,Chaos; Child,2,medium
+1568,"In the Gamecube Version of ""Resident Evil"" what text document is open on the monitor of the computer in the Visual Data Room?",A GDC Document,A GDC Document,Text Document on Herbs,Nothing,2,hard
+1569,Which of the following created and directed the Katamari Damacy series?,Keita Takahashi,Hideki Kamiya,Shu Takumi,Keita Takahashi,2,medium
+1570,"In the Pokémon series, which type is Sudowoodo, the Imitation Pokémon?",Rock,Rock,Grass,Bug,2,medium
+1571,"How long was the World Record Speed Run of Valve Software's ""Half-Life"" that was done in 2014.","20 Minutes, 41 Seconds","45 Minutes, 32 Seconds","5 Minutes, 50 Seconds","12 Minutes, 59 Seconds",2,hard
+1572,"Which character in Undertale tells you that you're ""gonna have a bad time""?",Sans,Sans,Undyne,Asgore,2,easy
+1573,Which of these game franchises were made by Namco?,Tekken,Street Fighter,Tekken,Mortal Kombat,2,medium
+1574,How many total monsters appear in Monster Hunter Generations?,105,100,98,73,2,hard
+1577,"In the 2015 RPG ""Undertale"", which character do you first encounter after falling down into the underground?",Flowey,Toriel,Sans,Flowey,2,medium
+1581,"In what year was the first ""Mass Effect"" game released?",2007,2008,2009,2010,2,easy
+1582,"Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake ""Virt"" Kaufman?",Uncle Eli,Cadence,Nocturna,Octavian (Bard),2,medium
+1587,"In ""Resident Evil 2"", which virus was William Birkin mutated by?",G-Virus,T-Virus,C-Virus,G-Virus,2,medium
+1589,"Who is the protagonist of the videogame ""Dead Rising 2""?",Chuck Greene,Nick Ramos,Frank West,Chuck Greene,2,medium
+1592,Who is the main villain of Kirby's Return to Dreamland?,Magolor,Magolor,Landia,King Dedede,2,medium
+1593,What is the name of your team in Star Wars: Republic Commando?,Delta Squad,Delta Squad,The Commandos,Bravo Six,2,hard
+1596,"In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?",Green Flu,Yellow Fever,T-Virus,Green Flu,2,medium
+1597,"In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?",Goombario,Goombella,Goombarry,Goombario,2,medium
+1598,"In TF2 Lore, what are the names of the Heavy's younger sisters?",Yana and Bronislava,Yana and Bronislava,Gaba and Anna,Yanna and Gaba,2,hard
+1599,"In the video game ""Team Fortress 2"", which class is able to double jump?",Scout,Spy,Scout,Engineer,2,easy
+1600,"What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into ""Super Smash Bros.""?",Dragon King: The Fighting Game,Nintendo Legends: Fight!,Martial Arts: King of the Hill,Aerial Warriors: Supreme Battle,2,hard
+1602,Which of the following is NOT an official game in Nintendo's Super Smash Bros. series?,Super Smash Bros. Crusade,Super Smash Bros. Melee,Super Smash Bros. Brawl,Super Smash Bros. Crusade,2,medium
+1604,"In the ""Ace Attorney"" series, what is the relationship between Apollo Justice and Trucy Wright?",They're half-siblings,They're co-workers,They're half-siblings,They're friends,2,medium
+1605,"In Skylanders Giants, why was Zaps' Wow Pow named ""For Riley"" ?",As a tribute to a fan who passed away,As a reference to a film,After one of the writers of the game,As a tribute to a fan who passed away,2,medium
+1607,What was the name of the protagonist of Metal Gear Solid V: The Phantom Pain?,"Punished ""Venom"" Snake","Punished ""Venom"" Snake",Miller,Solid Snake,2,medium
+1608,What is the name of the adventurer you meet at the mines in Stardew Valley?,Marlon,Marnie,Morris,Marvin,2,easy
+1609,"In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",BMW M3 GTR,BMW M3 GTR,Porsche 911 Turbo,Nissan 240SX,2,medium
+1616,Which of these is NOT a playable character in the 2016 video game Overwatch?,Invoker,Mercy,Winston,Invoker,2,easy
+1618,Which of the following games was NOT included in Valve's Orange Box?,Counter-Strike,Portal,Half-Life 2: Episode Two,Counter-Strike,2,hard
+1620,"In the game ""DELTARUNE"", what is Ralsei's special ability?",Pacify,Persuade,Eliminate,Pacify,2,easy
+1623,"Which of these is NOT a main playable character in ""Grand Theft Auto V""?",Lamar,Lamar,Trevor,Michael,2,easy
+1625,What is the name of the City in Saints Row The Third?,Steelport,Stilwater,Carcer,Steelport,2,easy
+1627,"Which one of these nations was added to Civilization V with the ""Gods & Kings"" expansion?",The Netherlands,The Netherlands,The Zulu,The Ottomans,2,medium
+1629,Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?,Ignis,Ventus,Terra,Aqua,2,easy
+1630,"In ""Undertale"", how many main endings are there?",3,2,5,13,2,easy
+1634,"In the game ""Cave Story,"" what is the character Balrog's catchphrase?",Huzzah!,Yes!,Whoa there!,Huzzah!,2,medium
+1636,"Who created the indie adventure game ""Night in the Woods""?",Alec Holowka,Ron Gilbert,Alec Holowka,Tim Schafer,2,easy
+1639,"What system was ""Touhou: Highly Responsive to Prayers"" released on?",PC-98,OSX 10.9.5,Windows ME,PC-98,2,medium
+1640,"What Touhou Project character's first ever appearance was as a midboss in the eighth game, Imperishable Night?",Tewi Inaba,Tewi Inaba,Mystia Lorelei,Kaguya Houraisan,2,hard
+1641,"Who created the pump ""F.L.U.D.D."" Mario uses in Super Mario Sunshine?",Elvin Gadd,Robert Fludd,Elvin Gadd,Nirona,2,medium
+1642,"What former MOBA, created by Waystone Games and published by EA, was shut down in 2014?",Dawngate,Strife,League of Legends,Heroes of Newerth,2,medium
+1643,"In the ""Worms"" series of video games, which of these weapons is affected by wind?",Bazooka,Grenade,Bazooka,Air Strike,2,easy
+1648,What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?,Jill,Dana,Jill,Alma,2,hard
+1653,"In the game ""Undertale"", who was Mettaton's creator?",Alphys,Undyne,Sans,Alphys,2,medium
+1654,What was the character Kirby originally going to be named?,Popopo,Dedede,Waddle Dee,Popopo,2,medium
+1656,"Which of the following characters from the game ""Overwatch"" was revealed to be homosexual in December of 2016?",Tracer,Widowmaker,Tracer,Sombra,2,easy
+1657,"Which Pokemon generation did the fan-named ""Masuda Method"" first appear in?",Diamond/Pearl,Diamond/Pearl,Ruby/Sapphire,Black/White,2,easy
+1659,Which of these characters wasn't a villian in Club Penguin?,The Director,Herbert P. Bear,Tusk,Ultimate Proto-Bot 10000,2,hard
+1660,Which character from the Mega Man series made a small cameo on Volt Catfish's introduction scene in CD versions of Mega Man X3?,Auto,Eddie,Tango,Rush,2,hard
+1662,"When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",Halo 3: Recon,Halo 3: Recon,Halo 3: Helljumpers,Halo 3: Phantom,2,medium
+1663,"In the 2000 video game ""Crimson Skies,"" what was the name of the protagonists' zeppelin?",Pandora,Helios,Icarus,Pandora,2,medium
+1664,"What is the name of the first level in ""Call of Duty: World at War""?",Semper Fi,Ring of Steel,Semper Fi,Vendetta,2,medium
+1667,"Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",Folklore,Folklore,Shadow of the Colossus,ICO,2,medium
+1671,"Which game in the ""Monster Hunter"" series introduced the ""Insect Glaive"" weapon?",Monster Hunter 4,Monster Hunter Freedom,Monster Hunter Stories,Monster Hunter 2,2,hard
+1673,"In vanilla Minecraft, you can make armor out of all BUT which of the following?",Emeralds,Diamonds,Iron,Emeralds,2,medium
+1676,Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?,Kumatora,King K. Rool,Incineroar,Kumatora,2,easy
+1677,"Which of these is not a character in the game, ""Lethal League""?",Rex,Rex,Switch,Candyman,2,medium
+1678,"Which of these blocks in ""Minecraft"" has the lowest blast resistance?",Sand,End Stone,Water,Wood Planks,2,medium
+1680,Rocket League is a game which features..,Cars,Helicopters,Planes,Submarines,2,easy
+1682,What was the first PlayStation game to require the use of the DualShock controller?,Ape Escape,Metal Gear,Tekken,Tomba 2!,2,medium
+1683,"In ""Kingdom Hearts"", what mission are Donald and Goofy assigned by King Mickey?",To find the Key bearer and stick with him!,To find the Key bearer and stick with him!,To find the Key bearer and steal the key!,To find the Key bearer and report back!,2,medium
+1684,"In the PAYDAY series, where did Dallas start his criminal career?","Chicago, Illinois","Dallas, Texas","Chicago, Illinois","New York City, New York",2,hard
+1685,What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?,11037,"4, 8, 15, 16, 23, 42",55730,11037,2,medium
+1691,"In ""Yo! Noid 2,"" The Noid can perform what special move?",Dab,Pizza Throw,Dodge Roll,Spin Dash,2,easy
+1693,What video game genre were the original Warcraft games?,RTS (Real Time Strategy),RPG (Role Playing Game),TBS (Turn Based Strategy),MMO (Massively Multiplayer Online),2,medium
+1695,"Which gaming series includes ""The Diabolical Box"" and ""The Curious Village""?",Professor Layton,Persona,Professor Layton,Etrian Odyssey,2,hard
+1698,In which video game did Michael Fassbender star?,Fable 3,Fable 3,Call of Duty: Modern Warfare,Assassin's Creed 3,2,hard
+1699,The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...,Mortal Kombat,Duke Nukem,Resident Evil,Doom,2,easy
+1700,The default playermodel of Garry's Mod is this Half Life 2 character.,Isaac Kleiner,G-Man,Alyx Vance,Gordon Freeman,2,medium
+1705,"In Dota 2, what is Earthshaker's real name?",Raigor Stonehoof,Raigor Stonehoof,Banehallow Ambry,Carl,2,medium
+1709,"In Portal 2, which solar system body did Wheatley end up orbiting?",The moon,Earth,The moon,Jupiter,2,medium
+1714,"Which was the first ""Call Of Duty: Zombies"" map to introduce the ""Wunderwaffe DG-2""?",Shi No Numa,Tranzit,Kino Der Toten,Shi No Numa,2,medium
+1715,"In the game ""Persona 4"", what is the canonical name of the protagonist?",Yu Narukami,Chino Mashido,Tunki Sunada,Yu Narukami,2,medium
+1716,"Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",Dragon King: The Fighting Game,Contest of Champions,Dragon King: The Fighting Game,Smash and Pummel,2,hard
+1718,Who is the main antagonist in the Portal franchise?,GLaDOS,Chell,Wheatley,GLaDOS,2,easy
+1719,Who is the last boss in Night In The Woods' Demontower minigame?,The Blood Thief,Mega Hairball,King Skellie,The Blood Thief,2,easy
+1725,Which one of the following titles by Valve is not based on a Community Mod?,Ricochet,Day of Defeat,Counter-Strike,Alien Swarm,2,hard
+1726,"Which of the following Copy Abilities was only featured in ""Kirby & The Amazing Mirror""?",Mini,Magic,Smash,Mini,2,medium
+1728,"What is the name of ""Team Fortress 2"" update, in which it became Free-to-play?",Über Update,Pyromania Update,Über Update,Mann-Conomy Update,2,easy
+1729,"In Five Nights at Freddy's 1, how can you make Golden Freddy disappear?",Enable cameras,Turn on the light,Shut the door,Enable cameras,2,easy
+1734,"Which of these operators from ""Tom Clancy's Rainbow Six Siege"" has the ability to damage reinforced walls?","Jordan ""Thermite"" Trace","Eliza ""Ash"" Cohen","Seamus ""Sledge"" Cowden","Dominic ""Bandit"" Brunsmeier",2,medium
+1738,"In ""Starbound"", according to the asset files, the description of the ""Erchius Ghost"" is the same as which other assets?",Spookit,Spookit,Petricub,Trictus,2,hard
+1742,"In the title of the game ""Luigi's Mansion"", what is the only letter to not appear with a pair of eyes in it?",s,s,n,i,2,hard
+1743,"How many regular Sunken Sea Scrolls are there in ""Splatoon""?",27,32,30,5,2,medium
+1744,"In Call Of Duty: Black Ops II, who is the main antagonist?",Raul Menéndez,Vladimir Makarov,Frank Woods,Raul Menéndez,2,medium
+1746,How many permanent companions are there in the base game version of Fallout: New Vegas?,8,7,9,6,2,medium
+1748,Gordon Freeman is said to have burnt and destroyed what food in the break room microwave?,Casserole,Sub Sandwich,Chicken Soup,Pepperoni Pizza,2,easy
+1749,"In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",Head,Arm,Leg,Chest,2,easy
+1751,Which Mario spin-off game did Waluigi make his debut?,Mario Tennis,Mario Party 3,Mario Tennis,Mario Kart: Double Dash!!,2,easy
+1753,"In the game ""Red Dead Redemption"", what is the name of John Marston's dog?",Rufus,Rutus,Rufus,Finn,2,medium
+1755,In what engine was Titanfall made in?,Source Engine,Frostbite 3,Source Engine,Unreal Engine,2,medium
+1756,When was the original Star Wars: Battlefront II released?,"October 31, 2005","December 18, 2004","November 21, 2006","September 9, 2007",2,medium
+1757,"In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",Corvus,Cabal,Corvus,Legion,2,easy
+1763,"When was the top-down online RPG ""Space Station 13"" released?",2003,2003,2000,2010,2,easy
+1767,When was Minecraft first released to the public?,"May 17th, 2009","May 17th, 2009","September 17th, 2009","November 18th, 2011",2,easy
+1771,"In ""PUBATTLEGROUNDS"" which ammo type does the M24 use?",7.62mm,7.62mm,5.56mm,9mm,2,easy
+1775,"When was the video game publisher ""Ubisoft"" founded ?",March 1986,April 1990,June 2001,August 1956,2,medium
+1777,"If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?",Link,Link,Wario,Q*bert,2,medium
+1783,Who published the 1998 video game Half-Life?,Sierra On-Line,Valve,Blizzard,Sierra On-Line,2,medium
+1787,"Which town was Seamus ""Sledge"" Cowden from ""Tom Clancy's Rainbow Six Siege"" born in?",John O'Groats,Brawl,Kearvaig,John O'Groats,2,medium
+1789,"Which of the following characters is NOT playable in ""Resident Evil 6""?",Jill Valentine,Jill Valentine,Chris Redfield,Sherry Birkin,2,medium
+1791,"In Left 4 Dead, what is the character Bill's last name?",Overbeck,Fish,Overbeck,Roberts,2,hard
+1793,"In ""Overwatch"", Coalescence is the name for the ultimate of which hero?",Moira,Zenyatta,Torbjorn,Moira,2,medium
+1795,"Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?",Solid Snake,Pit,Meta Knight,Solid Snake,2,medium
+1796,"Which of these characters does not appear in ""Nier: Automata""?",A1,A1,A2,9S,2,medium
+1799,Why was the character Trevor Philips discharged from the Air Force?,Mental Health Issues,Mental Health Issues,Injuries,Disease,2,hard
+1800,What is a Tetris piece called?,Tetromino,Tetromino,Tetratile,Tetris,2,medium
+1808,"Who created the 2011 Video Game ""Minecraft""?",Markus Persson,Markus Persson,Jens Bergensten,Daniel Rosenfeld,2,easy
+1813,Which of these covert groups employs Sam Fisher to work as a Splinter Cell?,Third Echelon,Third Echelon,Voron,Black Arrow,2,easy
+1814,"Which operation in ""Tom Clancy's Rainbow Six Siege"" introduced the ""Skyscraper"" map?",Red Crow,Velvet Shell,Skull Rain,Red Crow,2,medium
+1817,"What was the first game in the ""Battlefield"" series?",Battlefield 1942,Battlefield Vietnam,Battlefield 2,Battlefield 1,2,easy
+1821,"What is the perk that was introduced in the ""Call Of Duty: Zombies"" map, ""Mob Of The Dead""?",Electric Cherry,Quick Revive,Vulture Aid,Tombstone,2,medium
+1824,Which of the following is a character in the video game Destiny?,Cayde-6,Ostrava of Boletaria,Mordecai the Hunter,Leon S. Kennedy,2,medium
+1825,Which of these is NOT a team available in the game Pokémon Go?,Team Rocket,Team Instinct,Team Valor,Team Mystic,2,easy
+1826,What was the first Super Mario game ever released in North America for the 3DS?,Super Mario 3D Land,Super Mario 3D Land,Super Mario Maker,New Super Mario Bros. 2,2,medium
+1829,"In the 2002 video game ""Kingdom Hearts"", how many Keyblades are usable?",18,13,18,16,2,easy
+1830,"In World of Warcraft lore, who organized the creation of the Paladins?",Alonsus Faol,Uther the Lightbringer,Alonsus Faol,Alexandros Mograine,2,hard
+1832,"Which ""Perk-A-Cola"" in ""Call Of Duty: Zombies"" was ""reworked"" in ""Call of Duty: Black Ops II""?",Double Tap Root Beer,Who's Who,Juggernog,Mule Kick,2,medium
+1836,"In the game ""Hearthstone"", what is the best rank possible?",Rank 1 Legend,Rank 1 Legend,Rank 1 Elite,Rank 1 Master,2,easy
+1837,"In the ""Call Of Duty: Zombies"" map ""Moon"", there is a secondary called the QED. What does QED stand for?",Quantum Entanglement Device,Quad Ectoplasmic Driver,Question Every Dog,Quantum Entanglement Device,2,medium
+1841,When was the game 'Portal 2' released?,2011,2014,2009,2007,2,easy
+1847,What is Solid Snake's real name?,David,Solid Snake,David,John,2,medium
+1848,Which of these is NOT a name of a city in the main island of PLAYERUNKNOWN'S BATTLEGROUNDS?,Belushya Guba,Yasnaya Polyana,Pochinki,Georgopol,2,medium
+1851,"In ""Call of Duty: Black Ops III"" Zombies, what does completing all the main easter eggs reward you with?","1,000,000 XP","1,000,000 XP",Juggernog at the start of each game,50 Liquid Diviniums,2,medium
+1854,Who is the half-demon character in Divinity: Original Sin 2 who you talk to to transition between acts?,Malady,Meister Siva,Malady,Gawin,2,medium
+1855,Which of the following is not a character in the video game Doki Doki Literature Club?,Nico,Monika,Natsuki,Sayori,2,easy
+1861,"What's the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?",Spooky Stuff,Ghosts n' Ghouls,Nerving Nights,Fearful Frights,2,hard
+1862,"Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?",Sniper,Sniper,Heavy,Soldier,2,medium
+1872,Which of these games was the earliest known first-person shooter with a known time of publication?,Spasim,Spasim,Doom,Wolfenstein,2,medium
+1876,What song is played during the ending credits of Guitar Hero: World Tour?,Dream Theater - Pull Me Under,King Crimson - 21st Century Schizoid Man,Dream Theater - Pull Me Under,Dragonforce - Through The Fire & The Flames,2,medium
+1879,Which drive form was added into Kingdom Hearts II Final Mix?,Limit Form,Limit Form,Valor Form,Wisdom Form,2,hard
+1884,"In Stardew Valley, what is the reward for completing all of the Bulletin Board bundles?",Additional Friendship points,Glittering Boulder removed,Bus is repaired,Additional Friendship points,2,hard
+1892,Which of the following has Jennifer Taylor NOT voiced?,Sarah Kerrigan,Princess Peach,Sarah Kerrigan,Zoey,2,medium
+1896,"In the 1980s, a service called Gameline allowed users to download games to what console?",Atari 2600,Sega Genesis,Nintendo Entertainment System,ColecoVision,2,medium
+1899,"In the PAYDAY series, who betrayed the PAYDAY gang that got Hoxton arrested?",Hector,Hector,Vlad,The Dentist,2,easy
+1903,How many games in the Crash Bandicoot series were released on the original Playstation?,5,4,3,5,2,easy
+1904,"In the ""PAYDAY"" series, what is the real name of the character known as ""Dallas""?",Nathan Steele,Nathan Steele,Nate Siemens,Nick Stamos,2,hard
+1905,Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?,Steed,Steed,Mule,Benson,2,hard
+1914,"Where does ""The Legend of Zelda: Majora's Mask"" take place?",Termina,Termina,Hyrule,Gysahl,2,medium
+1915,"When was ""System Shock"" released?",1994,1994,1995,2000,2,medium
+1916,What was the name of Sonic the Hedgehog's original human girlfriend?,Madonna,Celeste,Madonna,Sierra,2,hard
+1917,"Which weapon that was cut from the game ""Half Life 2"" was going to replace the crowbar?",Ice Axe,Ice Axe,Fire Axe,Wrench,2,medium
+1919,"In ""Call Of Duty: Zombies"", which map features the ""Fly Trap"" easter egg?",Der Riese,Tranzit,Der Riese,Call Of The Dead,2,medium
+1920,"In the ""Devil May Cry"" franchise, which game is chronologically first?",Devil May Cry 3: Dante's Awakening,Devil May Cry 4,Devil May Cry,Devil May Cry 2,2,hard
+1923,"In ""Mario & Sonic at the Olympic Games"", characters are split into how many types?",4,6,5,3,2,easy
+1927,Who is the protagonist in Dead Rising (2006)?,Frank West,Chuck Greene,Frank West,John North,2,easy
+1928,"Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?",Terri Brosius,Jennifer Hale,Jenn Taylor,Terri Brosius,2,medium
+1931,Which football player is featured on the international cover version of the video game FIFA 16?,Lionel Messi,Cristiano Ronaldo,Wayne Rooney,David Beckham,2,medium
+1932,What do the video games No Man’s Sky and Mighty No. 9 have in common?,Both were announced in 2013.,Both were crowdfunded.,Both were developed by indie studios.,Both were announced in 2013.,2,hard
+1933,Which of the following is NOT a Nintendo game console?,Dreamcast,SNES,Wii,Dreamcast,2,easy
+1934,"In the popular MOBA League of Legends, which of the following champions is nicknamed ""the Virtuoso""?",Jhin,Kayle,Jhin,Ezreal,2,hard
+1947,When was Pokemon GO released in North America?,"July 6th, 2016","June 5th, 2016","July 6th, 2016","May 24th, 2016",2,hard
+1953,"The protagonist in the game ""Cave Story"" is named",Quote,Quote,Kazuma,Curly,2,medium
+1954,Which Dota 1 hero changed gender when ported to Dota 2?,Legion Commander,Axe,Keeper of the Light,Legion Commander,2,medium
+1958,"Which game won the ""Games for Impact"" award in The Game Awards 2015?",Life is Strange,Ori and the Blind Forest,Life is Strange,Rocket League,2,medium
+1961,What is the name of the final boss in Turok: Dinosaur Hunter?,The Campaigner,The Primagen,Oblivion,The Campaigner,2,medium
+1969,"In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?",13,6,18,13,2,hard
+1973,"Which franchise was NOT featured in the 2015 video game ""Lego Dimensions""?",Breaking Bad,Portal,Doctor Who,Back to the Future,2,easy
+1982,"In ""PAYDAY 2"", what weapon has the highest base weapon damage on a per-shot basis?",HRL-7,Heavy Crossbow,HRL-7,Thanatos .50 cal,2,medium
+1985,When was the Valve Corporation founded?,"August 24, 1996","December 26, 1994","March 22, 1997","August 24, 1996",2,hard
+1987,"In the Zombies mode of ""Call of Duty: Black Ops"", what is the ""Pack-A-Punched"" version of the ""Galil"" called?",Lamentation,Lamentation,Galvanized Atomic Lead Insertion Liquidator,Gabig,2,hard
+1990,"In the game series ""The Legend of Zelda"", what was the first 3D game?",Ocarina of Time,Majora's Mask,A Link to the Past,The Wind Waker,2,medium
+1993,Who is Sonic's sidekick?,Tails,Tails,Shadow,Amy,2,easy
+1996,"In which game does a character say, ""Sometimes, I dream about cheese""?",Half Life 2,Half Life 2,Team Fortress 2,Dark Souls,2,medium
+1997,Which franchise had a special event hosted in the popular MMORPG Final Fantasy XIV: A Realm Reborn?,Yo-kai Watch,Pokémon,Yu-gi-oh,Buddyfight,2,medium
+1999,What was the main currency in Club Penguin?,Coins,Stamps,Tickets,Gems,2,medium
+2000,Which Sonic the Hedgehog game introudced Knuckles the Echidna?,Sonic the Hedgehog 3,Sonic the Hedgehog 2,Sonic the Hedgehog 3,Sonic & Knuckles,2,medium
+2002,"""Strangereal"" is a fictitious Earth-like world for which game series?",Ace Combat,Jet Set Radio,Deus Ex,Crimson Skies,2,hard
+2005,Which of these Starbound races has a Wild West culture?,Novakid,Avian,Human,Hylotl,2,easy
+2006,"During development of ""Super Mario World"", Yoshi's hard saddle was originally which of these?",A shell,A slide of Gelatin,A shell,A poffin,2,hard
+2014,In what year were achivements added to Steam?,2007,2008,2007,2009,2,medium
+2019,Which of these is NOT a terrorist faction in Counter-Strike (2000)?,Midwest Militia,Phoenix Connection,Midwest Militia,Elite Crew,2,medium
+2020,"Psych-Horror ""Eternal Darkness: Sanity's Requiem"", developed by Silicon Knights in 2002, was published by who and on what platform?",Nintendo® Co. Ltd. | GameCube™,Sony® Computer Entertainment™ Inc. | PlayStation® 2,Microsoft® Game Studios™ | XBox™,Nintendo® Co. Ltd. | GameCube™,2,medium
+2021,"When was Chapter 1 of the Source Engine mod ""Underhell"" released?","September 1st, 2013","March 3rd, 2011","September 12th, 2013","September 1st, 2013",2,medium
+2025,"In ""Call Of Duty: Zombies"", what does the game traditionally reward you for completing a boss round?",Max Ammo,A Pack-A-Punched gun,Max Ammo,Death Machine,2,hard
+2028,Who was Tetris created by?,Alexey Pajitnov,Toru Iwatani,Alexey Pajitnov,Allan Alcorn,2,medium
+2029,Which of these is NOT a map included in the game Counter-Strike: Global Offensive?,Oilrig,Assault,Mirage,Cache,2,easy
+2032,"In the Fallout series, on which date did The Great War happen?","October 23rd, 2077","May 15th, 2058","December 14th, 2069","October 23rd, 2077",2,hard
+2036,Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?,The Legend of Zelda: The Minish Cap,The Legend of Zelda: Twilight Princess,The Legend of Zelda: Spirit Tracks,The Legend of Zelda: Four Swords,2,hard
+2039,"In Night in the Woods, which instrument did Casey play?",Drums,Bass,Drums,Piano,2,medium
+2040,"In which mall does ""Dead Rising"" take place?",Willamette Parkview Mall,Willamette Parkview Mall,Liberty Mall,Twin Pines Mall,2,easy
+2041,On which planet does the game Freedom Planet (2014) take place?,Avalice,Freedom,Avalice,Galaxytrail,2,medium
+2044,"In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called?",The Ancient One,Anomalous,Eater of Souls,The Ancient One,2,medium
+2046,"In which ""Call of Duty"" game are the ""Apothicons"" introduced in the Zombies mode?",Call Of Duty: Black Ops III,Call Of Duty: Black Ops III,Call Of Duty: Black Ops,Call Of Duty: World At War,2,medium
+2048,"In Overwatch, which ape species is the hero Winston?",Gorilla,Gorilla,Orangutan,Chimpanzee,2,easy
+2049,What does Solid Snake use to hide himself with?,Cardboard Box,Cloaking Device,Metal Crate,Cardboard Box,2,easy
+2050,When was Steam first released?,2003,2003,2004,2011,2,hard
+2052,"In the original ""Super Mario Bros."", what is the acceleration of Mario if he was in free fall?",91.28 m/s^2,110  m/s^2,91.28 m/s^2,9.42  m/s^2,2,hard
+2053,Which of the four empires in  Eve Online was the first to achieve faster than light travel?,Amarr Empire,Caldari State,Gallente Federation,Amarr Empire,2,hard
+2073,"In the ""Metal Gear Solid"" series, what's the name of Solid Snake's brother?",Liquid Snake,Kulus Snake,Billy Snake,Gilur Snake,2,easy
+2074,"""Gimmick!"" is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",FME-7,VRC7,VRC6,MMC5,2,hard
+2076,"In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",Stairs,Two-Story Building,Stairs,Rocket Launcher,2,hard
+2086,"In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?",Corrin,Cloud,Bayonnetta,Ryu,2,hard
+2089,"In Disney's ""Toontown Online"", which of these species wasn't available as a Toon?",Cow,Monkey,Cow,Bear,2,hard
+2092,"When was the video game ""P.A.M.E.L.A."" released on Steam?","March 9, 2017","January 7, 2007","March 9, 2017","October 23, 1997",2,medium
+2093,Who composed the soundtrack for the game VVVVVV?,Magnus Pålsson,Terry Cavanagh,Danny Baranowsky,Joel Zimmerman,2,medium
+2102,"In the game Dark Souls, what is the name of the region you're in for the majority of the game?",Lordran,Drangleic,Oolacile,Lordran,2,easy
+2104,Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?,Jynx,Electabuzz,Magmar,Rhydon,2,hard
+2107,"What was the game ""Galaga"" was a sequel to?",Galaxian,Galactica,Galaxian,Space Invaders,2,medium
+2108,"Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",Deid Mann,Deid Mann,Frank Sahwit,Shey De Killer,2,hard
+2109,"What is the hardest possible difficulty in ""Deus Ex: Mankind Divided""?",I Never Asked For This,Nightmare,Extreme,I Never Asked For This,2,easy
+2111,"Lanky, Funky, and Chunky are all characters featured in which series owned by Nintendo?",Donkey Kong,Mario,Kirby,Zelda,2,easy
+2112,What is the main character of Metal Gear Solid 2?,Raiden,Solidus Snake,Big Boss,Venom Snake,2,medium
+2118,Which of these Counter-Strike maps is a bomb defuse scenario?,Prodigy,747,Havana,Oilrig,2,medium
+2119,What company develops the Rock Band series of rhythm games?,Harmonix,Activision,Harmonix,Konami,2,easy
+2124,"In the ARPG ""Path of Exile,"" what is the highest amount of sockets that an item can have?",6,6,5,4,2,medium
+2125,The character Wario was first introduced in which game of the Mario video game franchise?,Super Mario Land 2: 6 Golden Coins (1992),Super Mario Bros. 3 (1988),Wario Land: Super Mario Land 3 (1994),Super Mario Land 2: 6 Golden Coins (1992),2,medium
+2128,"When was the game ""Roblox"" released?",2006,2003,2006,2002,2,medium
+2135,When was Nintendo's Virtual Boy released?,1995,1989,1995,1997,2,medium
+2138,"In Animal Crossing: New Leaf, which of these paintings from Redd's Art Gallery is always genuine?",Warm Painting,Warm Painting,Jolly Painting,Neutral Painting,2,hard
+2143,The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?,Glock-18,Glock-18,Tec-9,Desert Eagle,2,easy
+2144,"In the Half-Life series, Gordon Freeman's signature weapon is a:",Crowbar,Sledgehammer,Fiber Wire,Katana,2,easy
+2148,Which one of these is NOT an official map in Counter-Strike: Global Offensive?,de_season,de_sugarcane,de_season,de_canals,2,hard
+2149,Pokémon Go is a location-based augmented reality game developed and published by which company?,Niantic,Rovio,Niantic,Zynga,2,easy
+2155,"In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?",66,91,45,66,2,hard
+2160,Which of these TrackMania environments was NOT in the original game?,Bay,Desert,Snow,Bay,2,hard
+2175,"In the Nintendo Game Splatoon 2, what is Marina's screen name?",DJ_Hyperfresh,DJ_Hyperfresh,MC.princess,Kidnotsquid123,2,hard
+2178,"According to Toby Fox, what was the method to creating the initial tune for Megalovania?",Singing into a Microphone,Playing a Piano,Singing into a Microphone,Using a Composer Software,2,hard
+2182,"""Rollercoaster Tycoon"" was programmed mostly entirely in...",x86 Assembly,C++,C,x86 Assembly,2,medium
+2187,"In the ""Call Of Duty: Zombies"" map ""Origins"", how many steps are there to upgrade a Staff?",4,7,4,5,2,medium
+2190,Which company did Bethesda purchase the Fallout Series from?,Interplay Entertainment,Interplay Entertainment,Capcom,Blizzard Entertainment,2,medium
+2192,Which of these is NOT a faction included in the game Counter-Strike: Global Offensive?,BOPE,GSG-9,BOPE,Elite Crew,2,medium
+2194,"In Super Mario Bros., who informs Mario that the princess is in another castle?",Toad,Luigi,Yoshi,Bowser,2,easy
+2200,What was the world's first video game?,Tennis for Two,Spacewar!,Pong,Space Travel,2,hard
+2205,Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?,Caroline,Abigail,Caroline,Haley,2,easy
+2207,"In Left 4 Dead, what is the name of the Special Infected that is unplayable in Versus mode?",The Witch,The Tank,The Witch,The Smoker,2,medium
+2218,Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?,Danganronpa: Trigger Happy Havoc,Danganronpa: Trigger Happy Havoc,Danganronpa 2: Goodbye Despair,Danganronpa V3: Killing Harmony,2,medium
+2224,Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?,Sheik,Sheik,Samus,Lucas,2,easy
+2228,"In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",Moon Rock Poisoning,Accidentally sending a portal to the Moon,Slipped in the shower,Moon Rock Poisoning,2,easy
+2229,"The cake depicted in Valve's ""Portal"" franchise most closely resembles which real-world type of cake?",Black Forest,Black Forest,Devil's Food,Molten Chocolate,2,medium
+2230,"Who created the ""Metal Gear"" Series?",Hideo Kojima,Hiroshi Yamauchi,Shigeru Miyamoto,Hideo Kojima,2,easy
+2232,What is the default alias that Princess Garnet goes by in Final Fantasy IX?,Dagger,Dirk,Dagger,Garnet,2,easy
+2235,In the Kingdom Heart series who provides the english voice for Master Eraqus?,Mark Hamill,Mark Hamill,Jason Dohring,Jesse McCartney,2,medium
+2257,"What vault in the video game ""Fallout 3"" is the home of multiple clones named Gary?",Vault 108,Vault 108,Vault 101,Vault 87,2,hard
+2264,What snowy mob was added in Minecraft 1.10?,Polar bears,Polar bears,Eskimos,Penguins,2,medium
+2267,"In the indie farming game ""Stardew Valley"", which NPC hates the ""prismatic shard"" item when received as a gift?",Haley,Abigail,Elliott,Lewis,2,hard
+2268,"In the game ""Subnautica"", which feature was removed due to performance issues in 2016?",Terraforming,Building,Terraforming,Crafting,2,medium
+2270,"In the Mario Kart and Smash Bros. Games, Princess Rosalina is considered what weight class?",Heavy,Heavy,Medium,Light,2,medium
+2282,Which souls game was not directed by Hidetaka Miyazaki?,Dark Souls 2,Dark Souls 2,Demon Souls,Dark Souls,2,hard
+2283,"In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",Aston Martin Vulcan,Aston Martin Vulcan,Ferrari FXX-K,McLaren P1 GTR,2,medium
+2290,"In the original Mega Man series, who is Mega Man's arch nemesis?",Dr. Wily,Dr. Light,Dr. Bad,Mr. Z,2,easy
+2296,"Who performed ""I Took A Pill In Ibiza""?",Mike Posner,Avicii,Robbie Williams,Harry Styles,3,easy
+2297,From which country does the piano originate?,Italy,Germany,Austria,Italy,3,medium
+2298,What is the first track on Kanye West's 808s & Heartbreak?,Say You Will,Say You Will,Welcome to Heartbreak,Street Lights,3,medium
+2299,What is the name of the song by Beyoncé and Alejandro Fernández released in 2007?,Amor Gitano,Amor Gitano,La ultima vez,Rocket,3,hard
+2300,What was Rage Against the Machine's debut album?,Rage Against the Machine,Evil Empire,Bombtrack,The Battle Of Los Angeles,3,easy
+2301,Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?,MGMT,MSTRKRFT,STRFKR,SBTRKT,3,medium
+2302,What is the name of Rivers Cuomo's wife?,Kyoko Ito,Kyoko Ito,Yoko Ono,Kyary Pamyu Pamyu,3,easy
+2303,Which of the following is not a studio album by the band Pink Floyd?,Moving Pictures,The Dark Side of the Moon,Moving Pictures,Wish You Were Here,3,easy
+2304,Who won the 1989 Drum Corps International championships?,Santa Clara Vanguard,Blue Devils,Santa Clara Vanguard,The Academy,3,hard
+2305,"Who wrote the song ""You Know You Like It""?",AlunaGeorge,AlunaGeorge,DJ Snake,Steve Aoki,3,hard
+2306,"What is the English title of the vaporwave track ""リサフランク420 / 現代のコンピュー"" by Macintosh Plus (Vektroid)?",Lisa Frank 420 / Modern Computing,Smoke Weed 420 / Everyday,Lisa Frank 420 / Modern Computing,Make Your Move 420 / My Mind,3,hard
+2307,"Which group performs the song ""Crash into Me""?",Dave Matthews Band,Phish,The Grateful Dead,Destiny's Child,3,easy
+2308,'74–'75 is a 1993 single from the album Ring by what American band?,The Connells,R.E.M.,The Ocean Blue,The Connells,3,medium
+2309,EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?,White,Black,Blue,Yellow,3,medium
+2310,Which European capital city gives its name to a 1981 song by Ultravox?,Vienna,Berlin,Paris,Brussels,3,medium
+2311,In what year was Taylor Swift born?,1989,1988,1987,1990,3,medium
+2312,Which of the following bands is Tom DeLonge not a part of?,+44,Box Car Racer,Blink-182,Angels & Airwaves,3,medium
+2313,"What is the name of the main character from the music video of ""Shelter"" by Porter Robinson and A-1 Studios?",Rin,Rem,Ren,Rin,3,medium
+2314,"What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",Blonde,Brunette,Black,Blonde,3,easy
+2315,"What was the subject of the 2014 song ""CoCo"" by American rapper O. T. Genasis?",Cocaine,Conan O'Brien,Cobalt(II) carbonate,Coconut cream pie,3,easy
+2316,Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'?,Leo Sayer,Leo Sayer,Elton John,Billy Joel,3,medium
+2317,Who is the lead singer of The Lumineers?,Wesley Schultz,Wesley Schultz,Jeremiah Fraites,Jay Van Dyke,3,medium
+2318,"Which artist collaborated with American DJ Dillon Francis to release the song 2016 ""Need You""?",NGHTMRE,LOUDPVCK,NGHTMRE,KRNE,3,medium
+2319,"The song ""Twin Size Mattress"" was written by which band?",The Front Bottoms,The Front Bottoms,Twenty One Pilots,The Wonder Years,3,medium
+2320,"What year was Min Yoongi from South Korea boy band ""BTS"" born in?",1993,1992,1995,1993,3,hard
+2321,How many studio albums have the duo Daft Punk released?,4,1,5,4,3,easy
+2322,"Who wrote the musical composition, ""Rhapsody In Blue""?",George Gershwin,Irving Berlin,Duke Ellington,Johnny Mandel,3,medium
+2323,"What animal is featured on the cover of English electronic music group The Prodigy's album, ""The Fat of the Land""?",Crab,Crab,Fox,Elephant,3,medium
+2324,Which music publication is often abbreviated to NME?,New Musical Express,New Metro Entertainment,New Musical Express,Next Musical Enterprise,3,easy
+2325,Who is the lead singer of the British pop rock band Coldplay?,Chris Martin,Jonny Buckland,Guy Berryman,Will Champion,3,easy
+2326,"Which novelty band was best known for their UK chart hits ""Combine Harvester"" and ""I Am a Cider Drinker"" in 1976?",The Wurzels,Goldie Lookin Chain,Bonzo Dog Doo-Dah Band,The Wurzels,3,medium
+2327,"Who sings the rap song ""Secret Wars Part 1""?",The Last Emperor,MC Frontalot,The Last Emperor,Busdriver,3,hard
+2328,"Which one of these songs did the group ""Men At Work"" NOT make?",Safety Dance,Safety Dance,Down Under,Who Can It Be Now?,3,easy
+2329,Which of these is NOT a name of an album released by American rapper Pitbull?,Welcome to Miami,Welcome to Miami,Dale,Global Warming,3,medium
+2330,"Which Aerosmith album featured ""Walk This Way""?",Toys in the Attic,Rocks,Toys in the Attic,Get Your Wings,3,medium
+2331,"What song includes the words ""Numa Numa"" which was subject to a Viral Video in 2004?",Dragostea Din Tei,Dragostea Din Tei,Despacito,Gangnam Style,3,hard
+2332,"Which of these Queen songs were sampled for the baseline in Vanilla ""Ice's Ice Ice Baby?""",Under Pressure,Don't Stop Me Now,Brighton Rock,Under Pressure,3,medium
+2333,African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?,Left Eye,Right Ear,Right Middle Finger,Nose,3,medium
+2334,"Panic! At the Disco's sixth album ""Pray For The Wicked"" was released on which date?","June 22, 2018","May 9, 2018","June 22, 2018","March 13, 2018",3,hard
+2335,Who is the frontman of Muse?,Matt Bellamy,Matt Bellamy,Dominic Howard,Thom Yorke,3,medium
+2336,The 'In the Flesh' tour was used in support of what Pink Floyd album?,Animals,The Wall,Wish You Were Here,Animals,3,medium
+2337,"Rick Astley's hit song ""Never Gonna Give You Up"" was released in what year?",1987,1985,1986,1988,3,medium
+2338,"The ""K"" in ""K-Pop"" stands for which word?",Korean,Kenyan,Kazakhstan,Korean,3,easy
+2339,Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?,Can't Help Falling in Love,Jailhouse Rock,In the Ghetto,Wooden Heart,3,medium
+2340,"What date is referenced in the 1971 song ""September"" by Earth, Wind & Fire?",21st of September,26th of September,23rd of September,24th of September,3,medium
+2341,"The Red Hot Chili Pepper song ""Give It Away"" is from what album?",Blood Sugar Sex Magik,One Hot Minute,Blood Sugar Sex Magik,By the Way,3,easy
+2342,"Who had a 1969 top 5 hit with the song,  'A Boy Named Sue'?",Johnny Cash,Bob Dylan,Willie Nelson,Johnny Cash,3,easy
+2343,On which Beatles album would you find the song 'Eleanor Rigby'?,Revolver,Revolver,Help!,Rubber Soul,3,hard
+2344,"Which band released the album ""Sonic Highways"" in 2014?",Foo Fighters,Coldplay,Nickelback,Foo Fighters,3,medium
+2345,Which of these is NOT the name of an album released by English singer-songwriter Adele?,12,19,21,25,3,easy
+2347,"Finish these lyrics from the 2016 song ""Panda"" by Desiigner: ""I got broads in _______"".",Atlanta,Savannah,Augusta,Atlanta,3,easy
+2348,Which of these songs did Jimi Hendrix cover?,All of these songs,All of these songs,Sgt. Pepper's Lonely Hearts Club Band,All Along the Watchtower,3,medium
+2349,"In an orchestra, what is the lowest member of the brass family?",Tuba,Trombone,Tuba,Contrabass,3,easy
+2350,Which of these artists has NOT been a member of dancehall group Major Lazer?,Skrillex,Diplo,Jillionaire,Walshy Fire,3,medium
+2351,"In what film was the Michael Jackson song ""Will You Be There"" featured?",Free Willy,Sleepless in Seattle,Men in Black,Free Willy,3,medium
+2352,Who is the artist of the recent new album the Uncanny Valley?,Perturbator,Carpenter Brut,GOST,Dan Terminus,3,medium
+2353,What is the real name of Canadian electronic music producer deadmau5?,Joel Zimmerman,Joel Zimmerman,Sonny Moore,Adam Richard Wiles,3,medium
+2354,"The song ""Caramelldansen"" is commonly mistaken as a Japanese song, what language is the song actually sung in?",Swedish,Hungarian,Finnish,Swedish,3,medium
+2355,In what year did US band Weezer release Weezer (The White Album)?,2016,2001,2008,2019,3,medium
+2356,What was Radiohead's first album?,Pablo Honey,The Bends,Pablo Honey,Kid A,3,medium
+2357,"Which Elton John hit starts with the line ""When are you gonna come down""?",Goodbye Yellow Brick Road,Rocket Man,Bennie and the Jets,Crocodile Rock,3,hard
+2358,What album did Bon Iver release in 2016?,"22, A Million","Bon Iver, Bon Iver","22, A Million",Blood Bank EP,3,easy
+2359,"Kanye West's ""Gold Digger"" featured which Oscar-winning actor?",Jamie Foxx,Alec Baldwin,Jamie Foxx,Dwayne Johnson,3,easy
+2360,"On the cover of 'Abbey Road,' which of the Beatles is not wearing shoes?",Paul McCartney,Paul McCartney,Ringo Starr,John Lennon,3,medium
+2361,"This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",The Velvet Underground and Nico,Abbey Road,Led Zeppelin IV,Pet Sounds,3,hard
+2363,"Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?",Being For The Benefit Of Mr. Kite!,Being For The Benefit Of Mr. Kite!,Why Don't We Do It in the Road?,Everybody's Got Something to Hide Except Me and My Monkey,3,medium
+2366,The key of sharps does the key of G# minor contain?,5,3,7,0,3,hard
+2367,Which of these songs from American Idiot: The Musical was a previously unreleased Green Day song?,When It's Time,Are We The Waiting,Before The Lobotomy,Favorite Son,3,medium
+2368,What was Daft Punk's first studio album?,Homework,Discovery,Homework,Random Access Memories,3,easy
+2369,Which of these is NOT an album released by The Beatles?,The Wall,Abbey Road,Magical Mystery Tour,Revolver,3,medium
+2370,When was Gangnam Style uploaded to YouTube?,2012,2013,2014,2012,3,easy
+2371,Which of these Johns was murdered by gunshots outside the Dakota in New York in 1980?,John Lennon,Johnny Thunders,John Denver,John Lennon,3,medium
+2372,"How many studio albums have the heavy metal band, 'Metallica' released in the period between 1983 and 2016?",10,7,10,9,3,medium
+2373,Which of the following music bands is not from Finland?,Sabaton,Apocalyptica,Waltari,Lordi,3,medium
+2374,The tuba is a part of which musical family?,Brass,Percussion,Strings,Woodwind,3,easy
+2376,Which of these women is not a member of the Korean girl group TWICE?,Kang Seulgi,Myoui Mina,Kang Seulgi,Kim Dahyun,3,medium
+2377,"What musician made the song ""F**kin` Perfect"" in 2010?",P!nk,P!nk,Mitis,Adam lambert,3,medium
+2378,"Whose albums included ""Back in Black"" and ""Ballbreaker""?",AC/DC,Iron Maiden,Black Sabbath,Metallica,3,easy
+2379,What album is the song 'New Slang' by The Shins found on?,"Oh, Inverted World","Oh, Inverted World",Wincing The Night Away,Chutes Too Narrow,3,hard
+2380,What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?,The Black Mages,The Final Fantasies,The Espers,The Rock Summoners,3,hard
+2381,"Which song on Daft Punk's ""Random Access Memories"" features Pharrell Williams?",Get Lucky,Doin' It Right,Get Lucky,Instant Crush,3,easy
+2383,"In 2015, David Hasselhof released a single called...",True Survivor,True Fighter,Real Kung-Fury,True Survivor,3,medium
+2385,"Which Iron Maiden album did the song ""Dream of Mirrors"" feature in?",Brave New World,Dance of Death,Brave New World,A Matter of Life and Death,3,medium
+2386,"Who is the vocalist and frontman of rock band ""Guns N' Roses""?",Axl Rose,Kurt Cobain,Slash,Axl Rose,3,medium
+2387,Chino Moreno is the lead singer of which alternative metal band?,Deftones,Tool,Korn,Type O Negative,3,hard
+2388,Which Beatle led the way across the zebra crossing on the Abbey Road album cover?,John,Paul,George,John,3,medium
+2390,"Which of these songs by artist Eminem contain the lyric ""Nice to meet you. Hi, my name is... I forgot my name!""?",Rain Man,Without Me,Kim,Square Dance,3,medium
+2392,According to the RIAA: Which artist has sold the most albums by the million?,The Beatles,The Beatles,Elvis Presley,Michael Jackson,3,medium
+2394,"Which of these songs is NOT in The Beatles' album ""Sgt. Pepper's Lonely Hearts Club Band""?",Strawberry Fields Forever,Getting Better,Strawberry Fields Forever,Fixing a Hole,3,medium
+2396,"Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",Play,Play,Everything Is Wrong,Moby,3,medium
+2397,"In the words of his 1973 song, Bob Dylan is ""knock, knock, knockin"" on which door?",Heaven's,Opportunity's,Angie's,Heaven's,3,easy
+2398,Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?,David Gilmour,Jimmy Page,Mark Knopfler,Eric Clapton,3,hard
+2399,"According to a Beatles song, who kept her face in a jar by the door?",Eleanor Rigby,Eleanor Rigby,Loretta Martin,Molly Jones,3,medium
+2400,"Which famous rapper is featured in Jack Ü (Skrillex and Diplo)'s 2015 single called ""Febreze""?",2 Chainz,Kendrick Lamar,Future,2 Chainz,3,easy
+2401,"Which English guitarist has the nickname ""Slowhand""?",Eric Clapton,Eric Clapton,Mark Knopfler,Jeff Beck,3,easy
+2402,"The song ""Feel Good Inc."" by British band Gorillaz features which hip hop group?",De La Soul,De La Soul,Public Enemy,OutKast,3,medium
+2405,What country did Shirley Bassey originate from?,Wales,America,England,Canada,3,medium
+2406,What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?,We Don't Need Another Hero,Let's Stay Together,We Don't Need Another Hero,What's Love Got To Do With It,3,medium
+2407,"Which band had hits in 1972 with the songs ""Baby I'm A Want You"", ""Everything I Own"" and ""The Guitar Man""",Bread,America,Bread,Chicago,3,medium
+2408,"The band Muse released their first album, Showbiz, in what year?",1999,1998,2000,2001,3,easy
+2409,"What event inspired The Cranberries song ""Zombie"" ?",The Warrington Bombings,September 11 Attacks,The Warrington Bombings,The Manchester Arena Bombing,3,hard
+2411,Who was the lead singer and frontman of rock band R.E.M?,Michael Stipe,Chris Martin,Thom Yorke,Michael Stipe,3,medium
+2412,"Which year was the album ""Year of the Snitch"" by Death Grips released?",2018,2013,2017,2018,3,easy
+2413,Brian May was the guitarist for which band?,Queen,Queen,Pink Floyd,Rolling Stones,3,easy
+2414,What is not a wind instrument?,Viola,Viola,Oboe,Trombone,3,easy
+2415,"When did The Beatles release the LP ""Please Please Me""?",1963,1970,1960,1969,3,medium
+2416,"The 2016 song ""Starboy"" by Canadian singer The Weeknd features which prominent electronic artist?",Daft Punk,deadmau5,Disclosure,DJ Shadow,3,easy
+2417,What M83 was featured in Grand Theft Auto V's radio?,Midnight City,Outro,Reunion,Midnight City,3,medium
+2418,What is the opening track on Lorde's Pure Heroine?,Tennis Court,Team,Royals,400 Lux,3,medium
+2419,What is the name of the second studio album released by American rapper Post Malone in 2018?,Beerbongs & Bentleys,Takin' Shots,Beerbongs & Bentleys,Rockstar,3,medium
+2420,A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?,Snare Drum,Snare Drum,Cow Bell,Bass Drum,3,hard
+2423,"""Some people call me the space cowboy"" is the first line from what song?",The Joker,Fandango,The Joker,Take The Money and Run,3,easy
+2424,Which of the following is NOT a song in BROCKHAMPTON's SATURATION album series?,LAMB,HOTTIE,LAMB,SWAMP,3,medium
+2425,Who was walking like an Egyptian in 1981?,The Bangles,R.E.M.,The Ocean Blue,The Connells,3,medium
+2426,Which album was released by Kanye West in 2013?,Yeezus,My Beautiful Dark Twisted Fantasy,The Life of Pablo,Watch the Throne,3,hard
+2427,What was The Velvet Underground's first album called?,The Velvet Underground & Nico,The Velvet Underground & Nico,Loaded,The Velvet Underground,3,medium
+2428,Which genre of Hip Hop does MC Frontalot rap?,Nerdcore,Nerdcore,Horrorcore,Christian,3,medium
+2430,"The Who's eponymous line, ""Teenage Wasteland"", appears in which of their songs?",Baba O' Riley,The Seeker,Baba O' Riley,Won't Get Fooled Again,3,medium
+2431,"The four strings on a violin are the G string, D string, A string, and...",E string,E string,C string,B string,3,easy
+2433,Which country is singer Kyary Pamyu Pamyu from?,Japan,Japan,South Korea,China,3,medium
+2434,"Which song in rapper Kanye West's album ""The Life of Pablo"" features Rihanna?",Famous,Wolves,Ultralight Beam,Highlights,3,hard
+2435,What was Raekwon the Chefs debut solo album?,Only Built 4 Cuban Linx,Only Built 4 Cuban Linx,Shaolin vs Wu-Tang,The Wild,3,medium
+2436,"How many copies have Metallica album ""Metallica"" (A.K.A The Black Album) sold worldwide (in Millions of Copies)?",20.5,19.5,22.5,25.5,3,medium
+2438,"The 1952 musical composition 4'33"", composed by prolific American composer John Cage, is mainly comprised of what sound?",Silence,Farts,People talking,Silence,3,medium
+2439,How many members are there in the band Nirvana?,Three,Three,Two,Four,3,easy
+2440,Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume & Chet Faker?,Left Alone,What About Us,This Song Is Not About A Girl,Drop The Game,3,hard
+2442,Which of the following songs was not originally released by Sir Elton John?,You'll Be In My Heart,Crocodile Rock,Candle in the Wind,I Don't Wanna Go On With You Like That,3,easy
+2443,"Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.",Hurt,Hurt,Closer,A Warm Place,3,medium
+2446,Which of these is not a song on the album Graduation by Kanye West?,Waves,I Wonder,Big Brother,Waves,3,medium
+2449,Which member of the Foo Fighters was previously the drummer for Nirvana?,Dave Grohl,Dave Grohl,Taylor Hawkins,Nate Mendel,3,easy
+2450,Which of these artists do NOT originate from France?,The Chemical Brothers,The Chemical Brothers,Air,Justice,3,medium
+2451,"Who was not in the band ""The Smiths""?",Martin Chambers,Morrissey,Martin Chambers,Andy Rourke,3,hard
+2453,"Which of these languages was NOT included in the 2016 song ""Don't Mind"" by Kent Jones?",Portuguese,Japanese,French,Portuguese,3,medium
+2454,The heavy metal band Black Sabbath hail from which English city?,Birmingham,Manchester,London,Birmingham,3,hard
+2455,Which one of these artists appears in the album Deltron 3030?,Dan the Automater,Lamarr Kendrick,Danger Mouse,Dan the Automater,3,medium
+2456,What is rapper Drake's real name?,Aubrey Graham,Shaun Carter,Dwayne Carter,Aubrey Graham,3,medium
+2457,"Which of these artists did NOT feature in the fitfh studio album ""Humanz"" by British virtual band Gorillaz?",Snoop Dogg,Snoop Dogg,Vince Staples,Pusha T,3,hard
+2459,"Which band had hits in 1975 with the songs, 'One Of These Nights' & 'Lyin Eyes'?",The Eagles,The Eagles,Fools Gold,The Doobie Brothers,3,medium
+2461,Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?,Dr.Dre,Ol' Dirty Bastard,Dr.Dre,GZA,3,medium
+2462,"""Lift Your Spirit"" is an album by which artist?",Aloe Blacc,Lena Meyer-Landrut,Stevie Wonder,Aloe Blacc,3,medium
+2463,What is the name of the 2016 studio album by the French electronic music duo Justice?,Woman,Randy,Woman,Safe and Sound,3,medium
+2464,Who is the primary lyricist for Canadian progressive rock band Rush?,Neil Peart,Geddy Lee,Neil Peart,Alex Lifeson,3,medium
+2465,"Madonna's song ""Hung Up"" includes a piece from which popular 70s song?",Gimmie! Gimmie! Gimme! (A Man After Midnight),Staying Alive,Night Fever,Gimmie! Gimmie! Gimme! (A Man After Midnight),3,medium
+2466,What year was Huun Huur Tu's album Altai Sayan Tandy-Uula released?,2004,1993,2004,2006,3,hard
+2468,"Björk's ""Unison"" contains a sample of which Oval song?",Aero Deck,Textuell,Panorama,Do While,3,hard
+2469,Which term best describes the connection of two sections of a musical piece through a transitional passage?,Bridge,Coda,Bridge,Capo,3,easy
+2470,"What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song ""Paper Planes""?",M.I.A.,K.I.A.,M.I.A.,C.I.A.,3,easy
+2472,Which of these is the name of a song by Tears for Fears?,Shout,Scream,Shout,Yell,3,easy
+2473,What's the most common time signature for rock songs?,4/4,1/2,8/12,2/4,3,medium
+2475,"Cryoshell, known for ""Creeping in My Soul"" did the advertising music for what Lego Theme?",Bionicle,Hero Factory,Ben 10 Alien Force,Star Wars,3,medium
+2477,Ringo Starr of The Beatles mainly played what instrument?,Drums,Bass,Drums,Guitar,3,easy
+2482,Who was the first white band to play the Apollo Theater?,Buddy Holly and The Crickets,Chuck Berry,The Beatles,Elvis,3,medium
+2483,"Which band released songs such as ""Electric Feel"", ""Kids"", and ""Time to Pretend""?",MGMT,Passion Pit,Phoenix,MGMT,3,medium
+2484,Which Beatles album does NOT feature any of the band members on it's cover?,The Beatles (White Album),Rubber Soul,The Beatles (White Album),Abbey Road,3,easy
+2486,Which of these aliases has NOT been used by electronic musician Aphex Twin?,Burial,Burial,Caustic Window,Bradley Strider,3,hard
+2488,What was David Bowie's real surname?,Jones,Johnson,Edwards,Carter,3,medium
+2489,"What is the first Studio Album to be released on the Internet with a ""Pay-What-You-Want"" price?",In Rainbows,The Help Album,Skrillex and Diplo Present Jack Ü,In Rainbows,3,hard
+2490,"Which of these artists did NOT remix the song ""Faded"" by Alan Walker?",Skrillex,Tiësto,Skrillex,Slushii,3,hard
+2492,What album did Gorillaz release in 2017?,Humanz,Plastic Beach,Humanz,The Fall,3,medium
+2493,"Which of these is not a single by Pink Floyd guitarist, David Gilmour?",Sunset Strip,Rattle That Lock,Sunset Strip,Blue Light,3,medium
+2497,Which of these are NOT a Men at Work song?,Basket Case,Dr. Heckyll and Mr. Jive,Who Can It Be Now?,Be Good Johnny,3,easy
+2498,Which of these is not an Ed Sheeran album?,-,-,+,X,3,medium
+2499,Artis Leon Ivey Jr. is better known as which rap artist?,Coolio,Dr Dre,Snoop Dogg,Coolio,3,hard
+2500,Who is the lead singer of the band Coldplay?,Chris Martin,Chris Isaak,Chris Wallace,Chris Martin,3,easy
+2501,"What Led Zeppelin album contains ""Stairway to Heaven""?",Led Zeppelin IV,Houses of the Holy,Led Zeppelin IV,Physical Graffiti,3,easy
+2502,Kanye West at 2009 VMA's interrupted which celebrity?,Taylor Swift,MF DOOM,Beyonce,Beck,3,easy
+2504,Which of the following songs did Elton John perform following Princess Diane's passing?,Candles in the Wind,I Guess That's Why They Call It The Blues,Your Song,Candles in the Wind,3,easy
+2505,"""Grande Valse"" is a phrase from the song ""Gran Vals"". What is that song segment known as?",Nokia Tune,Hello Moto [Motorola Ringtone],Droid Ringtone,Nokia Tune,3,easy
+2508,"What year was Red Hot Chill Pepper's album ""Californication"" released?",1999,1997,2000,1999,3,medium
+2510,"What is the first track on the Dave Matthews Band album ""Before These Crowded Streets""?",Pantala Naga Pampa,Stay (Wasting Time),Pantala Naga Pampa,Rapunzel,3,hard
+2511,How many members are in the Japanese rock band SCANDAL?,4,5,4,2,3,medium
+2512,"In the song “The Ultimate Showdown of Ultimate Destiny,” who is the only one to survive the battle?",Mr. Rogers,Batman,Chuck Norris,Godzilla,3,medium
+2514,What was the name of the hip hop group Kanye West was a member of in the late 90s?,The Go-Getters,The Go-Getters,The Jumpers,The Kickstarters,3,hard
+2517,Which Death Grips album is the only one to feature a band member?,No Love Deep Web,Bottomless Pit,The Money Store,No Love Deep Web,3,hard
+2518,"In which year was the Megadeth album ""Peace Sells... but Who's Buying?"" released?",1986,1979,1987,1986,3,medium
+2519,"Irish musician Hozier released a music track in 2013 titled, ""Take Me to ______""",Church,Mosque,Synagogue,Temple,3,medium
+2520,What was Bon Iver's debut album released in 2007?,"For Emma, Forever Ago","Bon Iver, Bon Iver","22, A Million",Blood Bank EP,3,medium
+2521,Which rapper had an album that went double platinum with no features?,J. Cole,Kendrick Lamar,J. Cole,Drake,3,medium
+2522,What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?,Once Upon a Time in Shaolin,A Better Tomorrow,8 Diagrams,The Saga Continues,3,medium
+2523,"Which song in Drake's ""Views"" features Future?",Grammys,Too Good,Grammys,Faithful,3,medium
+2526,Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?,Don't Ever Play Yourself,Major Key,Don't Ever Play Yourself,Suffering From Success,3,medium
+2527,"Which famous 90's rap album is commonly referred to as ""The Bible of Hip Hop""?",Illmatic,The Low End Theory,The Chronic,Enter The Wu-Tang (36 Chambers),3,medium
+2528,"Which punk rock band released hit songs such as ""Californication"", ""Can't Stop"" and ""Under the Bridge""?",Red Hot Chilli Peppers,Green Day,Red Hot Chilli Peppers,Linkin Park,3,easy
+2530,"""The Singing Cowboy"" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",White Christmas,Frosty the Snowman,White Christmas,Rudolph the Red-Nosed Reindeer,3,easy
+2531,"""Hallelujah"" is a song written by which Canadian recording artist?",Leonard Cohen,Kory Lefkowits,Ryan Letourneau,Leonard Cohen,3,easy
+2533,Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?,Masta Killa,Method Man,Inspectah Deck,GZA,3,hard
+2535,"Which member of the British pop group ""The Spice Girls"" was known as Ginger Spice?",Geri Halliwell,Melanie Brown,Emma Bunton,Victoria Beckham,3,medium
+2536,"Who performed the guitar solo on Michael Jackson's hit ""Beat It""?",Eddie Van Halen,Steve Vai,Kirk Hammett,Zakk Wylde,3,medium
+2537,"In Kendrick Lamar's 2012 album, ""Good Kid, M.A.A.D City"", the album's story takes place in which city?",Compton,Compton,Detroit,New York,3,hard
+2539,"Which country does the power metal band ""Sabaton"" originate from?",Sweden,Germany,United States,Sweden,3,medium
+2541,"Which French duo had UK hits in 1998 with the songs 'Sexy Boy', 'Kelly Watch The Stars' & 'All I Need'?",Air,Air,Fire,Earth,3,medium
+2542,"Who recorded the album called ""Down to the Moon"" in 1986?",Andreas Vollenweider,Jean-Michel Jarre,Bing Crosby,Enya,3,medium
+2543,In which city did American rap producer DJ Khaled originate from?,Miami,New York,Miami,Detroit,3,medium
+2545,EDM record label Monstercat is based in which country?,Canada,United States,Australia,United Kingdom,3,medium
+2546,"Which album by American rapper Kanye West contained songs such as ""Love Lockdown"", ""Paranoid"" and ""Heartless""?",808s & Heartbreak,Late Registration,808s & Heartbreak,The Life of Pablo,3,medium
+2547,Which of these albums is a Wu-Tang Clan album?,Iron Flag,Perfect Hair,Iron Flag,The Low End Theory,3,medium
+2554,Who had a 1983 hit with the song 'Africa'?,Toto,Foreigner,Steely Dan,Toto,3,easy
+2558,What album did The Lumineers release in 2016?,Cleopatra,Winter,The Lumineers,Tracks From The Attic,3,easy
+2559,Which of these bands is the oldest?,Pink Floyd,Pink Floyd,AC/DC,Metallica,3,medium
+2561,"Who had a US and UK number 1 hit in 1962 with the instrumental, 'Telstar'?",The Tornados,The Tornados,The Ventures,The Spotnicks,3,medium
+2562,Which of Michael Jackson's albums sold the most copies?,Thriller,Dangerous,Thriller,Bad,3,hard
+2564,What is the last song on the first Panic! At the Disco album?,"Build God, Then We'll Talk","Build God, Then We'll Talk","Nails for Breakfast, Tacks for Snacks",I Write Sins Not Tragedies,3,medium
+2566,Which popular rock band has a one-armed drummer?,Def Leppard,Def Leppard,The Beatles,Lynyrd Skynyrd,3,medium
+2569,"Which artist released the 2012 single ""Harlem Shake"", which was used in numerous YouTube videos in 2013?",Baauer,RL Grime,Baauer,NGHTMRE,3,easy
+2571,Korean girl group TWICE is under which Entertainment Label?,JYP,MBK,JYP,YG,3,medium
+2574,Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?,Dog Blood,Dog Blood,Jack Ü,What So Not,3,hard
+2579,The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?,3rd,3rd,8th,1st,3,medium
+2583,"Which band released songs suchs as ""Rio"", ""Girls on Film"", and ""The Reflex""?",Duran Duran,The Cure,Duran Duran,New Order,3,easy
+2584,Who was the original drummer for The Beatles?,Tommy Moore,Ringo Starr,Stuart Sutcliffe,Tommy Moore,3,hard
+2585,"Which singer was featured in Swedish producer Avicii's song ""Wake Me Up""?",Aloe Blacc,Aloe Blacc,John Legend,CeeLo Green,3,medium
+2587,"Which of these bands was a featuring artist in Compton rapper Kendrick Lamar's 2017 album, ""DAMN.""?",U2,Radiohead,Coldplay,U2,3,medium
+2588,Where does the Mac part of the name Fleetwood Mac come from?,John McVie,Christine McVie,John McVie,Mac McAnally,3,easy
+2589,Which of these is NOT a song by Pegboard Nerds?,WiFi Tears,Swamp Thing,Emoji,WiFi Tears,3,medium
+2592,Which band is the longest active band in the world with no breaks or line-up changes?,U2,Radiohead,Rush,Rolling Stones,3,hard
+2593,"Which band recorded the album ""Parallel Lines""?",Blondie,Paramore,Coldplay,The Police,3,easy
+2595,"Which rap group released the album ""Straight Outta Compton""?",N.W.A,Wu-Tang Clan,Run-D.M.C.,N.W.A,3,easy
+2597,"""Drink the Sea"" is an album by which electronic music artist?",The Glitch Mob,Avicii,XXYYXX,The Glitch Mob,3,medium
+2599,"When was the 3rd album ""Notes from the Underground"" of the band ""Hollywood Undead"" released?",2013,2011,2014,2009,3,medium
+2606,"Which song made by MAN WITH A MISSION was used as the opening for the anime ""Log Horizon""?","""Database""","""Database""","""Dead End in Tokyo""","""Raise Your Flag""",3,medium
+2611,"Which artist curated the official soundtrack for ""The Hunger Games: Mockingjay - Part 1""?",Lorde,Kanye West,Tove Lo,Charli XCX,3,medium
+2613,"Which country does the electronic music duo ""The Knife"" originate from?",Sweden,Finland,Denmark,Sweden,3,medium
+2616,Ellie Goulding's earliest album was named?,Lights,Halcyon,Bright Lights,Halcyon Days,3,medium
+2618,"Which former boy-band star released hit solo single ""Angels"" in 1997?",Robbie Williams,Robbie Williams,Justin Timberlake,Harry Styles,3,easy
+2619,Which Canadian reggae musician had a 1993 hit with the song 'Informer'?,Snow,Rain,Snow,Hail,3,easy
+2622,"Who released the 1991 album ""Out of Time""?",R.E.M.,U2,R.E.M.,Coldplay,3,medium
+2623,"Which Beatle wrote and sang the song ""Why Don't We Do It in the Road"" after being inspired by seeing two monkeys copulating in the street?",Paul,Paul,John,George,3,medium
+2632,What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?,Tragedy,Night Fever,Stayin' Alive,Tragedy,3,hard
+2633,"Which year was the album ""Floral Shoppe"" by Macintosh Plus released?",2011,2014,2013,2011,3,hard
+2640,Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?,Dave Navarro,Tom Morello,Billy Corgan,Dave Navarro,3,medium
+2642,"According to the American rapper Nelly, what should you do when its hot in here?",Take off all your clothes,Take a cool shower,Drink some water,Go skinny dipping,3,easy
+2644,What is Pink Floyd's first album?,The Piper at the Gates of Dawn,The Dark Side of the Moon,The Piper at the Gates of Dawn,Wish You Were Here,3,hard
+2648,"Who is the founder and leader of industrial rock band, 'Nine Inch Nails'?",Trent Reznor,Trent Reznor,Marilyn Manson,Robin Finck,3,medium
+2650,"Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",Alesso,Steve Angello,Sebastian Ingrosso,Alesso,3,medium
+2654,Who is the lead singer of Silverchair?,Daniel Johns,Ben Gillies,Chris Joannou,Daniel Johns,3,medium
+2655,Who wrote the Sinead O`Connor hit 'Nothing Compares 2 U'?,Prince,Michael Jackson,Prince,Cameo,3,easy
+2657,Who is the lead singer of Foo Fighters?,Dave Grohl,Dave Grohl,Dave Mustaine,James Hetfield,3,easy
+2660,Which one of these Pink Floyd albums were also a movie?,The Wall,The Dark Side of the Moon,The Wall,Wish You Were Here,3,medium
+2662,Which Nirvana album had a naked baby on the cover?,Nevermind,Nevermind,Bleach,In Utero,3,easy
+2663,"Which Toronto landmark was featured on the cover art of Canadian rapper Drake's 2016 album ""Views""?",CN Tower,CN Tower,Allan Gardens,Union Station,3,medium
+2668,"Which member of ""The Beatles"" narrated episodes of ""Thomas the Tank Engine""?",Ringo Starr,George Harrison,John Lennon,Ringo Starr,3,medium
+2670,Which 80s band is fronted by singer/guitarist Robert Smith?,The Cure,The Smiths,Echo & the Bunnymen,The Cure,3,easy
+2671,What was the last Aphex Twin album released before his decade-long hiatus?,Drukqs,Windowlicker,Syro,Collected Ambient Works 85-92,3,hard
+2673,Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?,Les Paul Standard,Fender Stratocaster,LsL Mongrel,Gretsch Falcon,3,medium
+2680,Liam Howlett founded which electronic music group in 1990?,The Prodigy,The Chemical Brothers,The Crystal Method,The Prodigy,3,medium
+2689,"The ""British Invasion"" was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",60's,50's,40's,60's,3,easy
+2690,What song on ScHoolboy Q's album Black Face LP featured Kanye West?,THat Part,Neva CHange,THat Part,Big Body,3,medium
+2692,"Who was featured in the song ""Words"" by Feint?",Laura Brehm,Anna Yvette,Danyka Nadeau,Veela,3,easy
+2693,Which of the following is NOT a real song from the band Thousand Foot Krutch?,Limitless Fury,Let The Sparks Fly,Down,Give Up The Ghost,3,hard
+2695,"Which song by Swedish electronic musician Avicii samples the song ""Something's Got A Hold On Me"" by Etta James?",Levels,Fade Into Darkness,Silhouettes,Levels,3,medium
+2696,Pink Floyd made this song for their previous lead singer Syd Barrett.,Shine On You Crazy Diamond,Wish You Were Here,Shine On You Crazy Diamond,Have A Cigar,3,medium
+2701,"This movie contains the quote, ""I feel the need ... the need for speed!""",Top Gun,Days of Thunder,The Color of Money,Cocktail,4,easy
+2702,This trope refers to minor characters that are killed off to show how a monster works.,Red Shirt,Minions,Red Shirt,Expendables,4,medium
+2703,What was Humphrey Bogart's middle name?,DeForest,DeForest,DeWinter,Steven,4,hard
+2704,"What is the name of the character Nicolas Cage plays in the movie ""National Treasure?""",Benjamin Franklin Gates,Thomas Jefferson Walker,Benjamin Franklin Gates,George Washington Swanson,4,medium
+2705,"In the movie ""Scream"" who is Ghost Face?",Billy Loomis and Stu Macher,Billy Loomis and Stu Macher,Dewey Riley,Sidney Prescott,4,hard
+2706,"Who is the director of the 1991 film ""Silence of the Lambs""?",Jonathan Demme,Stanley Kubrick,Jonathan Demme,Frank Darabont,4,medium
+2707,"In the movie “The Iron Giant,” this character is the protagonist.",Hogarth Hughes,Kent Mansley,Dean McCoppin,Annie Hughes,4,medium
+2708,What is the birth name of Michael Keaton?,Michael Douglas,Michael Fox,Michael Douglas,Michael Richards,4,medium
+2709,The Queen song `A Kind Of Magic` is featured in which 1986 film?,Highlander,Highlander,Flash Gordon,Labyrinth,4,easy
+2710,"What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",Wensleydale,Cheddar,Moon Cheese,Edam,4,medium
+2711,Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?,Chicago,Dreamgirls,Cabaret,Chicago,4,medium
+2712,Which of the following is NOT a quote from the 1942 film Casablanca?,"""Frankly, my dear, I don't give a damn.""","""Here's lookin' at you, kid.""","“Of all the gin joints, in all the towns, in all the world, she walks into mine…”","""Round up the usual suspects.""",4,medium
+2713,"Who plays protagonist Ethan Hunt in the ""Mission: Impossible"" film-series?",Tom Cruise,Johnny Depp,Sean Connery,Pierce Brosnan,4,easy
+2714,"In the 1994 movie ""Speed"", what is the minimum speed the bus must go to prevent to bomb from exploding?",50 mph,50 mph,60 mph,40 mph,4,medium
+2715,How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)?,14,16,14,18,4,hard
+2716,"In which film does Humphrey Bogart say the famous line, ""Here's looking at you, kid""?",Casablanca,Casablanca,The Maltese Falcon,The Treasure of the Sierra Madre,4,easy
+2717,"Which director directed the movie ""Pan's Labyrinth""?",Guillermo Del Toro,Alfonso Cuarón,Alejandro González Iñárritu,Guillermo Del Toro,4,medium
+2718,"In Mulan (1998), who is the leader of the Huns?",Shan Yu,Shan Yu,Chien-Po,Li Shang,4,medium
+2719,"Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film ""Beyond the Sea""?",Bobby Darin,Louis Armstrong,Bobby Darin,Frank Sinatra,4,medium
+2720,"Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",Dave,John,Dave,Will,4,hard
+2721,"In the 1984 movie ""The Terminator"", what model number is the Terminator portrayed by Arnold Schwarzenegger?",T-800,I-950,T-888,T-800,4,medium
+2722,"Who directed the movie ""Alien""?",Ridley Scott,Christopher Nolan,Michael Bay,James Cameron,4,medium
+2723,"Who is the main protagonist in, the 1985 film, Back to the Future?",Marty McFly,"Emmett ""Doc"" Brown",Marty McFly,Biff Tannen,4,easy
+2724,"The 2002 film ""28 Days Later"" is mainly set in which European country?",United Kingdom,France,Italy,United Kingdom,4,easy
+2725,"For the film ""Raiders of The Lost Ark"", what was Harrison Ford sick with during the filming of the Cairo chase?",Dysentery,Anemia,Dysentery,Constipation,4,easy
+2726,Actress Susan Sarandon caught pneumonia during filming of which movie?,The Rocky Horror Picture Show,The Rocky Horror Picture Show,Thelma and Louise,Dead Man Walking,4,medium
+2727,What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?,Groovy.,Gnarly.,Groovy.,Perfect.,4,easy
+2728,What is the birth name of Michael Caine?,Maurice Micklewhite,Morris Coleman,Carl Myers,Martin Michaels,4,medium
+2729,"What is the orange and white bot's name in ""Star Wars: The Force Awakens""?",BB-8,BB-3,AA-A,BB-8,4,easy
+2730,Who directed the Kill Bill movies?,Quentin Tarantino,Arnold Schwarzenegger,Quentin Tarantino,David Lean,4,easy
+2731,Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?,Dan Marino,Dan Marino,John Elway,Tom Brady,4,medium
+2732,"In the movie ""Back to the Future,"" what speed does Doc Brown's DeLorean need to reach in order to travel through time?",88 mph,77 mph,100 mph,70 mph,4,medium
+2733,Which of these movies did Jeff Bridges not star in?,The Hateful Eight,Tron: Legacy,The Hateful Eight,The Giver,4,easy
+2734,"Who directed the 2015 movie ""The Revenant""?",Alejandro G. Iñárritu,Christopher Nolan,David Fincher,Alejandro G. Iñárritu,4,easy
+2735,When was the movie 'Con Air' released?,1997,1985,1999,1997,4,easy
+2736,Who played Sgt. Gordon Elias in 'Platoon' (1986)?,Willem Dafoe,Willem Dafoe,Charlie Sheen,Matt Damon,4,medium
+2737,The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?,Mining gear,Clown costume,Santa suit,Mining gear,4,medium
+2738,"This movie contains the quote, ""Nobody puts Baby in a corner.""",Dirty Dancing,Three Men and a Baby,Ferris Bueller's Day Off,Dirty Dancing,4,easy
+2739,"Which of these actors/actresses is NOT a part of the cast for the 2016 movie ""Suicide Squad""?",Scarlett Johansson,Jared Leto,Will Smith,Scarlett Johansson,4,easy
+2740,Which former Star Trek actor directed Three Men and a Baby (1987)?,Leonard Nimoy,Leonard Nimoy,William Shatner,George Takei,4,medium
+2741,What is the oldest Disney film?,Snow White and the Seven Dwarfs,Pinocchio,Snow White and the Seven Dwarfs,Dumbo,4,easy
+2742,Darth Vader's famous reveal to Luke is iconic. But which of these is the right one?,"""No. I am your father.""","""Luke, I am your father.""","""You're wrong. I am your father.""","""The truth is that I am your father.""",4,medium
+2743,"What is the name of the villian in the 2015 Russian-American Sci-Fi Movie ""Hardcore Henry""?",Akan,Estelle,Jimmy,Henry,4,medium
+2744,"About how much money did it cost for Tommy Wiseau to make his masterpiece ""The Room"" (2003)?",$6 Million,"$20,000",$6 Million,$1 Million,4,medium
+2745,Which was the first of Alfred Hitchcock's movies to be filmed in colour?,Rope,Psycho,Vertigo,Rebecca,4,hard
+2746,"In the 1964 film ""Zulu"", what song does the British Army company sing before the final battle?",Men of Harlech,Scotland the Brave,Colonel Bogey March,The British Grenadiers,4,hard
+2747,"In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",Jackie Earle Haley,Tyler Mane,Jackie Earle Haley,Derek Mears,4,medium
+2748,The 1996 film 'Fargo' is primarily set in which US state?,Minnesota,North Dakota,South Dakota,Minnesota,4,easy
+2749,"Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie ""Batman""?",Michael Keaton,George Clooney,Val Kilmer,Michael Keaton,4,easy
+2750,What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?,Atreyu,Atrayu,Atraiyu,Atreyu,4,medium
+2751,"After India, which country produces the second most movies per year?",Nigeria,United States,China,Nigeria,4,medium
+2752,"Which of the following was not one of ""The Magnificent Seven""?",Clint Eastwood,Steve McQueen,Charles Bronson,Clint Eastwood,4,easy
+2753,"Which musical artist had a prominent role in the 2017 film ""Kingsman: The Golden Circle""?",Elton John,Lady Gaga,Rihanna,Justin Bieber,4,medium
+2754,"In the movie ""Blade Runner"", what is the term used for human-like androids ?",Replicants,Replicants,Cylons,Synthetics,4,easy
+2755,"Who played the female lead in the 1933 film ""King Kong""?",Fay Wray,Jean Harlow,Fay Wray,Vivien Leigh,4,easy
+2756,"In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",4,2,6,4,4,hard
+2757,In which African country was the 2006 film 'Blood Diamond' mostly set in?,Sierra Leone,Liberia,Burkina Faso,Sierra Leone,4,medium
+2758,Which movie sequel had improved box office results compared to its original film?,Toy Story 2,Sin City: A Dame to Kill For,Toy Story 2,Speed 2: Cruise Control,4,medium
+2761,"How much money did the 2019 Marvel movie ""Avengers: Endgame"" gross for it's record-breaking worldwide opening weekend?",1.2 billion USD,640 million USD,1.2 billion USD,456 million USD,4,medium
+2762,"What city did the monster attack in the film, ""Cloverfield""?","New York, New York","Las Vegas, Nevada","Chicago, Illinois","Orlando, Florida",4,medium
+2764,"In what year does Jurassic World open in the ""Jurassic Park"" universe?",2005,2007,2015,2020,4,hard
+2765,"Who directed ""E.T. the Extra-Terrestrial"" (1982)?",Steven Spielberg,Stanley Kubrick,James Cameron,Tim Burton,4,easy
+2766,"Who played Deputy Marshal Samuel Gerard in the 1993 film ""The Fugitive""?",Tommy Lee Jones,Tommy Lee Jones,Harrison Ford,Harvey Keitel,4,easy
+2768,Which of these Disney classics was released in 1970?,The Aristocats,The Aristocats,One Hundred and One Dalmatians,The Fox and the Hound,4,medium
+2769,Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?,The Shining,2001: A Space Odyssey,The Shining,Dr. Strangelove,4,medium
+2770,Johnny Depp made his big-screen acting debut in which film?,A Nightmare on Elm Street,A Nightmare on Elm Street,My Bloody Valentine,Halloween,4,medium
+2771,Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?,Bombardier Billy Wells,Freddie Mills,Terry Spinks,Don Cockell,4,hard
+2772,What was the name of the protagonist in the movie Commando (1985)?,John Matrix,Ben Richards,John Matrix,Douglas Quaid,4,medium
+2775,"Who voices the main character Blu in the 2011 animated film ""Rio""?",Jesse Eisenberg,Michael Cera,Jonah Hill,Jesse Eisenberg,4,medium
+2776,"According to the Star Wars lore, what is Han Solo's home planet?",Corellia,Tatooine,Corellia,Naboo,4,medium
+2777,"""The first rule is: you don't talk about it"" is a reference to which movie?",Fight Club,The Island,Fight Club,Unthinkable,4,easy
+2779,What was the first monster to appear alongside Godzilla?,Anguirus,King Kong,Mothra,King Ghidora,4,easy
+2781,"What is the name of the Artificial Intelligence system in the 1983 film, ""WarGames""?",War Operation Plan Response,War Operation Plan Response,Self Evolving Thought Helix,Master Control Program,4,medium
+2782,Which Marvel superhero did Chris Evans play prior to his role as Captain America?,Human Torch,Cyclops,Iceman,Daredevil,4,medium
+2783,"Who is frozen at the end of the movie ""Goldeneye""?",Boris Grishenko,Boris Grishenko,James Bond,Natalya Simonova,4,easy
+2786,What was the first feature-length computer-animated movie?,Toy Story,Tron,Lion king,Toy Story,4,easy
+2787,Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?,Harry Potter,Ted,Spy Kids,Harry Potter,4,easy
+2788,Who Voices the Devil on Devil's Flight in Final Destination 3?,Tony Todd,Tony Todd,Wendy Christensen,Ian McKinley,4,hard
+2790,"Who plays ""Bruce Wayne"" in the 2008 movie ""The Dark Knight""?",Christian Bale,Michael Caine,Ron Dean,Heath Ledger,4,medium
+2791,What was the last Marx Brothers film to feature Zeppo?,Duck Soup,A Night at the Opera,A Day at the Races,Duck Soup,4,hard
+2796,Where does the original Friday The 13th movie take place?,Camp Crystal Lake,Packanack,Camp Crystal Lake,Higgins Haven,4,easy
+2797,"In ""Jurassic World"", which company purchases InGen and creates Jurassic World?",Masrani Global Corporation,Biology Synthetics Technologies,International Genetics Incorporated,International Genetic Technologies,4,medium
+2798,Which of these films is NOT set in Los Angeles?,RoboCop,Blade Runner,The Terminator,Predator 2,4,easy
+2799,"Who played the Cenobite called ""Pinhead"" in the original Hellraiser films?",Doug Bradley,Doug Jones,Doug Bradley,Doug Savant,4,medium
+2800,"In the movie ""Spaceballs"", what are the Spaceballs attempting to steal from Planet Druidia?",Air,The Schwartz,Princess Lonestar,Air,4,easy
+2801,What was the first movie to ever use a Wilhelm Scream?,Distant Drums,Treasure of the Sierra Madre,Distant Drums,The Charge at Feather River,4,hard
+2802,"What is the species of the ""Predator"" in the 1987 movie ""Predator""?",Yautja,Xenomorph,Praetorian,Yautja,4,hard
+2804,Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?,The Revenant,The Wolf Of Wall Street,Shutter Island,Inception,4,medium
+2807,Which year was the first official Youtube Rewind released?,2010,2012,2011,2010,4,easy
+2808,"In the ""Jurassic Park"" universe, when did ""Jurassic Park: San Diego"" begin construction?",1985,1988,1986,1993,4,hard
+2809,"Which 1994 film did Roger Ebert famously despise, saying ""I hated hated hated hated hated this movie"".",North,North,3 Ninjas Kick Back,The Santa Clause,4,hard
+2812,"In the Mad Max franchise, what type of car is the Pursuit Special driven by Max?",Ford Falcon,Holden Monaro,Chrysler Valiant Charger,Pontiac Firebird,4,medium
+2813,What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?,Wilson,Friday,Wilson,Jones,4,easy
+2816,Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?,The Vikings,The Long Ships,The Vikings,Prince Valiant,4,medium
+2817,Which of the following movies was not based on a novel by Stephen King?,The Thing,Carrie,Misery,The Thing,4,easy
+2818,Which singer is portrayed by Bruce Campbell in the 2002 film 'Bubba Ho-Tep'?,Elvis Presley,Johnny Cash,"Hank Williams, Sr.",Elvis Presley,4,hard
+2820,"What is the correct phrase for the Latin saying ""Romanes Eunt Domus"" in Monty Python's Life of Brian?",Romani Ite Domum,Romani Ite Domum,Romans Go Home,Roxani Ite Domum,4,medium
+2822,Who plays the Nemesis in the Resident Evil movies?,Matthew Taylor,Jason Dip,Eric Mabius,Matthew Taylor,4,medium
+2823,"In what year did Clint Eastwood star as Inspector Harry Callahan in the film ""Dirty Harry""?",1971,1975,1971,1983,4,hard
+2824,"What breed of dog was Marley in the film ""Marley & Me"" (2008)?",Labrador Retriever,Golden Retriever,Labrador Retriever,Dalmatian,4,easy
+2825,Who wrote and directed the 1986 film 'Platoon'?,Oliver Stone,Francis Ford Coppola,Stanley Kubrick,Oliver Stone,4,easy
+2826,"Who played Batman in the 1997 film ""Batman and Robin""?",George Clooney,Michael Keaton,George Clooney,Val Kilmer,4,medium
+2827,Who plays the character of Po in the Kung Fu Panda movies?,Jack Black,Mirana Jonnes,McConahey Ramses,Jim Petersson,4,easy
+2829,Which movie released in 2016 features Superman and Batman fighting?,Batman v Superman: Dawn of Justice,Batman v Superman: Superapocalypse,Batman v Superman: Dawn of Justice,Batman v Superman: Black of Knight,4,easy
+2830,"In the 1979 British film ""Quadrophenia"" what is the name of the main protagonist?",Jimmy Cooper,Pete Townshend,Franc Roddam,Jimmy Cooper,4,medium
+2831,Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?,Jean-Claude Van Damme,Jean-Claude Van Damme,Chuck Norris,Steven Seagal,4,medium
+2832,"Who directed the 1973 film ""American Graffiti""?",George Lucas,Ron Howard,Francis Ford Coppola,George Lucas,4,medium
+2833,"What is the name of James Dean's character in the 1955 movie ""Rebel Without a Cause""?",Jim Stark,Ned Stark,Jim Kane,Jim Stark,4,medium
+2836,"In Big Hero 6, what fictional city is the Big Hero 6 from?",San Fransokyo,San Fransokyo,San Tokyo,Tokysisco,4,easy
+2837,"In the ""Jurassic Park"" universe, what is the name of the island that contains InGen's Site B?",Isla Sorna,Isla Sorna,Isla Nublar,Isla Pena,4,medium
+2839,"Which actor plays the character ""Tommy Jarvis"" in ""Friday the 13th: The Final Chapter"" (1984)?",Corey Feldman,Macaulay Culkin,Corey Feldman,Mel Gibson,4,medium
+2840,What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?,Gopher,Tigger,Gopher,Heffalumps,4,medium
+2842,What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?,Gort,Robby,Gort,Colossus,4,medium
+2843,Which movie did NOT feature the late actor John Candy?,Ghostbusters,Ghostbusters,Little Shop Of Horrors,Home Alone,4,hard
+2844,The 2016 Disney animated film 'Moana' is based on which culture?,Polynesian,Native American,Japanese,Polynesian,4,easy
+2846,"What is the name of the first ""Star Wars"" film by release order?",A New Hope,The Phantom Menace,The Force Awakens,A New Hope,4,medium
+2848,Who voiced the character Draco in the 1996 movie 'DragonHeart'?,Sean Connery,Sean Connery,Dennis Quaid,Pete Postlethwaite,4,medium
+2851,"Who provided a majority of the songs and lyrics for ""Spirit: Stallion of the Cimarron""?",Bryan Adams,Smash Mouth,Oasis,Bryan Adams,4,medium
+2855,"In the Super Mario Bros. Movie (2023), who plays Toad?",Keegan-Michael Key,Seth Rogan,Charlie Day,Keegan-Michael Key,4,easy
+2856,In which 1955 film does Frank Sinatra play Nathan Detroit?,Guys and Dolls,Anchors Aweigh,From Here to Eternity,Guys and Dolls,4,medium
+2857,"Which documentary film maker wrote and starred in the film ""My Scientology Movie"" which first debuted in 2015?",Louis Theroux,Errol Morris,Joe Berlinger,Adam Curtis,4,medium
+2858,"In the 1992 film ""Army of Darkness"", what name does Ash give to his double-barreled shotgun?",Boomstick,Bloomstick,Blastbranch,2-Pump Chump,4,easy
+2860,What film did James Cameron's Avatar dethrone as the highest-grossing film ever?,Titanic,Titanic,Star Wars,Gone with the Wind,4,medium
+2862,What mutated animals act as monsters in the movie 'Night of the Lepus'?,Rabbits,Dogs,Rats,Bats,4,medium
+2864,What is the name of the queen's pet in A Bug's Life?,Aphie,Flik,Hopper,Dot,4,medium
+2865,"What Queen song plays during the final fight scene of the film ""Hardcore Henry""?",Don't Stop Me Now,Brighton Rock,Don't Stop Me Now,Another Bites the Dust,4,medium
+2868,"What is the name of the foley artist who designed the famous sounds of Star Wars, including Chewbacca's roar and R2-D2's beeps and whistles?",Ben Burtt,Ken Burns,Ralph McQuarrie,Ben Burtt,4,medium
+2870,Which one of these action movies are shot entirely in one take?,Victoria,Ip Man 2,The Bourne Legacy,Léon: The Professional,4,medium
+2871,In what year was the first Transformers movie released?,1986,1986,2007,1984,4,medium
+2873,"In ""Star Trek Nemesis"", why was Praetor Shinzon created?",To replace Picard as a Romulan Agent,To destroy the Enterprise,To become Picard's friend,To steal the Enterprise,4,hard
+2874,"What is the name of the dog that played Toto in the 1939 film ""The Wizard of Oz""?",Terry,Terry,Tommy,Teddy,4,medium
+2878,"In the 1979 British film ""Quadrophenia"" what is the name of the seaside city the mods are visiting?",Brighton,Eastbourne,Mousehole,Bridlington,4,medium
+2880,"What does TIE stand for in reference to the TIE Fighter in ""Star Wars""?",Twin Ion Engine,Twin Iron Engine,Twin Intercepter Engine,Twin Inception Engine,4,medium
+2881,"In the film ""Harry Potter and the Order of The Phoenix"", why was Harry Potter's scream, after Sirius Black died, muted?",Too Agonizing,Too Loud,Too Harsh,Too Agonizing,4,hard
+2883,"What is the name of the assassin in the first ""Hellboy"" movie?",Karl Ruprecht Kroenen,Klaus Werner von Krupt,Grigori Efimovich Rasputin,Karl Ruprecht Kroenen,4,hard
+2887,"Who was the director of ""Scott Pilgrim vs. the World (2010)""?",Edgar Wright,Phil Lord,Chris Miller,Seth Rogan,4,medium
+2888,"What did Alfred Hitchcock use as blood in the film ""Psycho""?",Chocolate syrup,Ketchup,Red food coloring,Maple syrup,4,hard
+2890,What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?,Ming Tea,Cough Fi,Ming Tea,Spear Mint,4,easy
+2891,"Which actor plays the role of the main antagonist in the 2011 movie ""Tower Heist?""",Alan Alda,Alan Alda,Eddie Murphy,Alec Baldwin,4,medium
+2893,What was the wifi password given to Stephen Strange in Doctor Strange?,Shambala,Peace,Shambala,Ancient,4,hard
+2897,"Who performed the opening theme song for the James Bond 007 movie ""Goldfinger""?",Shirley Basey,Shirley Basey,Tom Jones,John Barry,4,medium
+2898,Which movie includes a giant bunny-like spirit who has magic powers including growing trees?,My Neighbor Totoro,My Neighbor Totoro,Hop,Rise of the Guardians,4,easy
+2899,"In what Disney movie can you spot the character ""Pac-Man"" in if you look closely enough in some scenes?",Tron,Big Hero 6,Tron,Fantasia,4,hard
+2903,"Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?",a lawnmower,a lawnmower,a revolver,a guitar,4,medium
+2904,"Which actors made up the trio in ""The Good, the Bad, and the Ugly""?","Clint Eastwood, Eli Wallach, and Lee Van Cleef","Sergio Leone, Ennio Morricone, and Tonino Delli Colli","Clint Eastwood, Eli Wallach, and Lee Van Cleef","Yul Brynner, Steve McQueen, and Charles Bronson",4,hard
+2905,"In the 2012 film, ""The Lorax"", who is the antagonist?",Aloysius O'Hare,Ted Wiggins,The Once-Ler,Grammy Norma,4,easy
+2906,"Which of the following is not the name of a ""Bond Girl""?",Vanessa Kensington,Pam Bouvier,Mary Goodnight,Wai Lin,4,easy
+2907,"Who plays Jack Burton in the movie ""Big Trouble in Little China?""",Kurt Russell,Kurt Russell,Patrick Swayze,John Cusack,4,easy
+2908,"In the Friday The 13th series, what year did Jason drown in?",1957,1955,1957,1953,4,hard
+2910,"Which of the following actors does not play a role in the movie ""The Usual Suspects?""",Steve Buscemi,Steve Buscemi,Kevin Spacey,Benicio Del Toro,4,medium
+2911,"At the end of the 2001 film ""Rat Race"", whose concert do the contestants crash?",Smash Mouth,Smash Mouth,Bowling for Soup,Sum 41,4,easy
+2913,"In the 2014 film ""Birdman"", what is the primary instrument in the score?",Drums,Saxophone,Violin,Drums,4,medium
+2914,"In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?","October 21, 2015","August 28, 2015","October 21, 2015","July 20, 2015",4,medium
+2915,"What is the name of the island that ""Jurassic Park"" is built on?",Isla Nublar,Isla Sorna,Isla Muerta,Isla Pena,4,easy
+2917,"In the ""Jurassic Park"" universe, what was the first dinosaur cloned by InGen in 1986?",Velociraptor,Velociraptor,Triceratops,Troodon,4,hard
+2918,"Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",Wayne's World,Bill & Ted's Excellent Adventure,Dumb and Dumber,Wayne's World,4,medium
+2920,"Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",The Muppets Take Manhattan,The Great Muppet Caper,The Muppets Take Manhattan,The Muppet Christmas Carol,4,medium
+2923,"In ""Mean Girls"", who has breasts that tell when it's raining?",Karen Smith,Gretchen Weiners,Janice Ian,Cady Heron,4,easy
+2924,"In the movie ""V for Vendetta,"" what is the date that masked vigilante ""V"" urges people to remember?",November 5th,November 6th,November 5th,November 4th,4,easy
+2927,In which movie does Robin Williams' character have to disguise themselves into a woman?,Mrs. Doubtfire,Mrs. Doubtfire,Old Dogs,Jumanji,4,medium
+2932,"In the Lord of the Rings: The Two Towers, where are the party of orcs taking the hobbits?",Isengard,Rivendell,Mordor,Isengard,4,easy
+2938,"In the 1995 film ""Balto"", who are Steele's accomplices?","Kaltag, Nikki, and Star","Dusty, Kirby, and Ralph","Nuk, Yak, and Sumac","Kaltag, Nikki, and Star",4,easy
+2939,Mark Wahlberg played the titular character of which 2008 video-game adaptation?,Max Payne,Max Payne,Alan Wake,Hitman,4,medium
+2943,Which of the following movies was not based on a book?,Citizen Kane,Citizen Kane,The Godfather,Forrest Gump,4,medium
+2945,"Who voiced Metalbeard in ""The Lego Movie""?",Nick Offerman,Liam Neeson,Morgan Freeman,Nick Offerman,4,medium
+2953,In what year was the first Indian movie submitted for an Oscar?,1957,1957,1962,1938,4,hard
+2955,"What three movies, in order from release date, make up the ""Dollars Trilogy""?","""A Fistful of Dollars"", ""For a Few Dollars More"", ""The Good, the Bad, and the Ugly""","""A Fistful of Dollars"", ""For a Few Dollars More"", ""The Good, the Bad, and the Ugly""","""The Good, the Bad, and the Ugly"", ""For A Few Dollars More"", ""A Fistful of Dollars""","""For a Few Dollars More"", ""The Good, the Bad, and the Ugly"", ""A Fistful of Dollars""",4,hard
+2956,What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?,Custard and Raspberry Sauce,Strawberry Ice Cream,Cherry Yogurt,Custard and Raspberry Sauce,4,medium
+2957,Which of the following actors has only been in a Quentin Tarantino directed film once?,John Travolta,John Travolta,Christoph Waltz,Harvey Keitel,4,easy
+2965,"The 1939 movie ""The Wizard of Oz"" contained a horse that changed color, what material did they use to achieve this effect?",Gelatin,Dye,Paint,Gelatin,4,medium
+2966,What was the first James Bond film?,Dr. No,Goldfinger,From Russia With Love,Dr. No,4,easy
+2970,"In the 1971 film ""Willy Wonka & the Chocolate Factory"", who played Willy Wonka?",Gene Wilder,Shia LeBouf,Gene Wilder,Peter Ostrum,4,medium
+2973,Which animated movie was first to feature a celebrity as a voice actor?,Aladdin,Toy Story,James and the Giant Peach,Aladdin,4,easy
+2974,"Which iconic character is featured in movies such as ""The Enforcer"", ""Sudden Impact"", and ""The Dead Pool""?",Dirty Harry,Indiana Jones,James Bond,Harry Potter,4,medium
+2980,"Which actor played the main character in the 1990 film ""Edward Scissorhands""?",Johnny Depp,Clint Eastwood,Leonardo DiCaprio,Johnny Depp,4,medium
+2985,"According to ""Star Wars"" lore, which planet does Obi-Wan Kenobi come from?",Stewjon,Alderaan,Tatooine,Stewjon,4,hard
+2996,Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?,Harrison Ford,Michael J. Fox,Andy Kaufman,Arnold Schwarzenegger,4,medium
+3006,"In the movie ""Cast Away"" the main protagonist's best friend while on the island is named",Wilson,Carson,Jackson,Willy,4,easy
+3008,"In 2012, which movie won every category in the 32nd ""Golden Raspberry Awards""?",Jack and Jill,The Girl with the Dragon Tattoo,Thor,The King's Speech,4,hard
+3010,"What was the title of the first Bond movie, released in 1962?",Dr. No,From Russia with Love,Dr. No,Goldfinger,4,easy
+3012,Which film has been critically regarded as the best film of all time?,Citizen Kane,Avatar,The Godfather Part II,The Room,4,easy
+3013,Which of the following James Bond villains is not affiliated with the SPECTRE organization?,Auric Goldfinger,Dr. Julius No,Rosa Klebb,Emilio Largo,4,medium
+3014,In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?,Westworld,Runaway,Android,Westworld,4,medium
+3021,"Who starred in the film 1973 movie ""Enter The Dragon""?",Bruce Lee,Jackie Chan,Jet Li,Yun-Fat Chow,4,easy
+3022,"What was Marilyn Monroe`s character's first name in the film ""Some Like It Hot""?",Sugar,Honey,Sugar,Caramel,4,medium
+3027,"What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",Gunnar Hansen,Edwin Neal,Gunnar Hansen,John Dugan,4,hard
+3029,"Which movie contains the quote, ""Say hello to my little friend!""?",Scarface,Reservoir Dogs,Heat,Scarface,4,easy
+3034,What did the first moving picture depict?,A galloping horse,A galloping horse,A woman in a dress,A man walking,4,hard
+3036,Which of the following films was NOT directed by Quentin Tarantino?,From Dusk till Dawn,Jackie Brown,From Dusk till Dawn,Pulp Fiction,4,medium
+3052,"In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",Beer,Fast food,Food stamps,Beer,4,hard
+3069,Which actress danced the twist with John Travolta in 'Pulp Fiction'?,Uma Thurman,Kathy Griffin,Pam Grier,Uma Thurman,4,easy
+3071,Which town is the setting for the Disney movie The Love Bug (1968)?,San Francisco,San Francisco,Los Angeles,Sacramento,4,medium
+3074,"In ""ALF"", what was ALF's real name?",Gordon Shumway,Gordon Milipp,Gordon Shumway,Gordon Foster,4,easy
+3076,"What year did the movie ""Napoleon Dynamite"" come out?",2004,2002,2003,2005,4,medium
+3078,"Brendan Fraser starred in the following movies, except which one?",Titanic,Monkeybone,Encino Man,Mrs. Winterbourne,4,medium
+3087,"What was another suggested name for, the 1985 film, Back to the Future?",Spaceman From Pluto,Hill Valley Time Travelers,The Time Travelers,Spaceman From Pluto,4,medium
+3092,"When does ""Rogue One: A Star Wars Story"" take place chronologically in the series?",Between Episode 3 and 4,After Episode 6,Between Episode 3 and 4,Before Episode 1,4,easy
+3093,"This movie contains the quote, ""I love the smell of napalm in the morning!""",Apocalypse Now,Platoon,Apocalypse Now,The Deer Hunter,4,medium
+3097,"In the 1974 Christmas flick ""The Year Without a Santa Claus,"" what are the names of the two elves who help Mrs. Claus save Christmas?",Jingle & Jangle,Buddy & Bobby,Holly & Jolly,Snowflake & Icicle,4,hard
+3100,"In Finding Nemo, what was the name of Nemo's mom?",Coral,Sandy,Pearl,Shelly,4,medium
+3103,"This movie contains the quote, ""Houston, we have a problem.""",Apollo 13,The Right Stuff,Capricorn One,Apollo 13,4,easy
