@@ -44,7 +44,7 @@ app.get('/get-questions', (req, res) => {
     const query = `SELECT * FROM Question
                 WHERE category_id = ?
                 ORDER BY RAND()
-                LIMIT 10;`
+                LIMIT 5;`
 
     db.query(query, [categoryId], (err, results) => {
       if (err) {
