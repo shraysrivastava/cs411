@@ -16,7 +16,7 @@ export interface Question {
   option1: string
   option2: string
   option3: string
-  category_id: string
+  category_id: number
   difficulty: string
 }
 
@@ -36,16 +36,28 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   const [gameOver, setGameOver] = useState(false)
   const [showResult, setShowResult] = useState(false)
   const [answeredQuestions, setAnsweredQuestions] = useState<boolean[]>(Array(questions.length).fill(false))
+  const [shuffledOptions, setShuffledOptions] = useState<string[]>([])
 
   const currentQuestion = questions[currentQuestionIndex]
   const progress = ((currentQuestionIndex + 1) / questions.length) * 100
 
-  const options = [
+  // Shuffle options whenever the question changes
+  useEffect(() => {
+  if (!currentQuestion) return
+
+  const rawOptions = [
     currentQuestion.correct_answer,
     currentQuestion.option1,
     currentQuestion.option2,
     currentQuestion.option3,
-  ].sort(() => Math.random() - 0.5) // shuffle for randomness
+  ]
+
+  // Remove duplicates
+  const uniqueOptions = Array.from(new Set(rawOptions))
+
+  const shuffled = [...uniqueOptions].sort(() => Math.random() - 0.5)
+  setShuffledOptions(shuffled)
+}, [currentQuestionIndex])
 
   useEffect(() => {
     if (gameOver) return
@@ -77,7 +89,6 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
     if (isCorrect) {
       const difficultyMultiplier =
         currentQuestion.difficulty === "easy" ? 1 : currentQuestion.difficulty === "medium" ? 1.5 : 2
-
       const timeBonus = Math.floor(timeLeft * difficultyMultiplier)
       const questionScore = 50 + timeBonus
 
@@ -149,7 +160,7 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
             <div className="mb-6">
               <h3 className="text-xl font-medium mb-6">{currentQuestion.question_text}</h3>
               <div className="grid gap-3">
-                {options.map((option) => {
+                {shuffledOptions.map((option) => {
                   let optionClass = "border hover:bg-muted"
 
                   if (showResult) {

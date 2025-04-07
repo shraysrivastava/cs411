@@ -1,10 +1,6 @@
 import type { Metadata } from "next"
 import { GameInterface, Question } from "@/components/game-interface"
 
-export const metadata: Metadata = {
-  title: "Playing Game - Trivia Master",
-  description: "Answer trivia questions and test your knowledge",
-}
 
 export default function GamePage({ params }: { params: { categoryId: string } }) {
   const categoryId = Number.parseInt(params.categoryId)
@@ -18,7 +14,7 @@ export default function GamePage({ params }: { params: { categoryId: string } })
       option1: "Denver Nuggets",
       option2: "Miami Heat",
       option3: "Boston Celtics",
-      category_id: "sports",
+      category_id: 1,
       difficulty: "medium",
     },
     {
@@ -28,7 +24,7 @@ export default function GamePage({ params }: { params: { categoryId: string } })
       option1: "Wilt Chamberlain",
       option2: "Kobe Bryant",
       option3: "Michael Jordan",
-      category_id: "sports",
+      category_id: 1,
       difficulty: "medium",
     },
     {
@@ -38,7 +34,7 @@ export default function GamePage({ params }: { params: { categoryId: string } })
       option1: "Argentina",
       option2: "France",
       option3: "Brazil",
-      category_id: "sports",
+      category_id: 1,
       difficulty: "easy",
     },
     {
@@ -48,7 +44,7 @@ export default function GamePage({ params }: { params: { categoryId: string } })
       option1: "1896",
       option2: "1900",
       option3: "1924",
-      category_id: "history",
+      category_id: 1,
       difficulty: "hard",
     },
     {
@@ -58,7 +54,7 @@ export default function GamePage({ params }: { params: { categoryId: string } })
       option1: "Novak Djokovic",
       option2: "Rafael Nadal",
       option3: "Roger Federer",
-      category_id: "sports",
+      category_id: 1,
       difficulty: "medium",
     },
   ];
