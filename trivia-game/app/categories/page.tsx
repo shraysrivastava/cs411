@@ -12,12 +12,12 @@ export interface Category {
 }
 
 const fallbackCategories: Category[] = [
-  { category_id: 1, name: "Sports", description: "Questions about various sports and athletes"},
-  { category_id: 2, name: "Music", description: "Test your knowledge of songs, artists, and albums"},
-  { category_id: 3, name: "Movies", description: "Questions about films, directors, and actors"},
-  { category_id: 4, name: "Science", description: "Explore the world of scientific discoveries"},
+  { category_id: 1, name: "Sports", description: "Questions about various sports and athletes" },
+  { category_id: 2, name: "Music", description: "Test your knowledge of songs, artists, and albums" },
+  { category_id: 3, name: "Movies", description: "Questions about films, directors, and actors" },
+  { category_id: 4, name: "Science", description: "Explore the world of scientific discoveries" },
   { category_id: 5, name: "History", description: "Test your knowledge of historical events" },
-  { category_id: 6, name: "Geography", description: "Questions about countries, capitals, and landmarks"},
+  { category_id: 6, name: "Geography", description: "Questions about countries, capitals, and landmarks" },
   { category_id: 7, name: "Literature", description: "Explore famous books and authors" },
   {
     category_id: 8,
@@ -30,28 +30,33 @@ export default function CategoriesPage() {
   const [categories, setCategories] = useState<Category[]>([])
 
   useEffect(() => {
+    let isMounted = true
+
     const fetchCategories = async () => {
       try {
         const res = await fetch("http://localhost:8080/get-categories")
-        if (!res.ok) throw new Error("failed to fetch")
+        if (!res.ok) throw new Error("Failed to fetch")
 
         const data: Category[] = await res.json()
-        setCategories(data)
+        if (isMounted) setCategories(data)
       } catch (error) {
-        console.error("fetch failed, using fallback categories:", error)
-        setCategories(fallbackCategories)
+        console.error("❌ Fetch failed, using fallback categories:", error)
+        if (isMounted) setCategories(fallbackCategories)
       }
     }
 
     fetchCategories()
+
+    return () => {
+      isMounted = false
+    }
   }, [])
 
   return (
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-6">Categories</h1>
       <p className="text-muted-foreground mb-8">
-        Choose a category to start a new game. Each category contains different questions with varying difficulty
-        levels.
+        Choose a category to start a new game. Each category contains different questions with varying difficulty levels.
       </p>
       <CategoryGrid categories={categories} />
     </div>
