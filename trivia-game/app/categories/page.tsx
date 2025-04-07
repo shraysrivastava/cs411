@@ -4,10 +4,6 @@ import type { Metadata } from "next"
 import { useEffect, useState } from "react"
 import { CategoryGrid } from "@/components/category-grid"
 
-export const metadata: Metadata = {
-  title: "Categories - Trivia Master",
-  description: "Browse trivia categories",
-}
 
 export interface Category {
   category_id: number
