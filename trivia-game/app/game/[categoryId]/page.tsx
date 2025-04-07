@@ -1,10 +1,11 @@
 "use client"
 
-import { useEffect, useState } from "react"
+import { useEffect, useState, use, useRef } from "react"
 import { GameInterface, Question } from "@/components/game-interface"
 
-export default function GamePage({ params }: { params: { categoryId: string } }) {
-  const categoryId = Number.parseInt(params.categoryId)
+export default function GamePage(promiseParams: { params: Promise<{ categoryId: string }> }) {
+  const { categoryId } = use(promiseParams.params)
+  const numericCategoryId = Number.parseInt(categoryId)
 
   const mockQuestions: Question[] = [
     {
@@ -61,20 +62,26 @@ export default function GamePage({ params }: { params: { categoryId: string } })
 
   const [questions, setQuestions] = useState<Question[] | null>(null)
 
-  useEffect(() => {
-    fetch(`http://localhost:8080/get-questions?category=${categoryId}`)
-      .then((res) => {
-        if (!res.ok) throw new Error("Failed to fetch")
-        return res.json()
-      })
-      .then((data: Question[]) => {
-        setQuestions(data)
-      })
-      .catch((err) => {
-        console.error("❌ Failed to fetch from backend. Using mock data.", err)
-        setQuestions(mockQuestions)
-      })
-  }, [categoryId])
+  const hasFetchedRef = useRef(false)
+
+useEffect(() => {
+  if (hasFetchedRef.current) return
+  hasFetchedRef.current = true
+
+  fetch(`http://localhost:8080/get-questions?category=${numericCategoryId}`)
+    .then((res) => {
+      if (!res.ok) throw new Error("Failed to fetch")
+      return res.json()
+    })
+    .then((data: Question[]) => {
+      setQuestions(data)
+    })
+    .catch((err) => {
+      console.error("❌ Failed to fetch from backend. Using mock data.", err)
+      setQuestions(mockQuestions)
+    })
+}, [])
+
 
   const categoryNames: Record<number, string> = {
     1: "Sports",
@@ -83,12 +90,12 @@ export default function GamePage({ params }: { params: { categoryId: string } })
     4: "Movies",
   }
 
-  const categoryName = categoryNames[categoryId] || "Unknown Category"
+  const categoryName = categoryNames[numericCategoryId] || "Unknown Category"
 
   return (
     <div className="container mx-auto px-4 py-8">
       {questions ? (
-        <GameInterface categoryId={categoryId} categoryName={categoryName} questions={questions} />
+        <GameInterface categoryId={numericCategoryId} categoryName={categoryName} questions={questions} />
       ) : (
         <p className="text-center text-gray-500">Loading questions...</p>
       )}
