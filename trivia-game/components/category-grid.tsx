@@ -16,15 +16,9 @@ export function CategoryGrid({ categories }: CategoryGridProps) {
         <Card key={category.category_id} className="overflow-hidden">
           <CardContent className="p-6">
             <div className="flex flex-col items-start gap-4">
-              <div className="rounded-full bg-primary/10 p-3">
-                <Brain className="h-6 w-6 text-primary" />
-              </div>
               <div>
                 <h3 className="text-lg font-semibold">{category.name}</h3>
                 <p className="text-sm text-muted-foreground mt-1">{category.description}</p>
-                <div className="flex items-center gap-1 mt-2 text-xs text-muted-foreground">
-                  <BookOpen className="h-3 w-3" />
-                </div>
               </div>
             </div>
           </CardContent>

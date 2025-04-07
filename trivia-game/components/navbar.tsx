@@ -5,7 +5,7 @@ import { Brain, Trophy, History, Home, LogOut } from "lucide-react";
 export function Navbar() {
   // This would normally be determined by authentication state
   const isLoggedIn = true;
-  const username = "triviaMaster";
+  const username = "user";
 
   return (
     <header className="bg-background border-b">
@@ -13,8 +13,7 @@ export function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-6">
             <Link href="/" className="flex items-center gap-2">
-              <Brain className="h-6 w-6" />
-              <span className="font-bold text-xl">Trivia Master</span>
+              <span className="font-bold text-xl">Guess Dat</span>
             </Link>
             {isLoggedIn && (
               <nav className="hidden md:flex gap-6">
