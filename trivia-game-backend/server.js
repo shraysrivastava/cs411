@@ -25,7 +25,7 @@ db.connect(err => {
 });
 
 // Simple test route
-app.get('/test-db', (req, res) => {
+app.get('/get-categories', (req, res) => {
     db.query('SELECT * FROM Category', (err, results) => {
       if (err) {
         console.error('❌ Query error:', err);  // Add this line
