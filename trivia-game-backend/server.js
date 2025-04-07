@@ -18,9 +18,9 @@ const db = mysql.createConnection({
 // Test DB connection
 db.connect(err => {
   if (err) {
-    console.error('❌ DB connection failed:', err.stack);
+    console.error('DB connection failed:', err.stack);
   } else {
-    console.log('✅ Connected to GCP MySQL database');
+    console.log('Connected to GCP MySQL database');
   }
 });
 
@@ -28,7 +28,7 @@ db.connect(err => {
 app.get('/get-categories', (req, res) => {
     db.query('SELECT * FROM Category', (err, results) => {
       if (err) {
-        console.error('❌ Query error:', err);  // Add this line
+        console.error('Query error:', err);  // Add this line
         res.status(500).send('Query failed');
       } else {
         res.json({ success: true, data: results });
@@ -39,5 +39,5 @@ app.get('/get-categories', (req, res) => {
   
 
 app.listen(port, () => {
-  console.log(`🚀 Backend server running at http://localhost:${port}`);
+  console.log(`Backend server running at http://localhost:${port}`);
 });
