@@ -1,11 +1,11 @@
-import type { Metadata } from "next"
-import { GameInterface, Question } from "@/components/game-interface"
+"use client"
 
+import { useEffect, useState } from "react"
+import { GameInterface, Question } from "@/components/game-interface"
 
 export default function GamePage({ params }: { params: { categoryId: string } }) {
   const categoryId = Number.parseInt(params.categoryId)
 
-  // This would normally be fetched from the backend based on the category
   const mockQuestions: Question[] = [
     {
       question_id: 1,
@@ -57,23 +57,41 @@ export default function GamePage({ params }: { params: { categoryId: string } })
       category_id: 1,
       difficulty: "medium",
     },
-  ];
-  
+  ]
 
-  // Get category name (would normally come from API)
+  const [questions, setQuestions] = useState<Question[] | null>(null)
+
+  useEffect(() => {
+    fetch(`http://localhost:8080/get-questions?category=${categoryId}`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Failed to fetch")
+        return res.json()
+      })
+      .then((data: Question[]) => {
+        setQuestions(data)
+      })
+      .catch((err) => {
+        console.error("❌ Failed to fetch from backend. Using mock data.", err)
+        setQuestions(mockQuestions)
+      })
+  }, [categoryId])
+
   const categoryNames: Record<number, string> = {
     1: "Sports",
-    2: "Music",
-    3: "Movies",
-    4: "Science",
+    2: "Video Games",
+    3: "Music",
+    4: "Movies",
   }
 
   const categoryName = categoryNames[categoryId] || "Unknown Category"
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <GameInterface categoryId={categoryId} categoryName={categoryName} questions={mockQuestions} />
+      {questions ? (
+        <GameInterface categoryId={categoryId} categoryName={categoryName} questions={questions} />
+      ) : (
+        <p className="text-center text-gray-500">Loading questions...</p>
+      )}
     </div>
   )
 }
-
