@@ -9,11 +9,14 @@ import { Badge } from "@/components/ui/badge"
 import { Clock, AlertCircle } from "lucide-react"
 import { Alert, AlertDescription } from "@/components/ui/alert"
 
-interface Question {
-  id: number
-  text: string
-  correctAnswer: string
-  options: string[]
+export interface Question {
+  question_id: number
+  question_text: string
+  correct_answer: string
+  option1: string
+  option2: string
+  option3: string
+  category_id: string
   difficulty: string
 }
 
@@ -37,6 +40,13 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   const currentQuestion = questions[currentQuestionIndex]
   const progress = ((currentQuestionIndex + 1) / questions.length) * 100
 
+  const options = [
+    currentQuestion.correct_answer,
+    currentQuestion.option1,
+    currentQuestion.option2,
+    currentQuestion.option3,
+  ].sort(() => Math.random() - 0.5) // shuffle for randomness
+
   useEffect(() => {
     if (gameOver) return
 
@@ -59,13 +69,12 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   const handleAnswer = (option: string | null) => {
     if (answeredQuestions[currentQuestionIndex] || gameOver) return
 
-    const isCorrect = option === currentQuestion.correctAnswer
+    const isCorrect = option === currentQuestion.correct_answer
     const newAnsweredQuestions = [...answeredQuestions]
     newAnsweredQuestions[currentQuestionIndex] = true
     setAnsweredQuestions(newAnsweredQuestions)
 
     if (isCorrect) {
-      // Calculate score based on time left and difficulty
       const difficultyMultiplier =
         currentQuestion.difficulty === "easy" ? 1 : currentQuestion.difficulty === "medium" ? 1.5 : 2
 
@@ -79,7 +88,6 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
     setSelectedOption(option)
     setShowResult(true)
 
-    // Move to next question after 2 seconds
     setTimeout(() => {
       setShowResult(false)
       setSelectedOption(null)
@@ -94,7 +102,6 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   }
 
   const handleFinishGame = () => {
-    // In a real app, this would save the game session to the backend
     router.push("/")
   }
 
@@ -140,13 +147,13 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
           </CardHeader>
           <CardContent className="pt-2">
             <div className="mb-6">
-              <h3 className="text-xl font-medium mb-6">{currentQuestion.text}</h3>
+              <h3 className="text-xl font-medium mb-6">{currentQuestion.question_text}</h3>
               <div className="grid gap-3">
-                {currentQuestion.options.map((option) => {
+                {options.map((option) => {
                   let optionClass = "border hover:bg-muted"
 
                   if (showResult) {
-                    if (option === currentQuestion.correctAnswer) {
+                    if (option === currentQuestion.correct_answer) {
                       optionClass = "border-green-500 bg-green-50 dark:bg-green-900/20"
                     } else if (option === selectedOption) {
                       optionClass = "border-red-500 bg-red-50 dark:bg-red-900/20"
@@ -167,13 +174,13 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
                 })}
               </div>
             </div>
-            {showResult && selectedOption !== currentQuestion.correctAnswer && (
+            {showResult && selectedOption !== currentQuestion.correct_answer && (
               <Alert variant="destructive" className="mt-4">
                 <AlertCircle className="h-4 w-4" />
                 <AlertDescription>
                   {selectedOption
-                    ? `Incorrect! The correct answer is: ${currentQuestion.correctAnswer}`
-                    : `Time's up! The correct answer is: ${currentQuestion.correctAnswer}`}
+                    ? `Incorrect! The correct answer is: ${currentQuestion.correct_answer}`
+                    : `Time's up! The correct answer is: ${currentQuestion.correct_answer}`}
                 </AlertDescription>
               </Alert>
             )}
@@ -203,4 +210,3 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
     </div>
   )
 }
-

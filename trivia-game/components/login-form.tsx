@@ -36,7 +36,7 @@ export function LoginForm() {
       // Redirect to home page on success
       router.push("/")
     } catch (err) {
-      setError(err instanceof Error ? err.message : "An error occurred")
+      setError(err instanceof Error ? err.message : "An error occurred logging in")
     } finally {
       setIsLoading(false)
     }

@@ -1,4 +1,7 @@
+"use client"
+
 import type { Metadata } from "next"
+import { useEffect, useState } from "react"
 import { CategoryGrid } from "@/components/category-grid"
 
 export const metadata: Metadata = {
@@ -6,23 +9,46 @@ export const metadata: Metadata = {
   description: "Browse trivia categories",
 }
 
+export interface Category {
+  category_id: number
+  name: string
+  description?: string
+}
+
+const fallbackCategories: Category[] = [
+  { category_id: 1, name: "Sports", description: "Questions about various sports and athletes"},
+  { category_id: 2, name: "Music", description: "Test your knowledge of songs, artists, and albums"},
+  { category_id: 3, name: "Movies", description: "Questions about films, directors, and actors"},
+  { category_id: 4, name: "Science", description: "Explore the world of scientific discoveries"},
+  { category_id: 5, name: "History", description: "Test your knowledge of historical events" },
+  { category_id: 6, name: "Geography", description: "Questions about countries, capitals, and landmarks"},
+  { category_id: 7, name: "Literature", description: "Explore famous books and authors" },
+  {
+    category_id: 8,
+    name: "Technology",
+    description: "Questions about gadgets, software, and tech companies"
+  },
+]
+
 export default function CategoriesPage() {
-  // This would normally be fetched from the backend
-  const categories = [
-    { id: 1, name: "Sports", description: "Questions about various sports and athletes", questionCount: 25 },
-    { id: 2, name: "Music", description: "Test your knowledge of songs, artists, and albums", questionCount: 30 },
-    { id: 3, name: "Movies", description: "Questions about films, directors, and actors", questionCount: 40 },
-    { id: 4, name: "Science", description: "Explore the world of scientific discoveries", questionCount: 20 },
-    { id: 5, name: "History", description: "Test your knowledge of historical events", questionCount: 35 },
-    { id: 6, name: "Geography", description: "Questions about countries, capitals, and landmarks", questionCount: 28 },
-    { id: 7, name: "Literature", description: "Explore famous books and authors", questionCount: 22 },
-    {
-      id: 8,
-      name: "Technology",
-      description: "Questions about gadgets, software, and tech companies",
-      questionCount: 18,
-    },
-  ]
+  const [categories, setCategories] = useState<Category[]>([])
+
+  useEffect(() => {
+    const fetchCategories = async () => {
+      try {
+        const res = await fetch("http://localhost:8080/get-categories")
+        if (!res.ok) throw new Error("failed to fetch")
+
+        const data: Category[] = await res.json()
+        setCategories(data)
+      } catch (error) {
+        console.error("fetch failed, using fallback categories:", error)
+        setCategories(fallbackCategories)
+      }
+    }
+
+    fetchCategories()
+  }, [])
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -35,4 +61,3 @@ export default function CategoriesPage() {
     </div>
   )
 }
-

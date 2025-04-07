@@ -25,7 +25,7 @@ export function CategoryCard({ category }: CategoryCardProps) {
             <p className="text-sm text-muted-foreground mt-1">{category.description}</p>
             <div className="flex items-center gap-1 mt-2 text-xs text-muted-foreground">
               <BookOpen className="h-3 w-3" />
-              <span>{category.questionCount} questions</span>
+              <span>{category.questionCount} possible questions</span>
             </div>
           </div>
         </div>

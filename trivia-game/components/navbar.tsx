@@ -1,11 +1,11 @@
-import Link from "next/link"
-import { Button } from "@/components/ui/button"
-import { Brain, Trophy, History, Home, LogOut } from "lucide-react"
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
+import { Brain, Trophy, History, Home, LogOut } from "lucide-react";
 
 export function Navbar() {
   // This would normally be determined by authentication state
-  const isLoggedIn = true
-  const username = "triviaMaster"
+  const isLoggedIn = true;
+  const username = "triviaMaster";
 
   return (
     <header className="bg-background border-b">
@@ -18,10 +18,13 @@ export function Navbar() {
             </Link>
             {isLoggedIn && (
               <nav className="hidden md:flex gap-6">
-                <Link href="/" className="text-sm font-medium transition-colors hover:text-primary">
+                {/* <Link href="/" className="text-sm font-medium transition-colors hover:text-primary">
                   Home
                 </Link>
-                <Link href="/categories" className="text-sm font-medium transition-colors hover:text-primary">
+                <Link
+                  href="/categories"
+                  className="text-sm font-medium transition-colors hover:text-primary"
+                >
                   Categories
                 </Link>
                 <Link href="/history" className="text-sm font-medium transition-colors hover:text-primary">
@@ -29,14 +32,16 @@ export function Navbar() {
                 </Link>
                 <Link href="/leaderboard" className="text-sm font-medium transition-colors hover:text-primary">
                   Leaderboard
-                </Link>
+                </Link> */}
               </nav>
             )}
           </div>
           <div className="flex items-center gap-4">
             {isLoggedIn ? (
               <>
-                <span className="hidden md:inline-block text-sm font-medium">Welcome, {username}</span>
+                <span className="hidden md:inline-block text-sm font-medium">
+                  Welcome, {username}
+                </span>
                 <Button variant="outline" size="sm" asChild>
                   <Link href="/login">
                     <LogOut className="h-4 w-4 mr-2" />
@@ -65,15 +70,24 @@ export function Navbar() {
                 <Home className="h-5 w-5" />
                 <span className="text-xs">Home</span>
               </Link>
-              <Link href="/categories" className="flex flex-col items-center px-2 py-1">
+              <Link
+                href="/categories"
+                className="flex flex-col items-center px-2 py-1"
+              >
                 <Brain className="h-5 w-5" />
                 <span className="text-xs">Categories</span>
               </Link>
-              <Link href="/history" className="flex flex-col items-center px-2 py-1">
+              <Link
+                href="/history"
+                className="flex flex-col items-center px-2 py-1"
+              >
                 <History className="h-5 w-5" />
                 <span className="text-xs">History</span>
               </Link>
-              <Link href="/leaderboard" className="flex flex-col items-center px-2 py-1">
+              <Link
+                href="/leaderboard"
+                className="flex flex-col items-center px-2 py-1"
+              >
                 <Trophy className="h-5 w-5" />
                 <span className="text-xs">Leaderboard</span>
               </Link>
@@ -82,6 +96,5 @@ export function Navbar() {
         </div>
       )}
     </header>
-  )
+  );
 }
-
