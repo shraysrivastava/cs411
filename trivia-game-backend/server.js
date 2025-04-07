@@ -24,14 +24,34 @@ db.connect(err => {
   }
 });
 
-// Simple test route
+// Category query
 app.get('/get-categories', (req, res) => {
     db.query('SELECT * FROM Category', (err, results) => {
       if (err) {
         console.error('Query error:', err);  // Add this line
         res.status(500).send('Query failed');
       } else {
-        res.json({ success: true, data: results });
+        res.json(results);
+      }
+    });
+  });
+
+// Question query
+app.get('/get-questions', (req, res) => {
+
+    const categoryId = req.query.category;
+
+    const query = `SELECT * FROM Question
+                WHERE category_id = ?
+                ORDER BY RAND()
+                LIMIT 10;`
+
+    db.query(query, [categoryId], (err, results) => {
+      if (err) {
+        console.error('Query error:', err);  // Add this line
+        res.status(500).send('Query failed');
+      } else {
+        res.json(results);
       }
     });
   });
