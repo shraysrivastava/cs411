@@ -24,12 +24,9 @@ export function SignupForm() {
     setError("")
     setIsLoading(true)
 
-    // Simulate API call
     try {
-      // In a real app, this would be an API call to your backend
       await new Promise((resolve) => setTimeout(resolve, 1000))
 
-      // Basic validation
       if (!username || !password || !confirmPassword) {
         throw new Error("Please fill in all fields")
       }
@@ -38,7 +35,6 @@ export function SignupForm() {
         throw new Error("Passwords do not match")
       }
 
-      // Redirect to home page on success
       router.push("/")
     } catch (err) {
       setError(err instanceof Error ? err.message : "An error occurred")

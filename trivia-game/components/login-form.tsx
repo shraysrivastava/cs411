@@ -23,17 +23,13 @@ export function LoginForm() {
     setError("")
     setIsLoading(true)
 
-    // Simulate API call
     try {
-      // In a real app, this would be an API call to your backend
       await new Promise((resolve) => setTimeout(resolve, 1000))
 
-      // For demo purposes, just check if fields are filled
       if (!username || !password) {
         throw new Error("Please fill in all fields")
       }
 
-      // Redirect to home page on success
       router.push("/")
     } catch (err) {
       setError(err instanceof Error ? err.message : "An error occurred logging in")

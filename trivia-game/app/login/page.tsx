@@ -3,8 +3,8 @@ import Link from "next/link"
 import { LoginForm } from "@/components/login-form"
 
 export const metadata: Metadata = {
-  title: "Login - Trivia Master",
-  description: "Login to your Trivia Master account",
+  title: "Login - Guess Dat",
+  description: "Login to your Guess Dat account",
 }
 
 export default function LoginPage() {

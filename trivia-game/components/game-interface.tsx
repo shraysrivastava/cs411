@@ -41,7 +41,7 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   const currentQuestion = questions[currentQuestionIndex]
   const progress = ((currentQuestionIndex + 1) / questions.length) * 100
 
-  // Shuffle options whenever the question changes
+  
   useEffect(() => {
   if (!currentQuestion) return
 
@@ -52,7 +52,6 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
     currentQuestion.option3,
   ]
 
-  // Remove duplicates
   const uniqueOptions = Array.from(new Set(rawOptions))
 
   const shuffled = [...uniqueOptions].sort(() => Math.random() - 0.5)
