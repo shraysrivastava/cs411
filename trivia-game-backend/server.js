@@ -34,6 +34,7 @@ app.get('/get-categories', (req, res) => {
   });
 });
 
+
 app.get('/get-questions', (req, res) => {
   const categoryId = req.query.category;
   const query = `CALL GetRandomQuestions(?);`;
@@ -47,8 +48,10 @@ app.get('/get-questions', (req, res) => {
   });
 });
 
+
+
 app.get('/get-game-sessions', (req, res) => {
-  const { userId } = req.query;
+  const { user_id } = req.query;
   const query = `
     SELECT session_id, time_elapsed, score, num_correct, attempts
     FROM GameSession
@@ -57,12 +60,30 @@ app.get('/get-game-sessions', (req, res) => {
     LIMIT 20;
   `;
 
-  db.query(query, [userId], (err, results) => {
+  db.query(query, [user_id], (err, results) => {
     if (err) {
       console.error('Game sessions query error:', err);
       res.status(500).send('Query failed');
     } else {
       res.json(results);
+    }
+  });
+});
+
+app.get('/get-user', (req, res) => {
+  const { username } = req.query;
+  const query = `
+    SELECT user_id
+    FROM User
+    WHERE username = ?;
+  `;
+
+  db.query(query, [username], (err, results) => {
+    if (err) {
+      console.error('Fetch user error', err);
+      res.status(500).send('Query failed');
+    } else {
+      res.json(results[0]);
     }
   });
 });
@@ -106,7 +127,8 @@ app.get('/get-leaderboard', (req, res) => {
 
 
 app.post('/session-complete', (req, res) => {
-  const { user_id, score, num_correct, attempts, time_elapsed, answers } = req.body;
+  
+  const { user_id , score, num_correct, attempts, time_elapsed, answers } = req.body;
 
   db.beginTransaction(err => {
     if (err) {

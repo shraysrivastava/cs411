@@ -166,12 +166,23 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
 
   const handleFinishGame = async () => {
     const timeElapsed = Math.floor((Date.now() - startTime) / 1000)
+    const curr_user = localStorage.getItem("username")
+    // const id = await fetch (`http://localhost:8080/get-user?username=${curr_user}`)
+
+    
+
+    const res = await fetch(`http://localhost:8080/get-user?username=${curr_user}`);
+    const userData = await res.json();
+    const userId = userData.user_id;
+
+    console.log("curr_user from localStorage:", curr_user);
+    console.log("userData from get-user API:", userId);
 
     await fetch("http://localhost:8080/session-complete", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        user_id: 1, //pranav changes this to current user
+        user_id: userId, //pranav changes this to current user
         score: score,
         num_correct: correctAnswers,
         attempts: questions.length,
