@@ -20,17 +20,22 @@ export default function GameHistoryPage() {
   const [expandedSession, setExpandedSession] = useState<number | null>(null);
   const [questions, setQuestions] = useState<{ [key: number]: Question[] }>({});
 
-  useEffect(() => {
-    async function fetchSessions() {
-        // const userId = currentUser?.user_id; // assuming you store currentUser after login
-        // const res = await fetch(`http://localhost:8080/get-game-sessions?userId=${userId}`);
-// Pranav lmk when you have user_id stored.
-      const res = await fetch(`http://localhost:8080/get-game-sessions?userId=48`);
-      const data = await res.json();
-      setSessions(data);
+useEffect(() => {
+  async function fetchSessions() {
+    const userId = localStorage.getItem("user_id"); 
+
+    if (!userId) {
+      console.error("No user ID found in localStorage");
+      return;
     }
-    fetchSessions();
-  }, []);
+
+    const res = await fetch(`http://localhost:8080/get-game-sessions?userId=${userId}`);
+    const data = await res.json();
+    setSessions(data);
+  }
+
+  fetchSessions();
+}, []);
 
   const toggleSession = async (sessionId: number) => {
     if (expandedSession === sessionId) {
