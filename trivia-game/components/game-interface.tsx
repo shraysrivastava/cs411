@@ -131,6 +131,39 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
     }, 2000)
   }
 
+  const handleDownvote = async () => {
+    if (answeredQuestions[currentQuestionIndex] || gameOver) return
+
+    const questionId = currentQuestion.question_id
+
+    await fetch("http://localhost:8080/downvote-question", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question_id: questionId })
+    })
+
+    const newAnsweredQuestions = [...answeredQuestions]
+    newAnsweredQuestions[currentQuestionIndex] = true
+    setAnsweredQuestions(newAnsweredQuestions)
+
+    setRecordedAnswers(prev => [...prev, {
+      question_id: questionId,
+      is_correct: 0
+    }])
+
+    setSelectedOption(null)
+    setShowResult(false)
+
+    setTimeout(() => {
+      if (currentQuestionIndex < questions.length - 1) {
+        setCurrentQuestionIndex((prev) => prev + 1)
+        setTimeLeft(30)
+      } else {
+        setGameOver(true)
+      }
+    }, 200)
+  }
+
   const handleFinishGame = async () => {
     const timeElapsed = Math.floor((Date.now() - startTime) / 1000)
 
@@ -179,7 +212,7 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   }
 
   return (
-    <div className="max-w-3xl mx-auto">
+    <div className="max-w-3xl mx-auto p-4">
       {!gameOver ? (
         <Card className="shadow-lg">
           <CardHeader>
@@ -202,17 +235,19 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
             </div>
             <Progress value={progress} className="h-2 mt-2" />
             <div className="flex gap-2 mt-4">
-              <Button variant="secondary" onClick={handleSplitDat} disabled={splitUsed || showResult} className="flex-1">
+              <Button variant="secondary" onClick={handleSplitDat} disabled={splitUsed || showResult}>
                 Split Dat (50/50)
               </Button>
-              <Button variant="secondary" onClick={handleDoubleDat} disabled={doubleUsed || showResult} className="flex-1">
+              <Button variant="secondary" onClick={handleDoubleDat} disabled={doubleUsed || showResult}>
                 Double Dat (2x Points)
               </Button>
             </div>
           </CardHeader>
-          <CardContent className="pt-2">
-            <div className="mb-6">
-              <h3 className="text-xl font-medium mb-6">{currentQuestion.question_text}</h3>
+
+          <CardContent>
+            <div className="space-y-4">
+              <h3 className="text-xl font-semibold text-center">{currentQuestion.question_text}</h3>
+
               <div className="grid gap-3">
                 {shuffledOptions.map((option) => {
                   let optionClass = "border hover:bg-muted"
@@ -238,17 +273,30 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
                   )
                 })}
               </div>
+
+              <div className="border-t pt-4 flex justify-end">
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={handleDownvote}
+                  disabled={showResult}
+                  className="text-red-500 border-red-300 hover:bg-red-100"
+                >
+                  👎 Downvote
+                </Button>
+              </div>
+
+              {showResult && selectedOption !== currentQuestion.correct_answer && (
+                <Alert variant="destructive" className="mt-4">
+                  <AlertCircle className="h-4 w-4" />
+                  <AlertDescription>
+                    {selectedOption
+                      ? `Incorrect! The correct answer is: ${currentQuestion.correct_answer}`
+                      : `Time's up! The correct answer is: ${currentQuestion.correct_answer}`}
+                  </AlertDescription>
+                </Alert>
+              )}
             </div>
-            {showResult && selectedOption !== currentQuestion.correct_answer && (
-              <Alert variant="destructive" className="mt-4">
-                <AlertCircle className="h-4 w-4" />
-                <AlertDescription>
-                  {selectedOption
-                    ? `Incorrect! The correct answer is: ${currentQuestion.correct_answer}`
-                    : `Time's up! The correct answer is: ${currentQuestion.correct_answer}`}
-                </AlertDescription>
-              </Alert>
-            )}
           </CardContent>
         </Card>
       ) : (
