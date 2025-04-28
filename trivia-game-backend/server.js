@@ -36,18 +36,13 @@ app.get('/get-categories', (req, res) => {
 
 app.get('/get-questions', (req, res) => {
   const categoryId = req.query.category;
-  const query = `
-    SELECT * FROM Question
-    WHERE category_id = ?
-    ORDER BY RAND()
-    LIMIT 5;
-  `;
+  const query = `CALL GetRandomQuestions(?);`;
   db.query(query, [categoryId], (err, results) => {
     if (err) {
       console.error('Query error:', err);
       res.status(500).send('Query failed');
     } else {
-      res.json(results);
+      res.json(results[0]);
     }
   });
 });
