@@ -36,21 +36,34 @@ app.get('/get-categories', (req, res) => {
 
 app.get('/get-questions', (req, res) => {
   const categoryId = req.query.category;
-  const query = `
-    SELECT * FROM Question
-    WHERE category_id = ?
-    ORDER BY RAND()
-    LIMIT 5;
-  `;
+  const query = `CALL GetRandomQuestions(?);`;
   db.query(query, [categoryId], (err, results) => {
     if (err) {
       console.error('Query error:', err);
+      res.status(500).send('Query failed');
+    } else {
+      res.json(results[0]);
+    }
+  });
+});
+
+app.get('/get-leaderboard', (req, res) => {
+  const query = `
+    SELECT username, total_score, total_sessions, avg_score_per_session
+    FROM Leaderboard
+    ORDER BY total_score DESC;
+  `;
+
+  db.query(query, (err, results) => {
+    if (err) {
+      console.error('Leaderboard query error:', err);
       res.status(500).send('Query failed');
     } else {
       res.json(results);
     }
   });
 });
+
 
 app.post('/session-complete', (req, res) => {
   const { user_id, score, num_correct, attempts, time_elapsed, answers } = req.body;
