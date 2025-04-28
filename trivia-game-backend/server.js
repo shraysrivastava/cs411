@@ -79,7 +79,7 @@ app.post('/session-complete', (req, res) => {
       const answerValues = answers.map(ans => [sessionId, ans.question_id, ans.is_correct]);
 
       const answerInsert = `
-        INSERT INTO GameSessionQuestion (session_id, question_id, is_correct)
+        INSERT IGNORE INTO GameSessionQuestion (session_id, question_id, is_correct)
         VALUES ?
       `;
 
@@ -105,6 +105,25 @@ app.post('/session-complete', (req, res) => {
     });
   });
 });
+
+app.post('/downvote-question', (req, res) => {
+  const { question_id } = req.body;
+
+  const updateQuery = `
+    UPDATE Question
+    SET downvote = downvote + 1
+    WHERE question_id = ?
+  `;
+
+  db.query(updateQuery, [question_id], (err) => {
+    if (err) {
+      console.error('Failed to downvote question:', err);
+      return res.status(500).send('Failed to downvote');
+    }
+    res.sendStatus(200);
+  });
+});
+
 
 app.listen(port, () => {
   console.log(`Backend server running at http://localhost:${port}`);
