@@ -43,7 +43,7 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   const [doubleUsed, setDoubleUsed] = useState(false)
   const [isDoubleActive, setIsDoubleActive] = useState(false)
 
-  const [sessionId, setSessionId] = useState<number | null>(null)
+  const [recordedAnswers, setRecordedAnswers] = useState<{ question_id: number, is_correct: number }[]>([])
   const [startTime, setStartTime] = useState<number>(0)
 
   const currentQuestion = questions[currentQuestionIndex]
@@ -65,12 +65,7 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   }, [currentQuestionIndex])
 
   useEffect(() => {
-    async function initializeGame() {
-      const newSessionId = await startNewSession(1) // hardcoded user_id
-      setSessionId(newSessionId)
-      setStartTime(Date.now())
-    }
-    initializeGame()
+    setStartTime(Date.now())
   }, [])
 
   useEffect(() => {
@@ -100,9 +95,10 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
     newAnsweredQuestions[currentQuestionIndex] = true
     setAnsweredQuestions(newAnsweredQuestions)
 
-    if (sessionId) {
-      await recordAnswer(sessionId, currentQuestion.question_id, isCorrect)
-    }
+    setRecordedAnswers(prev => [...prev, {
+      question_id: currentQuestion.question_id,
+      is_correct: isCorrect ? 1 : 0
+    }])
 
     if (isCorrect) {
       const difficultyMultiplier =
@@ -136,10 +132,21 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
   }
 
   const handleFinishGame = async () => {
-    if (sessionId) {
-      const timeElapsed = Math.floor((Date.now() - startTime) / 1000)
-      await finishSession(sessionId, score, correctAnswers, questions.length, timeElapsed)
-    }
+    const timeElapsed = Math.floor((Date.now() - startTime) / 1000)
+
+    await fetch("http://localhost:8080/session-complete", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        user_id: 1,
+        score: score,
+        num_correct: correctAnswers,
+        attempts: questions.length,
+        time_elapsed: timeElapsed,
+        answers: recordedAnswers
+      })
+    })
+
     router.push("/")
   }
 
@@ -169,42 +176,6 @@ export function GameInterface({ categoryId, categoryName, questions }: GameInter
       case "hard": return "bg-red-500"
       default: return "bg-blue-500"
     }
-  }
-
-  async function startNewSession(userId: number) {
-    const res = await fetch("http://localhost:8080/session-start", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ user_id: userId }),
-    })
-    const data = await res.json()
-    return data.session_id
-  }
-
-  async function recordAnswer(sessionId: number, questionId: number, isCorrect: boolean) {
-    await fetch("http://localhost:8080/session-answer", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        session_id: sessionId,
-        question_id: questionId,
-        is_correct: isCorrect ? 1 : 0,
-      }),
-    })
-  }
-
-  async function finishSession(sessionId: number, finalScore: number, numCorrect: number, attempts: number, timeElapsed: number) {
-    await fetch("http://localhost:8080/session-finish", {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        session_id: sessionId,
-        score: finalScore,
-        num_correct: numCorrect,
-        attempts: attempts,
-        time_elapsed: timeElapsed,
-      }),
-    })
   }
 
   return (

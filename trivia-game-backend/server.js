@@ -52,60 +52,59 @@ app.get('/get-questions', (req, res) => {
   });
 });
 
+app.post('/session-complete', (req, res) => {
+  const { user_id, score, num_correct, attempts, time_elapsed, answers } = req.body;
 
-app.post('/session-start', (req, res) => {
-  const { user_id } = req.body;
-
-  const insertQuery = `
-    INSERT INTO GameSession (user_id, time_elapsed, score, num_correct, attempts)
-    VALUES (?, 0, 0, 0, 0)
-  `;
-
-  db.query(insertQuery, [user_id], (err, result) => {
+  db.beginTransaction(err => {
     if (err) {
-      console.error('Failed to start session:', err);
-      return res.status(500).send('Failed to start session');
+      console.error('Transaction start error:', err);
+      return res.status(500).send('Transaction error');
     }
-    res.json({ session_id: result.insertId });
+
+    const sessionInsert = `
+      INSERT INTO GameSession (user_id, time_elapsed, score, num_correct, attempts)
+      VALUES (?, ?, ?, ?, ?)
+    `;
+
+    db.query(sessionInsert, [user_id, time_elapsed, score, num_correct, attempts], (err, result) => {
+      if (err) {
+        return db.rollback(() => {
+          console.error('Insert GameSession failed:', err);
+          res.status(500).send('Failed to create session');
+        });
+      }
+
+      const sessionId = result.insertId;
+
+      const answerValues = answers.map(ans => [sessionId, ans.question_id, ans.is_correct]);
+
+      const answerInsert = `
+        INSERT INTO GameSessionQuestion (session_id, question_id, is_correct)
+        VALUES ?
+      `;
+
+      db.query(answerInsert, [answerValues], (err) => {
+        if (err) {
+          return db.rollback(() => {
+            console.error('Insert GameSessionQuestion failed:', err);
+            res.status(500).send('Failed to record answers');
+          });
+        }
+
+        db.commit(commitErr => {
+          if (commitErr) {
+            return db.rollback(() => {
+              console.error('Commit error:', commitErr);
+              res.status(500).send('Commit failed');
+            });
+          }
+
+          res.sendStatus(200);
+        });
+      });
+    });
   });
 });
-
-
-app.post('/session-answer', (req, res) => {
-  const { session_id, question_id, is_correct } = req.body;
-
-  const insertQuery = `
-    INSERT INTO GameSessionQuestion (session_id, question_id, is_correct)
-    VALUES (?, ?, ?)
-  `;
-
-  db.query(insertQuery, [session_id, question_id, is_correct], (err) => {
-    if (err) {
-      console.error('Failed to record answer:', err);
-      return res.status(500).send('Failed to record answer');
-    }
-    res.sendStatus(200);
-  });
-});
-
-app.put('/session-finish', (req, res) => {
-  const { session_id, score, num_correct, attempts, time_elapsed } = req.body;
-
-  const updateQuery = `
-    UPDATE GameSession
-    SET score = ?, num_correct = ?, attempts = ?, time_elapsed = ?
-    WHERE session_id = ?
-  `;
-
-  db.query(updateQuery, [score, num_correct, attempts, time_elapsed, session_id], (err) => {
-    if (err) {
-      console.error('Failed to finish session:', err);
-      return res.status(500).send('Failed to finish session');
-    }
-    res.sendStatus(200);
-  });
-});
-
 
 app.listen(port, () => {
   console.log(`Backend server running at http://localhost:${port}`);
