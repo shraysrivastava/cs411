@@ -32,6 +32,9 @@ import Link from "next/link";
                  <Link href="/leaderboard" className="text-sm font-medium transition-colors hover:text-primary">
                    Leaderboard
                  </Link>
+                 <Link href="/my questions" className="text-sm font-medium transition-colors hover:text-primary">
+                   Leaderboard
+                 </Link>
                </nav>
              )}
            </div>
