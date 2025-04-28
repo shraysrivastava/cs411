@@ -47,6 +47,46 @@ app.get('/get-questions', (req, res) => {
   });
 });
 
+app.get('/get-game-sessions', (req, res) => {
+  const { userId } = req.query;
+  const query = `
+    SELECT session_id, time_elapsed, score, num_correct, attempts
+    FROM GameSession
+    WHERE user_id = ?
+    ORDER BY session_id DESC
+    LIMIT 20;
+  `;
+
+  db.query(query, [userId], (err, results) => {
+    if (err) {
+      console.error('Game sessions query error:', err);
+      res.status(500).send('Query failed');
+    } else {
+      res.json(results);
+    }
+  });
+});
+
+app.get('/get-session-questions', (req, res) => {
+  const { sessionId } = req.query;
+  const query = `
+    SELECT q.question_text, gsq.is_correct
+    FROM GameSessionQuestion gsq
+    JOIN Question q ON gsq.question_id = q.question_id
+    WHERE gsq.session_id = ?;
+  `;
+
+  db.query(query, [sessionId], (err, results) => {
+    if (err) {
+      console.error('Session questions query error:', err);
+      res.status(500).send('Query failed');
+    } else {
+      res.json(results);
+    }
+  });
+});
+
+
 app.get('/get-leaderboard', (req, res) => {
   const query = `
     SELECT username, total_score, total_sessions, avg_score_per_session

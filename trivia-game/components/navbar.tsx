@@ -26,7 +26,7 @@ import Link from "next/link";
                  >
                    Categories
                  </Link> */}
-                 <Link href="/history" className="text-sm font-medium transition-colors hover:text-primary">
+                 <Link href="/game-history" className="text-sm font-medium transition-colors hover:text-primary">
                    History
                  </Link>
                  <Link href="/leaderboard" className="text-sm font-medium transition-colors hover:text-primary">
