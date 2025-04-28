@@ -8,7 +8,7 @@ import { Navbar } from "@/components/navbar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Trivia Master",
+  title: "Guess Dat",
   description: "Test your knowledge with our trivia game!",
     generator: 'v0.dev'
 }

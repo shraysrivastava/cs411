@@ -3,8 +3,8 @@ import Link from "next/link"
 import { SignupForm } from "@/components/signup-form"
 
 export const metadata: Metadata = {
-  title: "Sign Up - Trivia Master",
-  description: "Create a new Trivia Master account",
+  title: "Sign Up - Guess Dat",
+  description: "Create a new Guess Dat account",
 }
 
 export default function SignupPage() {
