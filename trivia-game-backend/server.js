@@ -28,7 +28,7 @@ db.connect(err => {
 app.get('/get-categories', (req, res) => {
     db.query('SELECT * FROM Category', (err, results) => {
       if (err) {
-        console.error('Query error:', err);  // Add this line
+        console.error('Query error:', err);  
         res.status(500).send('Query failed');
       } else {
         res.json(results);
@@ -48,7 +48,7 @@ app.get('/get-questions', (req, res) => {
 
     db.query(query, [categoryId], (err, results) => {
       if (err) {
-        console.error('Query error:', err);  // Add this line
+        console.error('Query error:', err);
         res.status(500).send('Query failed');
       } else {
         res.json(results);
