@@ -48,12 +48,14 @@ app.get('/get-questions', (req, res) => {
   });
 });
 
+
+
 app.get('/get-game-sessions', (req, res) => {
   const { userId } = req.query;
   const query = `
     SELECT session_id, time_elapsed, score, num_correct, attempts
     FROM GameSession
-    WHERE user_id = ?
+    WHERE userId = ?
     ORDER BY session_id DESC
     LIMIT 20;
   `;
@@ -61,6 +63,24 @@ app.get('/get-game-sessions', (req, res) => {
   db.query(query, [userId], (err, results) => {
     if (err) {
       console.error('Game sessions query error:', err);
+      res.status(500).send('Query failed');
+    } else {
+      res.json(results);
+    }
+  });
+});
+
+app.get('/get-user', (req, res) => {
+  const { username } = req.query;
+  const query = `
+    SELECT userId
+    FROM User
+    WHERE username = ?;
+  `;
+
+  db.query(query, [userId], (err, results) => {
+    if (err) {
+      console.error('Fetch user error', err);
       res.status(500).send('Query failed');
     } else {
       res.json(results);

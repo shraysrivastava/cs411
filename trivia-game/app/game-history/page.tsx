@@ -22,10 +22,10 @@ export default function GameHistoryPage() {
 
   useEffect(() => {
     async function fetchSessions() {
-        // const userId = currentUser?.user_id; // assuming you store currentUser after login
-        // const res = await fetch(`http://localhost:8080/get-game-sessions?userId=${userId}`);
-// Pranav lmk when you have user_id stored.
-      const res = await fetch(`http://localhost:8080/get-game-sessions?userId=48`);
+        const username = localStorage.getItem("username");
+        const id = await fetch (`http://localhost:8080/get-user?username=${username}`)
+        const res = await fetch(`http://localhost:8080/get-game-sessions?user_id=${id}`);
+    //   const res = await fetch(`http://localhost:8080/get-game-sessions?userId=48`);
       const data = await res.json();
       setSessions(data);
     }
