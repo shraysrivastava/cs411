@@ -266,3 +266,54 @@ app.delete('/delete-question', (req, res) => {
 app.listen(port, () => {
   console.log(`Backend server running at http://localhost:${port}`);
 });
+
+app.post('/login', (req, res) => {
+  const { username, password } = req.body;
+
+  const query = `
+    SELECT user_id 
+    FROM User 
+    WHERE username = ? AND password = ?
+    LIMIT 1
+  `;
+
+  db.query(query, [username, password], (err, results) => {
+    if (err) {
+      console.error('Login query error:', err);
+      return res.status(500).send('Login failed');
+    }
+
+    if (results.length === 0) {
+      return res.status(401).send('Invalid username or password');
+    }
+
+    const user = results[0];
+    res.json({ user_id: user.user_id });
+  });
+});
+
+app.post('/signup', (req, res) => {
+  const { username, password } = req.body;
+
+  const checkQuery = `SELECT * FROM User WHERE username = ?`;
+  db.query(checkQuery, [username], (err, results) => {
+    if (err) {
+      console.error('Signup query error:', err);
+      return res.status(500).send('Signup failed');
+    }
+
+    if (results.length > 0) {
+      return res.status(409).send('Username already taken');
+    }
+
+    const insertQuery = `INSERT INTO User (username, password) VALUES (?, ?)`;
+    db.query(insertQuery, [username, password], (err, result) => {
+      if (err) {
+        console.error('User insert error:', err);
+        return res.status(500).send('Signup failed');
+      }
+
+      res.json({ user_id: result.insertId });
+    });
+  });
+});

@@ -20,7 +20,7 @@ export default function LoginPage() {
           Don't have an account?{" "}
           <Link href="/signup" className="underline underline-offset-4 hover:text-primary">
             Sign up
-          </Link>
+          </Link>pa
         </p>
       </div>
     </div>

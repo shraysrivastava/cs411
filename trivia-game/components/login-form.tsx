@@ -1,7 +1,6 @@
 "use client"
 
 import type React from "react"
-
 import { useState } from "react"
 import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
@@ -24,11 +23,23 @@ export function LoginForm() {
     setIsLoading(true)
 
     try {
-      await new Promise((resolve) => setTimeout(resolve, 1000))
+      const response = await fetch("http://localhost:8080/login", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ username, password }),
+      })
 
-      if (!username || !password) {
-        throw new Error("Please fill in all fields")
+      if (!response.ok) {
+        throw new Error("Invalid username or password")
       }
+
+      const data = await response.json()
+
+      // Save both user_id and username
+      localStorage.setItem("user_id", data.user_id)
+      localStorage.setItem("username", username)
 
       router.push("/")
     } catch (err) {
@@ -84,4 +95,3 @@ export function LoginForm() {
     </Card>
   )
 }
-

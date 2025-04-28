@@ -1,7 +1,6 @@
 "use client"
 
 import type React from "react"
-
 import { useState } from "react"
 import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
@@ -25,8 +24,6 @@ export function SignupForm() {
     setIsLoading(true)
 
     try {
-      await new Promise((resolve) => setTimeout(resolve, 1000))
-
       if (!username || !password || !confirmPassword) {
         throw new Error("Please fill in all fields")
       }
@@ -35,9 +32,30 @@ export function SignupForm() {
         throw new Error("Passwords do not match")
       }
 
+      const response = await fetch("http://localhost:8080/signup", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ username, password }),
+      })
+
+      if (!response.ok) {
+        if (response.status === 409) {
+          throw new Error("Username already taken")
+        }
+        throw new Error("Failed to create account")
+      }
+
+      const data = await response.json()
+
+      // Save both user_id and username
+      localStorage.setItem("user_id", data.user_id)
+      localStorage.setItem("username", username)
+
       router.push("/")
     } catch (err) {
-      setError(err instanceof Error ? err.message : "An error occurred")
+      setError(err instanceof Error ? err.message : "An error occurred signing up")
     } finally {
       setIsLoading(false)
     }
@@ -95,4 +113,5 @@ export function SignupForm() {
     </Card>
   )
 }
+
 
