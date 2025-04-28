@@ -34,6 +34,7 @@ app.get('/get-categories', (req, res) => {
   });
 });
 
+
 app.get('/get-questions', (req, res) => {
   const categoryId = req.query.category;
   const query = `CALL GetRandomQuestions(?);`;
