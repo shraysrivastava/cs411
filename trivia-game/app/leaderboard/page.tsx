@@ -1,29 +1,52 @@
+'use client';
+
+import { useState, useEffect } from "react";
 import LeaderboardTable from "@/components/leaderboard-table";
 
-export const metadata = {
-  title: "Leaderboard - Guess Dat",
-  description: "See the top players on Guess Dat!",
-};
+type LeaderboardEntry = {
+    username: string;
+    total_score: number;
+    total_sessions: number;
+    avg_score_per_session: number;
+  };
 
-async function getLeaderboardData() {
-  const res = await fetch(`http://localhost:8080/get-leaderboard`, {
-    cache: "no-store",
-  });
+export default function LeaderboardPage() {
+  const [data, setData] = useState<LeaderboardEntry[]>([]);
+  const [search, setSearch] = useState("");
 
-  if (!res.ok) {
-    throw new Error("Failed to fetch leaderboard");
-  }
+  useEffect(() => {
+    async function fetchLeaderboard() {
+      try {
+        const res = await fetch(`http://localhost:8080/get-leaderboard`, {
+          cache: "no-store",
+        });
+        const leaderboardData = await res.json();
+        setData(leaderboardData);
+      } catch (error) {
+        console.error("Failed to fetch leaderboard", error);
+      }
+    }
 
-  return res.json();
-}
+    fetchLeaderboard();
+  }, []);
 
-export default async function LeaderboardPage() {
-  const data = await getLeaderboardData();
+  const filteredData = data.filter((entry) =>
+    entry.username.toLowerCase().includes(search.toLowerCase())
+  );
 
   return (
     <div className="container flex flex-col items-center py-12">
       <h1 className="text-3xl font-semibold tracking-tight mb-8">Leaderboard</h1>
-      <LeaderboardTable data={data} />
+
+      <input
+        type="text"
+        placeholder="Search username..."
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        className="mb-6 w-full max-w-md rounded-md border px-4 py-2"
+      />
+
+      <LeaderboardTable data={filteredData} />
     </div>
   );
 }
