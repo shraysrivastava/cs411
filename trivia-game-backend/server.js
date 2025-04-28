@@ -47,6 +47,24 @@ app.get('/get-questions', (req, res) => {
   });
 });
 
+app.get('/get-leaderboard', (req, res) => {
+  const query = `
+    SELECT username, total_score, total_sessions, avg_score_per_session
+    FROM Leaderboard
+    ORDER BY total_score DESC;
+  `;
+
+  db.query(query, (err, results) => {
+    if (err) {
+      console.error('Leaderboard query error:', err);
+      res.status(500).send('Query failed');
+    } else {
+      res.json(results);
+    }
+  });
+});
+
+
 app.post('/session-complete', (req, res) => {
   const { user_id, score, num_correct, attempts, time_elapsed, answers } = req.body;
 
