@@ -51,16 +51,16 @@ app.get('/get-questions', (req, res) => {
 
 
 app.get('/get-game-sessions', (req, res) => {
-  const { userId } = req.query;
+  const { user_id } = req.query;
   const query = `
     SELECT session_id, time_elapsed, score, num_correct, attempts
     FROM GameSession
-    WHERE userId = ?
+    WHERE user_id = ?
     ORDER BY session_id DESC
     LIMIT 20;
   `;
 
-  db.query(query, [userId], (err, results) => {
+  db.query(query, [user_id], (err, results) => {
     if (err) {
       console.error('Game sessions query error:', err);
       res.status(500).send('Query failed');
@@ -73,17 +73,17 @@ app.get('/get-game-sessions', (req, res) => {
 app.get('/get-user', (req, res) => {
   const { username } = req.query;
   const query = `
-    SELECT userId
+    SELECT user_id
     FROM User
     WHERE username = ?;
   `;
 
-  db.query(query, [userId], (err, results) => {
+  db.query(query, [username], (err, results) => {
     if (err) {
       console.error('Fetch user error', err);
       res.status(500).send('Query failed');
     } else {
-      res.json(results);
+      res.json(results[0]);
     }
   });
 });
@@ -127,7 +127,8 @@ app.get('/get-leaderboard', (req, res) => {
 
 
 app.post('/session-complete', (req, res) => {
-  const { user_id, score, num_correct, attempts, time_elapsed, answers } = req.body;
+  
+  const { user_id , score, num_correct, attempts, time_elapsed, answers } = req.body;
 
   db.beginTransaction(err => {
     if (err) {

@@ -22,11 +22,16 @@ export default function GameHistoryPage() {
 
   useEffect(() => {
     async function fetchSessions() {
-        const username = localStorage.getItem("username");
-        const id = await fetch (`http://localhost:8080/get-user?username=${username}`)
-        const res = await fetch(`http://localhost:8080/get-game-sessions?user_id=${id}`);
+      const username = localStorage.getItem("username");
+
+      const res = await fetch(`http://localhost:8080/get-user?username=${username}`);
+      const userData = await res.json();
+      const userId = userData.user_id;
+
+
+      const ress = await fetch(`http://localhost:8080/get-game-sessions?user_id=${userId}`);
     //   const res = await fetch(`http://localhost:8080/get-game-sessions?userId=48`);
-      const data = await res.json();
+      const data = await ress.json();
       setSessions(data);
     }
     fetchSessions();
