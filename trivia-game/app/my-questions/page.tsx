@@ -38,7 +38,13 @@ export default function MyQuestionsPage() {
   const [editingData, setEditingData] = useState<Question | null>(null);
 
   const fetchQuestions = async () => {
-    const res = await fetch("http://localhost:8080/user-questions?user_id=1");
+
+    const curr_user = localStorage.getItem("username")
+    const ressy = await fetch(`http://localhost:8080/get-user?username=${curr_user}`);
+    const userData = await ressy.json();
+    const userId = userData.user_id;
+
+    const res = await fetch(`http://localhost:8080/user-questions?user_id=${userId}`);
     const data = await res.json();
     setQuestions(data);
   };
@@ -55,12 +61,17 @@ export default function MyQuestionsPage() {
   }, []);
 
   const handleAddQuestion = async () => {
+    const curr_user = localStorage.getItem("username")
+    const res = await fetch(`http://localhost:8080/get-user?username=${curr_user}`);
+    const userData = await res.json();
+    const userId = userData.user_id;
+
     await fetch("http://localhost:8080/add-question", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         ...newQuestion,
-        user_id: 1 //pranav vhange this to current user id
+        user_id: userId //pranav vhange this to current user id
       })
     });
     setNewQuestion({
